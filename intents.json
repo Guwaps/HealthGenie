@@ -1,0 +1,144 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Good morning",
+                "Good evening",
+                "Hey",
+                "What's up?",
+                "Yo"
+            ],
+            "responses": [
+                "Hello {username}! How can I assist you today?",
+                "Hi there {username}! What can I do for you?",
+                "Greetings {username}! How may I help you?",
+                "Wassup, you need my help?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you later",
+                "Take care",
+                "I'm leaving",
+                "Catch you later",
+                "Have a nice day"
+            ],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "See you later! If you need anything, just ask.",
+                "Take care! Looking forward to our next chat."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "What is your name?",
+                "Can you tell me your name?",
+                "What's your name?"
+            ],
+            "responses": [
+                "I'm HealthGinie, your health assistant!",
+                "I go by HealthGinie. How can I help you?",
+                "You can call me HealthGinie."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "help",
+            "patterns": [
+                "Can you help me?",
+                "I need assistance",
+                "Help me",
+                "What can you do?"
+            ],
+            "responses": [
+                "Of course! I'm here to help you with your health queries. What do you need assistance with?",
+                "Absolutely! Just let me know what you're looking for, and I'll do my best to assist.",
+                "I'm here to provide information and support related to health. Is there a specific topic you're interested in?"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "blood_pressure_query",
+            "patterns": [
+                "Can you check my blood pressure?",
+                "Can you show me my blood pressure?",
+                "What is my blood pressure?",
+                "Do you have my blood pressure data?",
+                "Check my BP",
+                "Show my blood pressure records",
+                "Can I see my blood pressure records"
+            ],
+            "responses": [
+                "Let me check your records for the latest blood pressure readings.",
+                "I'll retrieve your blood pressure information for you.",
+                "Just a moment, let me find your blood pressure data."
+            ],
+            "context_set": ""
+        },
+         {
+            "tag": "yes_blood_pressure_recorded",
+            "patterns": [
+                "blood pressure record"
+            ],
+            "responses": [
+                 "Your last recorded blood pressure was {Systolic_BP}/{Diastolic_BP} on {Date}.",
+                "Your previous blood pressure reading was: Systolic {Systolic_BP}, Diastolic {Diastolic_BP} taken on {Date}."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "no_blood_pressure_recorded",
+            "patterns": [
+                "no blood pressure recorded"
+            ],
+            "responses": [
+                "It looks like there's no blood pressure data recorded for you yet. Would you like to record a reading now?",
+                "I couldn't find any previous blood pressure readings. You can enter a new reading to get started.",
+                "No records found. Would you like to update me with your latest blood pressure?"
+            ],
+            "context_set": "ask_for_bp"
+        },
+        {
+            "tag": "confirm_bp_entry",
+            "patterns": [
+                "Yes, I want to record it",
+                "I want to enter my blood pressure",
+                "Let me add my blood pressure",
+                "Let me add my BP",
+                "Yes, let's do it",
+                "Sure, I'll add it now"
+            ],
+            "responses": [
+                "Great! Please provide your systolic and diastolic blood pressure as 'Systolic/Diastolic'.",
+                "Okay, let's start. What's your blood pressure in this format: 'Systolic/Diastolic'?",
+                "Sure, what is your systolic and diastolic BP in 'Systolic/Diastolic' format?"
+            ],
+            "context_set": "ask_for_bp_entry"
+        },
+       {
+            "tag": "bp_entry",
+            "patterns": [
+                "My blood pressure is {Systolic_BP}/{Diastolic_BP}",
+                "I have a blood pressure of {Systolic_BP}/{Diastolic_BP}",
+                "BP {Systolic_BP}/{Diastolic_BP}",
+                "{Systolic_BP}/{Diastolic_BP}",
+                "My BP is {Systolic_BP}/{Diastolic_BP}",
+                "Blood pressure {Systolic_BP}/{Diastolic_BP}"
+            ],
+            "responses": [
+                "Got it! Your systolic is {Systolic_BP} and diastolic is {Diastolic_BP}.",
+                "Thanks for sharing! Systolic: {Systolic_BP}, Diastolic: {Diastolic_BP}."
+            ]
+       }
+
+    ]
+}
