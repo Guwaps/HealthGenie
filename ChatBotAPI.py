@@ -7,7 +7,6 @@ import numpy
 from nltk.stem import LancasterStemmer
 import tensorflow as tf
 from tensorflow.python.keras.engine import data_adapter
-
 import re  # Add import for regex
 
 # Fix for TensorFlow DistributedDataset error
@@ -16,7 +15,11 @@ def _is_distributed_dataset(ds):
 
 data_adapter._is_distributed_dataset = _is_distributed_dataset
 
-nltk.download('punkt')
+# Set the path to the local nltk_data folder
+nltk_data_path = os.path.join(os.path.dirname(__file__), "nltk_data")
+nltk.data.path.append(nltk_data_path)
+
+nltk.download('punkt', download_dir=nltk_data_path)
 
 stemmer = LancasterStemmer()
 
@@ -35,6 +38,7 @@ else:
     labels = []
     docs_x = []
     docs_y = []
+    
     for intent in data["intents"]:
         for pattern in intent["patterns"]:
             wrds = nltk.word_tokenize(pattern)
@@ -51,6 +55,7 @@ else:
     training = []
     output = []
     output_empty = [0 for _ in range(len(labels))]
+    
     for x, doc in enumerate(docs_x):
         bag = []
         wrds = [stemmer.stem(w.lower()) for w in doc]
@@ -73,11 +78,10 @@ if os.path.exists('chatbotmodel.json'):
     with open('chatbotmodel.json', 'r') as json_file:
         loaded_model_json = json_file.read()
     myChatModel = tf.keras.models.load_model('chatbotmodel.keras')
-    myChatModel.save('chatbotmodel.keras')
     print("Loaded model from disk")
 else:
     print("No model found, creating a new model...")
-    myChatModel = tf.keras.Sequential()  # Corrected here
+    myChatModel = tf.keras.Sequential()
     myChatModel.add(tf.keras.layers.Dense(8, input_shape=[len(words)], activation='relu'))
     myChatModel.add(tf.keras.layers.Dense(len(labels), activation='softmax'))
 
@@ -89,8 +93,6 @@ else:
         json_file.write(model_json)
     myChatModel.save('chatbotmodel.keras')
     print("Saved model to disk")
-
-
 
 # Define bag_of_words and chat functions
 def bag_of_words(s, words):
@@ -127,7 +129,6 @@ def chatWithBot(inputText, inputTag=None):
     # Debug: Print the detected tag and confidence level
     print(f"Detected tag: {tag} with confidence {result[0][result_index]}")
 
-
     for tg in data["intents"]:
         if tg["tag"] == tag:
             responses = tg["responses"]
@@ -135,8 +136,6 @@ def chatWithBot(inputText, inputTag=None):
             return selected_response, tag
 
     return "Sorry, I couldn't understand.", "unknown"
-
-
 
 def chat():
     print("Start talking with the chatbot (type 'quit' to stop)")
@@ -175,4 +174,5 @@ def chat():
 
         print(f"Bot (tag: {tag}): {response}")
 
+# Uncomment to start the chat
 # chat()
