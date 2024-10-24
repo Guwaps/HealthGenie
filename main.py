@@ -136,6 +136,13 @@ def predict_custom():
     else:
         return jsonify({'error': 'Systolic and Diastolic values must be provided'}), 400
 
+@app.route('/')
+def home():
+    return "Welcome to HealthGinie!"
+
+@app.route('/ping', methods=['GET'])
+def ping():
+    return "Server is up and running!"
 
 if __name__ == '__main__':
-    app.run(host='192.168.249.236', debug=True)
+    app.run()
