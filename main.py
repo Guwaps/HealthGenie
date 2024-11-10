@@ -2,7 +2,7 @@ import datetime
 from flask import Flask, request, jsonify
 import re
 import joblib
-import pandas as pd
+import numpy as np
 from ChatBotAPI import chatWithBot
 from forecasting_healthData import train_models, predict_future
 
@@ -84,57 +84,66 @@ def chat_bot():
         return jsonify({'error': 'No input provided'}), 400
 
 
+# Function to classify blood pressure stage
 def classify_blood_pressure(systolic, diastolic):
-    """Classify blood pressure based on systolic and diastolic values."""
     if systolic < 120 and diastolic < 80:
-        return "Normal"  # Green
+        return "Normal"
     elif 120 <= systolic <= 129 and diastolic < 80:
-        return "Elevated"  # Yellow
+        return "Elevated"
     elif (130 <= systolic <= 139) or (80 <= diastolic <= 89):
-        return "High Blood Pressure (Hypertension) Stage 1"  # Orange
+        return "High Blood Pressure (Hypertension) Stage 1"
     elif systolic >= 140 or diastolic >= 90:
-        return "High Blood Pressure (Hypertension) Stage 2"  # Brown
+        return "High Blood Pressure (Hypertension) Stage 2"
     elif systolic > 180 or diastolic > 120:
-        return "Hypertensive Crisis (consult your doctor immediately)"  # Red
+        return "Hypertensive Crisis (consult your doctor immediately)"
     else:
-        return "Normal"  # Default to normal if logic fails
-
+        return "Normal"
 
 @app.route('/predict_sickness', methods=['POST'])
 def predict_custom():
-    """Endpoint to predict blood pressure stage and possible sickness."""
+    """Endpoint to predict blood pressure stage and multiple possible sicknesses."""
     data = request.get_json()
-    print("Received custom prediction input:", data)  # Debugging log
+    print("Received input:", data)  # Debugging log
 
     systolic = data.get('systolic')
     diastolic = data.get('diastolic')
 
     if systolic is not None and diastolic is not None:
-        # Load the sickness prediction model and mappings
-        sickness_model = joblib.load('sickness_prediction_model.pkl')
-        sickness_mapping = joblib.load('sickness_mapping.pkl')
+        try:
+            # Load model and label encoder
+            sickness_model = joblib.load('sickness/sickness_prediction_model.pkl')
+            label_encoder = joblib.load('sickness/sickness_label_encoder.pkl')
 
-        # Classify the blood pressure stage
-        bp_stage = classify_blood_pressure(systolic, diastolic)
+            # Classify blood pressure stage
+            bp_stage = classify_blood_pressure(systolic, diastolic)
 
-        if bp_stage == "Normal":
-            possible_sickness = "No sickness detected"
-        else:
-            # Predict sickness (round to the nearest integer for classification)
-            sickness_pred = sickness_model.predict([[systolic, diastolic]])[0]
-            sickness_pred = int(round(sickness_pred))
-            possible_sickness = sickness_mapping.get(sickness_pred, "Unknown Sickness")
+            if bp_stage == "Normal":
+                possible_sicknesses = ["No sickness detected"]
+            else:
+                # Predict probabilities for each sickness class
+                sickness_probs = sickness_model.predict_proba([[systolic, diastolic]])[0]
 
-        # Prepare response
-        response = {
-            'blood_pressure_stage': bp_stage,
-            'possible_sickness': possible_sickness
-        }
+                # Get top N sickness predictions (e.g., top 3)
+                top_n = 3
+                top_indices = np.argsort(sickness_probs)[::-1][:top_n]
+                possible_sicknesses = label_encoder.inverse_transform(top_indices).tolist()
 
-        print(f"Response: {response}")  # Debugging log
-        return jsonify(response)
+            # Prepare the response
+            response = {
+                'blood_pressure_stage': bp_stage,
+                'possible_sicknesses': possible_sicknesses
+            }
+
+            print(f"Response: {response}")  # Debugging log
+            return jsonify(response)
+
+        except Exception as e:
+            print(f"Error: {e}")  # Debugging log
+            return jsonify({'error': 'Internal server error'}), 500
     else:
         return jsonify({'error': 'Systolic and Diastolic values must be provided'}), 400
+
+
 
 @app.route('/')
 def home():
@@ -145,4 +154,6 @@ def ping():
     return "Server is up and running!"
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='192.168.210.236', port=5000)
+    # app.run(debug=True)
+

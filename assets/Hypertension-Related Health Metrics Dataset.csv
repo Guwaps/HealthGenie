@@ -1,0 +1,2149 @@
+ID,Age,Systolic_BP,Diastolic_BP,Heart_Rate,Cholesterol_Level,Blood_Sugar,BMI,Smoking_History,Symptom_Duration_Days,Hypertension_Level,Possible_Sickness
+1,50,161,85,102,266,122,32.3,1,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2,23,124,84,95,212,133,18.6,0,20,Stage 1 Hypertension,Occipital Headache
+3,54,181,89,62,276,152,24.2,1,24,Hypertensive Crisis,Nausea
+4,31,170,70,86,282,116,22.0,0,17,Stage 2 Hypertension,Chronic Fatigue
+5,54,130,66,73,197,75,25.6,0,25,Stage 1 Hypertension,Chronic Fatigue
+6,25,192,90,51,152,85,19.2,0,14,Hypertensive Crisis,Vertigo
+7,30,196,103,63,265,141,34.2,0,23,Hypertensive Crisis,Chronic Fatigue
+8,57,184,69,59,248,87,21.8,1,28,Hypertensive Crisis,Tension-Type Headache
+9,75,184,98,84,265,121,33.7,0,18,Hypertensive Crisis,Chronic Fatigue
+10,35,197,72,74,163,117,25.2,0,27,Hypertensive Crisis,Blurry Vision
+11,74,133,90,52,261,112,34.8,0,28,Stage 2 Hypertension,Chronic Fatigue
+12,55,112,66,66,210,108,27.4,1,22,Normal,Postural Hypotension
+13,49,131,115,61,244,118,33.8,1,24,Stage 2 Hypertension,Vertigo
+14,83,162,108,103,166,81,18.1,1,27,Stage 2 Hypertension,Tension-Type Headache
+15,42,111,101,73,273,178,30.7,1,5,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+16,75,197,101,78,173,79,33.4,0,22,Hypertensive Crisis,Occipital Headache
+17,50,139,115,92,265,140,20.4,0,12,Stage 2 Hypertension,Palpitations
+18,83,147,95,74,231,179,19.6,0,10,Stage 2 Hypertension,Occipital Headache
+19,47,111,79,109,199,124,25.2,1,8,Normal,Nausea
+20,51,173,63,114,228,70,33.9,1,29,Stage 2 Hypertension,Palpitations
+21,65,169,113,77,228,118,27.2,0,6,Stage 2 Hypertension,Blurry Vision
+22,57,130,66,65,219,105,27.0,0,28,Stage 1 Hypertension,Shortness of Breath
+23,68,142,113,96,176,90,20.4,0,25,Stage 2 Hypertension,Vertigo
+24,30,185,60,107,164,106,18.0,1,15,Hypertensive Crisis,Hypertensive Crisis Symptoms
+25,48,167,103,76,199,93,31.8,0,12,Stage 2 Hypertension,Occipital Headache
+26,56,131,115,102,185,124,19.5,0,25,Stage 2 Hypertension,Chronic Fatigue
+27,80,198,104,91,157,94,28.8,1,25,Hypertensive Crisis,Vertigo
+28,65,158,101,108,228,76,33.5,1,6,Stage 2 Hypertension,Chronic Fatigue
+29,65,168,106,96,280,175,21.5,0,12,Stage 2 Hypertension,Vertigo
+30,78,151,118,83,196,150,29.3,1,15,Stage 2 Hypertension,Vertigo
+31,29,169,72,86,254,162,19.3,0,12,Stage 2 Hypertension,Nausea
+32,73,189,114,55,247,163,28.3,0,9,Hypertensive Crisis,Postural Hypotension
+33,35,124,81,56,245,140,20.8,0,19,Stage 1 Hypertension,Blurry Vision
+34,44,171,113,74,265,166,30.5,0,21,Stage 2 Hypertension,Chronic Fatigue
+35,45,171,80,82,162,140,23.1,1,2,Stage 2 Hypertension,Chronic Fatigue
+36,69,156,81,104,150,93,25.9,1,28,Stage 2 Hypertension,Chronic Fatigue
+37,33,171,87,107,183,80,28.2,1,13,Stage 2 Hypertension,Nausea
+38,75,160,68,56,228,142,20.9,0,13,Stage 2 Hypertension,Occipital Headache
+39,26,164,85,106,227,81,30.6,0,8,Stage 2 Hypertension,Tension-Type Headache
+40,43,173,68,61,270,104,23.1,0,27,Stage 2 Hypertension,Chronic Fatigue
+41,45,112,74,65,242,132,29.3,1,13,Normal,Occipital Headache
+42,53,160,69,92,247,137,20.7,1,4,Stage 2 Hypertension,Postural Hypotension
+43,26,116,83,56,231,169,29.7,0,6,Stage 1 Hypertension,Chronic Fatigue
+44,64,130,117,100,187,161,20.2,1,6,Stage 2 Hypertension,Blurry Vision
+45,68,182,116,81,163,126,25.2,1,21,Hypertensive Crisis,Hypertensive Crisis Symptoms
+46,74,148,101,57,285,82,22.2,1,12,Stage 2 Hypertension,Shortness of Breath
+47,49,127,67,94,240,92,30.7,1,12,Elevated,Chronic Fatigue
+48,84,113,83,108,203,152,22.5,0,17,Stage 1 Hypertension,Tension-Type Headache
+49,74,198,75,53,279,175,33.0,1,27,Hypertensive Crisis,Hypertensive Crisis Symptoms
+50,71,169,108,116,250,170,33.2,0,7,Stage 2 Hypertension,Blurry Vision
+51,33,123,85,78,238,108,21.3,1,26,Stage 1 Hypertension,Nausea
+52,79,118,86,78,205,157,28.4,0,15,Stage 1 Hypertension,Shortness of Breath
+53,73,199,96,77,243,149,19.5,0,24,Hypertensive Crisis,Nausea
+54,40,162,63,93,242,166,24.7,1,17,Stage 2 Hypertension,Tension-Type Headache
+55,34,111,109,53,233,81,30.1,0,10,Stage 2 Hypertension,Shortness of Breath
+56,55,193,83,58,234,103,29.2,0,23,Hypertensive Crisis,Tension-Type Headache
+57,47,169,78,54,171,140,28.6,1,20,Stage 2 Hypertension,Nausea
+58,75,180,95,105,184,144,22.8,0,6,Hypertensive Crisis,Blurry Vision
+59,39,153,119,99,165,100,24.4,1,9,Stage 2 Hypertension,Shortness of Breath
+60,34,117,98,64,199,162,19.8,0,15,Stage 2 Hypertension,Palpitations
+61,32,156,69,81,271,131,30.2,1,16,Stage 2 Hypertension,Occipital Headache
+62,65,144,84,77,277,82,26.6,1,21,Stage 2 Hypertension,Blurry Vision
+63,49,187,77,71,262,100,30.0,1,8,Hypertensive Crisis,Shortness of Breath
+64,57,190,78,66,166,71,22.2,1,16,Hypertensive Crisis,Tension-Type Headache
+65,74,145,95,108,229,172,23.5,1,5,Stage 2 Hypertension,Tension-Type Headache
+66,75,159,69,106,279,84,23.7,0,18,Stage 2 Hypertension,Postural Hypotension
+67,33,113,92,75,281,126,18.4,0,20,Stage 2 Hypertension,Blurry Vision
+68,45,111,114,74,234,144,23.8,1,14,Stage 2 Hypertension,Tension-Type Headache
+69,18,115,109,59,243,103,31.7,0,2,Stage 2 Hypertension,Vertigo
+70,58,163,64,94,283,172,33.3,0,23,Stage 2 Hypertension,Occipital Headache
+71,65,113,106,60,230,137,26.8,0,23,Stage 2 Hypertension,Nausea
+72,48,163,108,102,218,144,25.7,1,3,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+73,53,172,94,117,218,98,18.5,1,14,Stage 2 Hypertension,Postural Hypotension
+74,50,127,103,77,297,135,32.9,0,29,Stage 2 Hypertension,Tension-Type Headache
+75,50,199,93,114,165,85,18.2,1,7,Hypertensive Crisis,Vertigo
+76,40,153,92,98,200,108,34.1,1,15,Stage 2 Hypertension,Postural Hypotension
+77,77,143,114,96,254,146,26.3,0,17,Stage 2 Hypertension,Vertigo
+78,47,183,80,101,215,106,23.8,1,1,Hypertensive Crisis,Postural Hypotension
+79,62,171,76,103,158,150,33.7,1,9,Stage 2 Hypertension,Tension-Type Headache
+80,56,123,81,109,256,90,18.4,1,22,Stage 1 Hypertension,Vertigo
+81,62,157,107,106,249,113,27.9,1,29,Stage 2 Hypertension,Shortness of Breath
+82,29,124,96,96,235,88,27.3,1,14,Stage 2 Hypertension,Blurry Vision
+83,49,181,74,80,213,140,21.7,0,16,Hypertensive Crisis,Hypertensive Crisis Symptoms
+84,73,187,94,95,171,171,25.3,1,28,Hypertensive Crisis,Nausea
+85,41,196,87,75,259,77,29.1,1,21,Hypertensive Crisis,Hypertensive Crisis Symptoms
+86,30,171,66,54,246,146,30.4,0,13,Stage 2 Hypertension,Nausea
+87,37,149,91,101,167,170,18.0,0,6,Stage 2 Hypertension,Palpitations
+88,73,194,70,103,220,135,33.9,1,22,Hypertensive Crisis,Occipital Headache
+89,70,189,69,82,276,110,20.8,0,1,Hypertensive Crisis,Palpitations
+90,85,191,68,99,246,144,22.0,1,21,Hypertensive Crisis,Chronic Fatigue
+91,71,162,73,87,150,157,22.5,0,25,Stage 2 Hypertension,Tension-Type Headache
+92,51,133,72,76,281,139,18.6,1,4,Stage 1 Hypertension,Shortness of Breath
+93,45,135,116,64,153,130,20.1,0,3,Stage 2 Hypertension,Blurry Vision
+94,67,198,84,110,274,95,34.8,1,17,Hypertensive Crisis,Shortness of Breath
+95,19,169,61,70,231,140,23.4,0,2,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+96,43,150,94,95,176,172,20.0,1,19,Stage 2 Hypertension,Nausea
+97,68,138,66,118,208,152,19.8,1,20,Stage 1 Hypertension,Palpitations
+98,64,124,80,55,181,139,30.2,1,23,Stage 1 Hypertension,Shortness of Breath
+99,43,154,77,87,177,176,32.5,0,22,Stage 2 Hypertension,Palpitations
+100,78,174,62,111,255,98,22.4,0,27,Stage 2 Hypertension,Occipital Headache
+101,40,198,101,111,254,176,18.4,1,8,Hypertensive Crisis,Occipital Headache
+102,54,180,113,95,219,172,21.8,1,25,Hypertensive Crisis,Nausea
+103,58,118,98,62,211,135,19.0,1,15,Stage 2 Hypertension,Chronic Fatigue
+104,69,197,100,52,183,88,19.8,1,6,Hypertensive Crisis,Shortness of Breath
+105,66,110,108,55,236,137,25.3,0,23,Stage 2 Hypertension,Blurry Vision
+106,44,117,70,57,263,127,21.9,0,20,Normal,Palpitations
+107,23,197,98,93,255,139,26.8,0,2,Hypertensive Crisis,Palpitations
+108,83,172,83,82,205,126,22.3,1,25,Stage 2 Hypertension,Occipital Headache
+109,41,120,119,99,262,106,34.0,1,25,Stage 2 Hypertension,Tension-Type Headache
+110,55,190,105,60,162,130,33.4,0,15,Hypertensive Crisis,Nausea
+111,45,117,78,77,167,161,27.6,0,20,Normal,Palpitations
+112,45,144,63,119,262,99,24.0,0,12,Stage 2 Hypertension,Occipital Headache
+113,83,144,85,90,188,140,24.5,0,3,Stage 2 Hypertension,Occipital Headache
+114,78,142,97,65,228,142,25.0,1,10,Stage 2 Hypertension,Vertigo
+115,63,114,101,117,295,94,30.4,1,14,Stage 2 Hypertension,Palpitations
+116,60,150,91,97,179,166,25.7,1,27,Stage 2 Hypertension,Vertigo
+117,76,137,98,105,247,134,32.6,0,22,Stage 2 Hypertension,Blurry Vision
+118,19,116,104,113,207,75,34.0,1,14,Stage 2 Hypertension,Blurry Vision
+119,32,182,105,108,216,87,23.7,0,3,Hypertensive Crisis,Occipital Headache
+120,54,181,95,111,220,79,27.5,0,1,Hypertensive Crisis,Tension-Type Headache
+121,37,121,99,60,295,161,19.6,0,20,Stage 2 Hypertension,Tension-Type Headache
+122,52,143,96,67,255,80,21.4,0,1,Stage 2 Hypertension,Vertigo
+123,51,142,92,68,156,166,25.0,0,2,Stage 2 Hypertension,Occipital Headache
+124,48,157,95,104,189,134,21.5,1,19,Stage 2 Hypertension,Vertigo
+125,36,132,62,75,219,146,32.9,1,24,Stage 1 Hypertension,Nausea
+126,85,171,68,55,217,170,20.7,1,10,Stage 2 Hypertension,Vertigo
+127,41,197,67,53,198,153,25.7,0,4,Hypertensive Crisis,Chronic Fatigue
+128,56,146,92,78,201,134,28.3,1,4,Stage 2 Hypertension,Palpitations
+129,71,153,118,108,263,121,29.8,0,13,Stage 2 Hypertension,Blurry Vision
+130,56,195,65,66,256,136,24.5,1,26,Hypertensive Crisis,Postural Hypotension
+131,34,144,100,92,178,151,32.8,0,9,Stage 2 Hypertension,Occipital Headache
+132,36,174,98,115,298,174,27.7,0,7,Stage 2 Hypertension,Tension-Type Headache
+133,65,156,63,83,227,147,25.5,1,16,Stage 2 Hypertension,Shortness of Breath
+134,52,187,72,57,158,100,19.1,0,18,Hypertensive Crisis,Palpitations
+135,49,112,108,62,225,160,25.9,1,3,Stage 2 Hypertension,Postural Hypotension
+136,64,110,119,57,191,86,32.0,1,20,Stage 2 Hypertension,Chronic Fatigue
+137,64,114,61,114,277,124,28.4,1,20,Normal,Shortness of Breath
+138,81,199,119,92,169,179,32.1,0,10,Hypertensive Crisis,Tension-Type Headache
+139,63,123,64,88,221,162,26.4,0,24,Elevated,Chronic Fatigue
+140,52,136,103,108,214,105,20.0,0,26,Stage 2 Hypertension,Tension-Type Headache
+141,34,118,86,93,262,170,18.2,0,26,Stage 1 Hypertension,Tension-Type Headache
+142,59,188,91,58,173,95,23.2,1,22,Hypertensive Crisis,Occipital Headache
+143,46,124,80,86,277,122,29.9,0,16,Stage 1 Hypertension,Shortness of Breath
+144,34,199,67,85,232,86,31.4,1,3,Hypertensive Crisis,Nausea
+145,31,151,97,77,212,155,23.0,1,11,Stage 2 Hypertension,Vertigo
+146,41,186,67,91,209,94,26.4,0,25,Hypertensive Crisis,Vertigo
+147,74,160,109,92,248,71,25.2,0,10,Stage 2 Hypertension,Palpitations
+148,67,172,62,91,211,155,25.0,1,16,Stage 2 Hypertension,Tension-Type Headache
+149,74,161,113,115,179,74,21.9,0,8,Stage 2 Hypertension,Palpitations
+150,78,113,103,104,171,73,20.3,1,9,Stage 2 Hypertension,Shortness of Breath
+151,56,132,117,97,275,105,21.3,0,15,Stage 2 Hypertension,Tension-Type Headache
+152,72,124,62,71,191,75,18.9,0,21,Elevated,Tension-Type Headache
+153,53,152,81,76,247,90,21.4,1,3,Stage 2 Hypertension,Postural Hypotension
+154,54,138,65,116,180,146,18.2,1,4,Stage 1 Hypertension,Blurry Vision
+155,31,145,61,62,261,170,28.7,1,13,Stage 2 Hypertension,Vertigo
+156,44,122,82,94,295,158,23.4,0,12,Stage 1 Hypertension,Shortness of Breath
+157,48,141,103,59,271,95,34.5,0,21,Stage 2 Hypertension,Chronic Fatigue
+158,61,180,61,58,166,124,21.3,0,9,Hypertensive Crisis,Chronic Fatigue
+159,85,168,97,103,187,108,23.9,1,25,Stage 2 Hypertension,Nausea
+160,65,195,76,76,291,153,24.1,1,14,Hypertensive Crisis,Hypertensive Crisis Symptoms
+161,74,137,94,83,259,102,18.1,0,19,Stage 2 Hypertension,Shortness of Breath
+162,39,175,93,50,171,83,32.3,1,7,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+163,21,151,82,81,205,125,18.5,0,16,Stage 2 Hypertension,Postural Hypotension
+164,63,154,89,116,268,169,34.0,1,22,Stage 2 Hypertension,Chronic Fatigue
+165,76,171,111,69,296,150,33.2,0,20,Stage 2 Hypertension,Shortness of Breath
+166,51,166,67,84,206,90,27.1,0,5,Stage 2 Hypertension,Tension-Type Headache
+167,28,115,81,66,184,115,27.2,0,10,Stage 1 Hypertension,Blurry Vision
+168,48,137,103,67,263,85,29.1,1,18,Stage 2 Hypertension,Occipital Headache
+169,28,137,117,94,274,179,24.6,1,11,Stage 2 Hypertension,Blurry Vision
+170,73,153,95,102,278,85,29.0,0,7,Stage 2 Hypertension,Nausea
+171,55,193,64,117,201,153,18.8,0,14,Hypertensive Crisis,Chronic Fatigue
+172,38,139,72,114,234,98,18.9,0,20,Stage 1 Hypertension,Palpitations
+173,27,171,88,50,214,161,25.8,0,18,Stage 2 Hypertension,Palpitations
+174,43,184,90,107,278,77,27.3,0,11,Hypertensive Crisis,Occipital Headache
+175,25,198,106,75,170,157,33.1,0,22,Hypertensive Crisis,Chronic Fatigue
+176,25,171,116,69,165,72,19.8,1,27,Stage 2 Hypertension,Shortness of Breath
+177,77,110,114,59,272,158,32.0,1,12,Stage 2 Hypertension,Tension-Type Headache
+178,51,136,75,108,210,88,21.6,1,18,Stage 1 Hypertension,Nausea
+179,33,171,101,90,203,166,24.7,1,26,Stage 2 Hypertension,Palpitations
+180,30,186,89,54,175,135,23.4,0,2,Hypertensive Crisis,Occipital Headache
+181,39,112,116,114,229,148,24.8,0,23,Stage 2 Hypertension,Blurry Vision
+182,44,179,114,66,214,155,20.6,0,1,Stage 2 Hypertension,Tension-Type Headache
+183,81,181,75,71,249,143,26.6,1,23,Hypertensive Crisis,Palpitations
+184,19,136,71,90,223,151,31.6,1,10,Stage 1 Hypertension,Blurry Vision
+185,43,118,76,117,166,91,25.5,0,21,Normal,Shortness of Breath
+186,47,171,75,118,270,115,26.3,1,1,Stage 2 Hypertension,Blurry Vision
+187,25,146,71,60,172,160,32.4,1,6,Stage 2 Hypertension,Tension-Type Headache
+188,55,160,67,105,284,82,30.0,0,7,Stage 2 Hypertension,Blurry Vision
+189,78,153,79,100,220,102,26.3,0,17,Stage 2 Hypertension,Shortness of Breath
+190,82,133,62,70,257,74,22.4,0,9,Stage 1 Hypertension,Nausea
+191,84,188,75,75,228,159,33.0,1,7,Hypertensive Crisis,Tension-Type Headache
+192,63,168,89,68,195,146,27.8,0,17,Stage 2 Hypertension,Nausea
+193,60,141,104,109,227,96,21.8,0,3,Stage 2 Hypertension,Occipital Headache
+194,76,197,82,96,165,147,22.6,0,16,Hypertensive Crisis,Chronic Fatigue
+195,63,161,87,75,220,93,31.7,1,5,Stage 2 Hypertension,Blurry Vision
+196,52,171,110,89,245,136,18.8,1,20,Stage 2 Hypertension,Postural Hypotension
+197,56,167,99,54,296,132,34.9,0,18,Stage 2 Hypertension,Nausea
+198,68,161,113,70,151,163,20.2,0,1,Stage 2 Hypertension,Shortness of Breath
+199,21,121,64,53,159,168,31.5,1,4,Elevated,Palpitations
+200,68,148,79,72,274,117,24.7,1,23,Stage 2 Hypertension,Nausea
+201,22,111,99,64,230,132,26.4,0,11,Stage 2 Hypertension,Palpitations
+202,72,112,115,57,289,147,33.0,1,20,Stage 2 Hypertension,Blurry Vision
+203,37,165,103,90,219,81,25.0,0,9,Stage 2 Hypertension,Occipital Headache
+204,41,190,60,68,299,97,27.1,0,8,Hypertensive Crisis,Vertigo
+205,53,168,116,95,181,113,18.8,1,8,Stage 2 Hypertension,Tension-Type Headache
+206,51,111,89,77,254,162,18.0,0,5,Stage 1 Hypertension,Palpitations
+207,71,111,80,117,233,112,22.2,0,12,Stage 1 Hypertension,Palpitations
+208,51,163,79,64,278,86,29.6,1,1,Stage 2 Hypertension,Tension-Type Headache
+209,34,196,65,86,207,109,20.1,0,15,Hypertensive Crisis,Vertigo
+210,22,110,81,50,295,118,19.9,1,25,Stage 1 Hypertension,Blurry Vision
+211,35,128,77,116,283,154,25.0,0,18,Elevated,Shortness of Breath
+212,72,111,67,73,194,126,29.0,0,6,Normal,Chronic Fatigue
+213,70,162,98,76,246,156,30.1,1,10,Stage 2 Hypertension,Palpitations
+214,67,153,91,89,172,153,21.0,1,14,Stage 2 Hypertension,Vertigo
+215,62,199,92,112,172,133,19.4,1,21,Hypertensive Crisis,Vertigo
+216,30,141,112,110,284,144,34.0,1,26,Stage 2 Hypertension,Occipital Headache
+217,33,179,75,85,228,126,22.4,1,29,Stage 2 Hypertension,Palpitations
+218,30,141,71,73,193,167,32.5,1,8,Stage 2 Hypertension,Nausea
+219,37,177,97,73,176,143,32.7,0,27,Stage 2 Hypertension,Blurry Vision
+220,83,164,111,53,175,143,31.1,1,3,Stage 2 Hypertension,Shortness of Breath
+221,64,184,93,116,246,176,20.9,0,22,Hypertensive Crisis,Vertigo
+222,36,165,73,83,185,139,32.0,1,22,Stage 2 Hypertension,Occipital Headache
+223,62,126,95,106,258,169,31.1,0,26,Stage 2 Hypertension,Occipital Headache
+224,54,147,92,98,204,157,28.1,0,19,Stage 2 Hypertension,Tension-Type Headache
+225,71,133,82,102,218,145,23.7,1,12,Stage 1 Hypertension,Palpitations
+226,23,178,109,72,210,112,22.5,0,12,Stage 2 Hypertension,Vertigo
+227,31,179,104,118,279,92,20.1,0,15,Stage 2 Hypertension,Shortness of Breath
+228,21,195,61,102,204,96,26.7,0,28,Hypertensive Crisis,Nausea
+229,72,120,100,111,271,127,27.9,1,7,Stage 2 Hypertension,Postural Hypotension
+230,51,125,80,90,246,178,24.1,1,27,Stage 1 Hypertension,Postural Hypotension
+231,44,182,61,106,229,106,26.1,0,4,Hypertensive Crisis,Nausea
+232,24,168,86,109,236,75,24.2,1,21,Stage 2 Hypertension,Vertigo
+233,20,179,116,103,187,134,28.9,1,9,Stage 2 Hypertension,Palpitations
+234,64,189,68,119,268,75,33.3,0,22,Hypertensive Crisis,Shortness of Breath
+235,19,112,60,106,227,119,20.8,0,16,Normal,Tension-Type Headache
+236,42,129,70,59,184,91,24.5,1,26,Elevated,Palpitations
+237,77,168,62,89,228,174,20.4,1,13,Stage 2 Hypertension,Chronic Fatigue
+238,41,145,111,56,216,157,28.6,1,4,Stage 2 Hypertension,Palpitations
+239,32,128,82,87,236,94,30.4,0,24,Stage 1 Hypertension,Palpitations
+240,31,199,85,110,183,148,33.8,1,9,Hypertensive Crisis,Blurry Vision
+241,71,176,63,52,246,159,22.7,1,26,Stage 2 Hypertension,Vertigo
+242,23,128,77,100,220,141,34.2,1,21,Elevated,Tension-Type Headache
+243,35,129,114,96,152,120,19.1,0,18,Stage 2 Hypertension,Blurry Vision
+244,37,180,65,117,207,157,28.3,0,15,Hypertensive Crisis,Vertigo
+245,79,161,94,87,181,117,19.0,0,15,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+246,57,142,81,85,180,171,33.2,1,6,Stage 2 Hypertension,Tension-Type Headache
+247,56,149,102,90,231,139,27.0,1,11,Stage 2 Hypertension,Vertigo
+248,69,148,74,118,192,168,29.4,0,28,Stage 2 Hypertension,Postural Hypotension
+249,49,191,81,62,284,175,32.1,1,8,Hypertensive Crisis,Blurry Vision
+250,44,110,119,107,254,134,20.6,1,29,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+251,69,120,96,99,150,129,18.7,1,21,Stage 2 Hypertension,Tension-Type Headache
+252,80,166,111,79,210,115,32.9,0,17,Stage 2 Hypertension,Chronic Fatigue
+253,80,198,101,111,163,105,23.4,1,24,Hypertensive Crisis,Shortness of Breath
+254,34,159,71,74,155,127,20.2,1,25,Stage 2 Hypertension,Chronic Fatigue
+255,66,132,106,76,252,145,26.0,0,17,Stage 2 Hypertension,Postural Hypotension
+256,40,140,108,100,159,107,28.2,1,24,Stage 2 Hypertension,Postural Hypotension
+257,30,151,101,106,220,80,18.5,0,26,Stage 2 Hypertension,Nausea
+258,40,116,97,96,239,81,22.7,1,28,Stage 2 Hypertension,Nausea
+259,74,125,77,88,298,111,18.6,0,18,Elevated,Chronic Fatigue
+260,79,199,104,65,275,108,25.1,0,4,Hypertensive Crisis,Blurry Vision
+261,71,169,94,71,246,140,33.2,1,29,Stage 2 Hypertension,Palpitations
+262,37,111,89,103,223,80,34.7,1,15,Stage 1 Hypertension,Vertigo
+263,69,110,83,70,264,105,28.8,0,2,Stage 1 Hypertension,Shortness of Breath
+264,40,157,101,65,200,121,20.7,1,2,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+265,52,121,89,108,205,100,33.4,0,10,Stage 1 Hypertension,Shortness of Breath
+266,84,178,73,80,190,102,26.8,1,3,Stage 2 Hypertension,Postural Hypotension
+267,51,146,65,91,181,82,20.6,1,8,Stage 2 Hypertension,Nausea
+268,50,141,62,81,164,87,33.7,1,20,Stage 2 Hypertension,Palpitations
+269,63,118,75,108,211,110,30.9,1,7,Normal,Occipital Headache
+270,62,128,66,83,177,127,30.4,0,12,Elevated,Tension-Type Headache
+271,36,157,111,58,213,125,30.1,0,26,Stage 2 Hypertension,Occipital Headache
+272,32,189,73,60,279,93,21.4,1,19,Hypertensive Crisis,Occipital Headache
+273,83,112,68,59,276,142,21.6,1,26,Normal,Blurry Vision
+274,56,129,74,66,185,100,29.7,1,28,Elevated,Blurry Vision
+275,35,133,80,117,263,124,21.7,1,15,Stage 1 Hypertension,Nausea
+276,76,163,94,97,162,174,25.5,1,14,Stage 2 Hypertension,Occipital Headache
+277,49,142,61,101,164,79,31.3,0,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+278,38,133,86,74,238,129,31.3,0,29,Stage 1 Hypertension,Postural Hypotension
+279,57,184,61,70,171,71,25.7,1,27,Hypertensive Crisis,Occipital Headache
+280,44,181,94,114,223,171,31.5,0,14,Hypertensive Crisis,Palpitations
+281,19,145,77,112,174,84,32.3,0,3,Stage 2 Hypertension,Tension-Type Headache
+282,56,147,73,100,250,72,29.1,1,18,Stage 2 Hypertension,Vertigo
+283,73,193,79,85,266,112,21.9,0,29,Hypertensive Crisis,Nausea
+284,30,198,77,115,190,100,22.7,0,28,Hypertensive Crisis,Nausea
+285,73,134,69,64,237,139,23.4,0,22,Stage 1 Hypertension,Chronic Fatigue
+286,83,127,84,88,259,136,20.0,0,6,Stage 1 Hypertension,Palpitations
+287,73,191,61,119,269,125,22.6,1,17,Hypertensive Crisis,Blurry Vision
+288,45,175,84,50,246,132,21.6,0,23,Stage 2 Hypertension,Postural Hypotension
+289,81,163,113,72,294,144,25.7,0,28,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+290,81,144,92,88,206,84,33.4,0,14,Stage 2 Hypertension,Palpitations
+291,73,189,95,106,279,178,19.8,1,14,Hypertensive Crisis,Shortness of Breath
+292,58,170,90,83,245,161,30.2,0,20,Stage 2 Hypertension,Vertigo
+293,58,150,73,90,270,79,29.7,0,13,Stage 2 Hypertension,Tension-Type Headache
+294,21,142,60,62,211,107,19.6,0,27,Stage 2 Hypertension,Chronic Fatigue
+295,74,177,105,119,286,116,33.7,1,28,Stage 2 Hypertension,Palpitations
+296,47,142,75,55,217,126,27.7,1,3,Stage 2 Hypertension,Chronic Fatigue
+297,63,123,113,101,230,119,24.2,1,13,Stage 2 Hypertension,Vertigo
+298,73,130,105,52,166,140,30.9,1,29,Stage 2 Hypertension,Occipital Headache
+299,48,157,111,112,266,84,22.4,1,24,Stage 2 Hypertension,Chronic Fatigue
+300,24,129,62,98,199,87,29.8,0,2,Elevated,Nausea
+301,71,117,94,96,261,151,18.7,1,9,Stage 2 Hypertension,Blurry Vision
+302,25,116,100,104,243,174,32.3,0,13,Stage 2 Hypertension,Occipital Headache
+303,72,176,65,113,234,157,25.6,1,8,Stage 2 Hypertension,Palpitations
+304,61,126,84,114,298,71,28.8,1,16,Stage 1 Hypertension,Tension-Type Headache
+305,30,142,72,116,295,173,21.8,1,24,Stage 2 Hypertension,Nausea
+306,37,157,112,64,223,153,29.5,0,29,Stage 2 Hypertension,Vertigo
+307,49,185,93,81,258,167,31.1,0,3,Hypertensive Crisis,Occipital Headache
+308,77,168,67,117,294,112,26.0,0,13,Stage 2 Hypertension,Nausea
+309,67,195,80,67,167,95,28.5,1,4,Hypertensive Crisis,Blurry Vision
+310,44,131,93,92,191,140,25.8,1,18,Stage 2 Hypertension,Occipital Headache
+311,42,139,63,84,250,107,33.2,1,2,Stage 1 Hypertension,Postural Hypotension
+312,69,147,84,107,194,163,26.5,1,20,Stage 2 Hypertension,Postural Hypotension
+313,85,160,74,82,231,111,32.3,1,22,Stage 2 Hypertension,Occipital Headache
+314,38,163,63,63,166,74,31.6,1,21,Stage 2 Hypertension,Occipital Headache
+315,35,117,104,83,222,80,25.0,0,15,Stage 2 Hypertension,Postural Hypotension
+316,56,136,119,110,163,134,21.9,0,17,Stage 2 Hypertension,Palpitations
+317,32,136,71,53,281,103,24.9,1,29,Stage 1 Hypertension,Chronic Fatigue
+318,70,130,91,108,231,70,32.0,0,10,Stage 2 Hypertension,Tension-Type Headache
+319,55,139,91,78,297,152,21.9,0,1,Stage 2 Hypertension,Nausea
+320,65,137,87,55,269,71,26.9,0,6,Stage 1 Hypertension,Nausea
+321,69,173,72,98,269,154,31.7,1,3,Stage 2 Hypertension,Vertigo
+322,45,178,90,89,196,89,24.0,1,19,Stage 2 Hypertension,Tension-Type Headache
+323,33,170,73,114,256,130,28.9,1,7,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+324,33,157,79,118,257,156,22.2,1,13,Stage 2 Hypertension,Postural Hypotension
+325,52,128,77,76,158,90,19.9,0,13,Elevated,Hypertensive Crisis Symptoms
+326,34,113,88,55,228,157,31.5,1,17,Stage 1 Hypertension,Blurry Vision
+327,69,144,119,62,164,137,19.7,1,1,Stage 2 Hypertension,Tension-Type Headache
+328,29,173,65,113,168,81,22.6,1,14,Stage 2 Hypertension,Shortness of Breath
+329,65,158,91,111,239,91,32.5,0,29,Stage 2 Hypertension,Vertigo
+330,39,126,88,68,175,89,23.9,0,26,Stage 1 Hypertension,Occipital Headache
+331,66,153,102,92,241,151,34.5,0,3,Stage 2 Hypertension,Blurry Vision
+332,69,139,61,69,231,70,34.7,0,14,Stage 1 Hypertension,Chronic Fatigue
+333,18,155,119,117,280,99,22.6,0,24,Stage 2 Hypertension,Shortness of Breath
+334,83,115,82,93,191,166,18.7,1,1,Stage 1 Hypertension,Tension-Type Headache
+335,81,146,78,72,168,93,30.0,0,16,Stage 2 Hypertension,Tension-Type Headache
+336,25,133,90,51,166,83,25.7,0,10,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+337,42,155,110,71,225,105,19.7,1,13,Stage 2 Hypertension,Palpitations
+338,83,162,64,106,212,138,30.0,1,4,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+339,68,169,78,56,280,144,18.5,1,9,Stage 2 Hypertension,Nausea
+340,70,172,93,105,256,93,32.8,0,14,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+341,32,194,69,116,198,129,20.4,1,4,Hypertensive Crisis,Palpitations
+342,67,141,84,65,204,164,20.2,0,10,Stage 2 Hypertension,Chronic Fatigue
+343,55,196,61,100,248,124,21.0,1,8,Hypertensive Crisis,Blurry Vision
+344,57,142,70,61,201,146,34.3,0,23,Stage 2 Hypertension,Postural Hypotension
+345,83,176,109,102,249,149,29.8,0,3,Stage 2 Hypertension,Tension-Type Headache
+346,56,127,90,54,266,93,31.6,0,23,Stage 2 Hypertension,Occipital Headache
+347,34,134,115,76,267,146,24.8,0,7,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+348,24,163,74,61,156,93,23.7,1,10,Stage 2 Hypertension,Shortness of Breath
+349,56,167,68,66,195,123,22.0,1,3,Stage 2 Hypertension,Chronic Fatigue
+350,85,176,82,55,195,95,26.2,0,2,Stage 2 Hypertension,Vertigo
+351,52,155,78,54,249,135,27.4,1,15,Stage 2 Hypertension,Tension-Type Headache
+352,68,133,68,106,293,149,28.7,0,9,Stage 1 Hypertension,Palpitations
+353,64,141,94,77,203,107,22.4,1,15,Stage 2 Hypertension,Nausea
+354,53,156,80,118,211,179,34.1,1,17,Stage 2 Hypertension,Palpitations
+355,81,195,68,108,278,134,20.9,0,7,Hypertensive Crisis,Hypertensive Crisis Symptoms
+356,30,132,87,82,198,144,34.4,0,20,Stage 1 Hypertension,Blurry Vision
+357,35,175,105,111,174,120,18.3,1,18,Stage 2 Hypertension,Nausea
+358,38,136,110,99,159,104,26.2,0,15,Stage 2 Hypertension,Shortness of Breath
+359,82,111,66,68,267,112,23.7,1,18,Normal,Palpitations
+360,25,199,75,118,293,98,25.6,1,24,Hypertensive Crisis,Shortness of Breath
+361,65,126,75,115,241,106,27.7,1,23,Elevated,Vertigo
+362,60,142,119,96,283,150,25.4,0,12,Stage 2 Hypertension,Shortness of Breath
+363,70,118,92,88,293,127,25.1,0,23,Stage 2 Hypertension,Tension-Type Headache
+364,44,152,63,117,297,123,30.5,1,21,Stage 2 Hypertension,Chronic Fatigue
+365,36,157,63,82,229,108,29.7,0,26,Stage 2 Hypertension,Nausea
+366,40,148,98,62,220,111,32.2,0,8,Stage 2 Hypertension,Tension-Type Headache
+367,67,151,99,103,227,97,22.2,1,2,Stage 2 Hypertension,Occipital Headache
+368,68,135,76,56,192,98,28.4,0,2,Stage 1 Hypertension,Palpitations
+369,60,159,96,63,239,112,27.9,0,5,Stage 2 Hypertension,Palpitations
+370,68,134,98,68,227,72,24.3,1,1,Stage 2 Hypertension,Occipital Headache
+371,58,133,119,103,175,79,26.3,0,22,Stage 2 Hypertension,Shortness of Breath
+372,28,122,111,69,270,128,23.3,1,4,Stage 2 Hypertension,Tension-Type Headache
+373,69,169,88,78,194,175,20.4,0,6,Stage 2 Hypertension,Nausea
+374,40,116,111,73,212,83,21.6,0,23,Stage 2 Hypertension,Nausea
+375,66,166,95,112,217,145,19.8,1,13,Stage 2 Hypertension,Occipital Headache
+376,55,145,119,106,151,116,29.6,1,19,Stage 2 Hypertension,Palpitations
+377,64,154,97,57,291,111,29.2,0,11,Stage 2 Hypertension,Occipital Headache
+378,24,129,98,111,257,163,34.2,1,13,Stage 2 Hypertension,Vertigo
+379,83,174,109,78,179,101,30.4,1,8,Stage 2 Hypertension,Vertigo
+380,79,117,96,66,198,101,18.9,0,7,Stage 2 Hypertension,Vertigo
+381,46,125,111,115,289,111,33.0,1,13,Stage 2 Hypertension,Postural Hypotension
+382,55,123,94,55,193,101,32.7,0,1,Stage 2 Hypertension,Chronic Fatigue
+383,50,185,66,107,162,95,25.5,0,6,Hypertensive Crisis,Blurry Vision
+384,46,196,86,118,227,70,28.0,1,7,Hypertensive Crisis,Hypertensive Crisis Symptoms
+385,40,124,87,77,275,125,34.6,0,16,Stage 1 Hypertension,Postural Hypotension
+386,20,175,81,111,247,175,27.0,1,27,Stage 2 Hypertension,Nausea
+387,62,141,73,90,175,71,33.4,0,15,Stage 2 Hypertension,Shortness of Breath
+388,25,196,66,118,298,150,19.4,1,20,Hypertensive Crisis,Palpitations
+389,46,172,96,90,197,99,21.2,1,2,Stage 2 Hypertension,Shortness of Breath
+390,19,195,81,98,215,172,25.5,0,26,Hypertensive Crisis,Occipital Headache
+391,67,160,64,98,236,140,27.9,1,25,Stage 2 Hypertension,Palpitations
+392,82,134,114,52,228,121,31.9,1,23,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+393,37,167,61,59,172,160,34.8,1,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+394,69,172,86,84,230,78,24.6,0,17,Stage 2 Hypertension,Tension-Type Headache
+395,54,171,80,51,197,91,18.8,0,24,Stage 2 Hypertension,Shortness of Breath
+396,44,131,113,73,273,103,31.6,1,15,Stage 2 Hypertension,Blurry Vision
+397,64,167,97,87,279,179,28.3,1,3,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+398,23,167,74,71,233,118,21.4,0,4,Stage 2 Hypertension,Chronic Fatigue
+399,77,195,80,75,169,70,26.4,0,12,Hypertensive Crisis,Tension-Type Headache
+400,62,158,69,92,195,142,30.6,0,5,Stage 2 Hypertension,Blurry Vision
+401,61,161,82,104,280,153,31.1,1,17,Stage 2 Hypertension,Palpitations
+402,35,151,117,88,161,122,26.5,0,6,Stage 2 Hypertension,Shortness of Breath
+403,82,179,115,78,189,152,23.2,1,10,Stage 2 Hypertension,Shortness of Breath
+404,42,124,98,69,215,169,34.6,0,22,Stage 2 Hypertension,Blurry Vision
+405,44,163,64,90,249,109,29.3,1,18,Stage 2 Hypertension,Blurry Vision
+406,24,169,60,103,227,114,24.9,0,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+407,61,117,72,69,165,137,22.8,1,10,Normal,Palpitations
+408,46,162,80,68,232,78,30.4,0,6,Stage 2 Hypertension,Tension-Type Headache
+409,61,169,85,115,193,174,22.1,0,24,Stage 2 Hypertension,Chronic Fatigue
+410,53,114,109,79,283,91,20.9,1,6,Stage 2 Hypertension,Nausea
+411,36,177,104,102,249,87,27.0,0,20,Stage 2 Hypertension,Nausea
+412,23,115,80,83,171,145,22.9,0,15,Stage 1 Hypertension,Postural Hypotension
+413,42,156,112,71,167,175,28.7,0,4,Stage 2 Hypertension,Chronic Fatigue
+414,48,164,77,116,161,112,20.0,0,25,Stage 2 Hypertension,Palpitations
+415,26,149,96,55,272,108,29.1,1,16,Stage 2 Hypertension,Palpitations
+416,54,161,104,76,266,142,22.8,1,22,Stage 2 Hypertension,Tension-Type Headache
+417,44,125,91,59,200,75,18.0,0,24,Stage 2 Hypertension,Shortness of Breath
+418,30,122,95,97,220,152,20.2,1,8,Stage 2 Hypertension,Postural Hypotension
+419,58,139,76,119,197,117,33.9,1,7,Stage 1 Hypertension,Tension-Type Headache
+420,83,128,94,108,168,76,32.7,1,19,Stage 2 Hypertension,Postural Hypotension
+421,41,126,108,108,155,149,22.0,1,26,Stage 2 Hypertension,Shortness of Breath
+422,61,172,119,51,233,138,31.2,1,17,Stage 2 Hypertension,Occipital Headache
+423,77,128,70,78,202,85,28.3,0,21,Elevated,Postural Hypotension
+424,26,167,80,117,256,70,34.5,1,13,Stage 2 Hypertension,Tension-Type Headache
+425,19,164,111,114,250,106,24.4,0,15,Stage 2 Hypertension,Occipital Headache
+426,73,199,114,75,197,172,29.6,1,26,Hypertensive Crisis,Blurry Vision
+427,47,199,112,59,284,152,19.1,0,26,Hypertensive Crisis,Chronic Fatigue
+428,39,171,85,102,218,106,24.7,0,2,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+429,30,132,63,108,160,150,34.4,0,28,Stage 1 Hypertension,Tension-Type Headache
+430,33,118,93,71,292,133,27.2,1,10,Stage 2 Hypertension,Blurry Vision
+431,62,121,111,100,280,159,22.9,1,13,Stage 2 Hypertension,Nausea
+432,82,110,107,97,271,155,20.0,0,18,Stage 2 Hypertension,Nausea
+433,28,167,119,70,218,131,30.0,0,23,Stage 2 Hypertension,Palpitations
+434,37,110,77,71,172,141,29.0,1,11,Normal,Tension-Type Headache
+435,80,143,99,79,186,130,24.4,1,13,Stage 2 Hypertension,Vertigo
+436,29,157,94,74,158,102,34.2,0,19,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+437,79,198,100,77,164,135,18.4,1,29,Hypertensive Crisis,Vertigo
+438,59,110,88,114,280,99,23.2,1,24,Stage 1 Hypertension,Chronic Fatigue
+439,75,125,111,94,242,89,33.7,1,25,Stage 2 Hypertension,Palpitations
+440,22,170,88,117,166,129,23.5,1,29,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+441,44,173,97,56,298,151,22.3,1,24,Stage 2 Hypertension,Occipital Headache
+442,45,172,101,98,221,176,27.1,1,22,Stage 2 Hypertension,Postural Hypotension
+443,43,178,80,58,298,143,32.0,0,5,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+444,66,131,101,85,270,93,19.8,0,3,Stage 2 Hypertension,Shortness of Breath
+445,38,176,72,50,160,73,34.0,0,19,Stage 2 Hypertension,Occipital Headache
+446,18,185,108,59,221,106,31.5,0,23,Hypertensive Crisis,Postural Hypotension
+447,75,135,100,85,255,73,21.1,0,13,Stage 2 Hypertension,Chronic Fatigue
+448,72,125,76,95,274,146,30.1,0,5,Elevated,Nausea
+449,43,160,115,81,184,158,24.5,1,12,Stage 2 Hypertension,Postural Hypotension
+450,42,195,68,81,268,146,24.8,1,14,Hypertensive Crisis,Shortness of Breath
+451,50,166,100,55,163,87,31.3,0,6,Stage 2 Hypertension,Palpitations
+452,23,138,60,97,163,157,34.4,0,22,Stage 1 Hypertension,Postural Hypotension
+453,40,187,61,87,159,135,20.2,0,9,Hypertensive Crisis,Hypertensive Crisis Symptoms
+454,47,178,119,66,289,117,25.2,1,17,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+455,71,156,107,76,187,102,26.2,1,8,Stage 2 Hypertension,Palpitations
+456,28,171,88,103,257,127,24.4,1,26,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+457,48,178,92,99,268,152,24.2,1,13,Stage 2 Hypertension,Chronic Fatigue
+458,23,185,69,84,183,142,18.9,0,29,Hypertensive Crisis,Shortness of Breath
+459,28,125,109,74,159,97,29.7,0,5,Stage 2 Hypertension,Tension-Type Headache
+460,29,199,117,77,271,104,25.4,0,29,Hypertensive Crisis,Tension-Type Headache
+461,83,199,119,64,294,172,21.3,0,22,Hypertensive Crisis,Nausea
+462,70,157,99,53,294,79,31.9,1,22,Stage 2 Hypertension,Blurry Vision
+463,53,194,80,76,264,134,31.6,1,17,Hypertensive Crisis,Chronic Fatigue
+464,34,148,87,75,150,111,26.3,0,3,Stage 2 Hypertension,Blurry Vision
+465,45,142,70,68,161,154,23.1,1,28,Stage 2 Hypertension,Tension-Type Headache
+466,39,132,114,66,252,78,28.8,1,6,Stage 2 Hypertension,Postural Hypotension
+467,24,119,93,92,153,129,22.9,1,14,Stage 2 Hypertension,Postural Hypotension
+468,32,178,67,90,290,84,22.0,1,15,Stage 2 Hypertension,Postural Hypotension
+469,28,143,118,91,247,168,30.4,0,14,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+470,41,161,81,99,255,126,18.7,1,11,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+471,84,119,67,89,234,138,19.6,0,11,Normal,Vertigo
+472,47,128,108,88,270,174,18.1,1,9,Stage 2 Hypertension,Postural Hypotension
+473,83,167,74,72,281,91,20.6,1,6,Stage 2 Hypertension,Postural Hypotension
+474,78,110,76,101,231,133,19.2,0,15,Normal,Occipital Headache
+475,58,178,119,96,168,110,34.9,0,12,Stage 2 Hypertension,Palpitations
+476,68,113,82,112,279,156,22.9,1,29,Stage 1 Hypertension,Tension-Type Headache
+477,61,125,83,118,161,140,20.5,1,6,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+478,30,133,104,92,230,125,22.1,0,1,Stage 2 Hypertension,Shortness of Breath
+479,29,189,78,97,223,92,33.9,1,25,Hypertensive Crisis,Hypertensive Crisis Symptoms
+480,26,111,64,83,247,177,26.8,1,16,Normal,Shortness of Breath
+481,65,141,91,89,155,94,24.2,0,20,Stage 2 Hypertension,Vertigo
+482,66,193,103,110,285,160,32.8,1,15,Hypertensive Crisis,Shortness of Breath
+483,70,133,60,99,274,174,24.7,1,2,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+484,73,121,82,116,200,75,23.7,1,17,Stage 1 Hypertension,Nausea
+485,57,159,96,111,160,103,21.5,1,3,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+486,41,144,67,107,276,132,24.4,1,3,Stage 2 Hypertension,Chronic Fatigue
+487,50,142,72,82,289,78,23.4,0,5,Stage 2 Hypertension,Nausea
+488,40,142,67,65,222,129,29.5,1,17,Stage 2 Hypertension,Postural Hypotension
+489,71,170,116,97,151,118,22.9,0,23,Stage 2 Hypertension,Tension-Type Headache
+490,70,160,82,59,157,166,27.8,0,29,Stage 2 Hypertension,Shortness of Breath
+491,66,152,102,87,288,120,19.1,1,17,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+492,66,121,60,68,273,129,21.3,0,20,Elevated,Hypertensive Crisis Symptoms
+493,77,176,104,85,202,139,24.9,1,6,Stage 2 Hypertension,Shortness of Breath
+494,82,174,110,108,159,106,33.9,0,1,Stage 2 Hypertension,Blurry Vision
+495,49,142,83,112,261,100,24.4,0,7,Stage 2 Hypertension,Tension-Type Headache
+496,38,149,94,95,157,167,29.3,0,26,Stage 2 Hypertension,Occipital Headache
+497,35,183,83,52,185,110,22.3,1,15,Hypertensive Crisis,Palpitations
+498,77,152,76,114,255,131,20.2,0,7,Stage 2 Hypertension,Postural Hypotension
+499,30,153,64,57,163,162,19.0,0,19,Stage 2 Hypertension,Nausea
+500,41,138,79,100,235,127,23.2,0,20,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+501,47,122,80,55,298,83,20.7,1,22,Stage 1 Hypertension,Vertigo
+502,19,121,99,88,199,105,21.0,1,11,Stage 2 Hypertension,Tension-Type Headache
+503,42,155,117,109,169,105,30.9,0,23,Stage 2 Hypertension,Shortness of Breath
+504,67,111,90,77,236,148,18.3,0,14,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+505,31,144,105,103,284,77,27.5,0,13,Stage 2 Hypertension,Nausea
+506,23,196,95,86,286,95,24.5,0,20,Hypertensive Crisis,Vertigo
+507,47,190,70,58,278,105,26.6,1,26,Hypertensive Crisis,Palpitations
+508,47,199,111,105,187,117,27.6,1,27,Hypertensive Crisis,Palpitations
+509,55,117,74,108,193,154,23.3,1,25,Normal,Nausea
+510,75,135,78,51,235,97,23.0,0,9,Stage 1 Hypertension,Tension-Type Headache
+511,58,183,66,110,193,137,30.5,1,9,Hypertensive Crisis,Vertigo
+512,74,199,110,107,223,131,32.8,0,16,Hypertensive Crisis,Shortness of Breath
+513,53,143,87,109,268,149,21.3,0,12,Stage 2 Hypertension,Vertigo
+514,81,116,110,89,271,155,19.7,0,10,Stage 2 Hypertension,Chronic Fatigue
+515,33,177,102,85,283,145,33.3,1,6,Stage 2 Hypertension,Shortness of Breath
+516,31,167,117,86,294,149,23.9,0,18,Stage 2 Hypertension,Postural Hypotension
+517,48,184,64,67,200,120,27.4,1,2,Hypertensive Crisis,Occipital Headache
+518,83,138,64,112,187,173,24.1,0,27,Stage 1 Hypertension,Postural Hypotension
+519,85,145,89,71,200,171,20.1,1,20,Stage 2 Hypertension,Occipital Headache
+520,82,198,113,60,159,111,28.0,0,9,Hypertensive Crisis,Postural Hypotension
+521,72,130,91,107,269,170,26.9,1,19,Stage 2 Hypertension,Vertigo
+522,57,145,67,106,298,98,21.5,0,6,Stage 2 Hypertension,Tension-Type Headache
+523,42,119,69,53,219,151,25.7,1,2,Normal,Nausea
+524,42,182,97,56,234,79,31.5,0,15,Hypertensive Crisis,Hypertensive Crisis Symptoms
+525,20,133,106,110,206,175,28.0,0,17,Stage 2 Hypertension,Occipital Headache
+526,43,173,91,103,275,108,19.6,0,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+527,57,158,107,117,188,151,27.3,1,28,Stage 2 Hypertension,Chronic Fatigue
+528,55,145,87,50,182,70,29.9,0,21,Stage 2 Hypertension,Chronic Fatigue
+529,55,191,76,104,167,108,31.5,0,8,Hypertensive Crisis,Hypertensive Crisis Symptoms
+530,85,133,90,52,206,90,28.7,0,10,Stage 2 Hypertension,Chronic Fatigue
+531,24,132,67,87,245,134,20.6,1,10,Stage 1 Hypertension,Shortness of Breath
+532,47,171,99,50,197,84,30.1,0,18,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+533,36,146,84,87,191,73,29.5,0,10,Stage 2 Hypertension,Chronic Fatigue
+534,52,121,68,78,176,129,18.4,1,9,Elevated,Occipital Headache
+535,50,164,61,54,223,130,25.0,0,28,Stage 2 Hypertension,Tension-Type Headache
+536,50,122,74,70,259,89,23.7,1,24,Elevated,Chronic Fatigue
+537,55,132,109,116,181,79,29.4,0,19,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+538,27,198,62,96,175,156,21.7,1,1,Hypertensive Crisis,Occipital Headache
+539,74,139,108,84,174,174,28.0,1,4,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+540,45,126,95,117,224,103,33.5,1,24,Stage 2 Hypertension,Palpitations
+541,55,171,63,118,172,179,31.6,0,3,Stage 2 Hypertension,Vertigo
+542,33,193,73,50,206,117,33.7,0,10,Hypertensive Crisis,Vertigo
+543,38,198,100,117,275,102,34.6,1,12,Hypertensive Crisis,Vertigo
+544,23,195,100,61,236,167,18.2,0,18,Hypertensive Crisis,Postural Hypotension
+545,58,122,84,109,180,172,28.6,0,23,Stage 1 Hypertension,Shortness of Breath
+546,32,168,117,76,213,130,25.0,1,20,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+547,20,128,114,105,182,79,32.6,1,6,Stage 2 Hypertension,Shortness of Breath
+548,60,158,109,72,151,123,22.3,1,21,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+549,64,121,69,74,167,153,34.7,1,2,Elevated,Palpitations
+550,31,170,80,70,233,134,28.4,0,10,Stage 2 Hypertension,Chronic Fatigue
+551,83,128,95,110,184,146,31.5,0,2,Stage 2 Hypertension,Postural Hypotension
+552,46,185,71,112,263,70,19.5,0,9,Hypertensive Crisis,Tension-Type Headache
+553,21,118,86,101,295,74,21.1,0,27,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+554,43,180,99,74,259,149,30.9,0,10,Hypertensive Crisis,Occipital Headache
+555,29,137,61,104,237,84,18.4,0,2,Stage 1 Hypertension,Chronic Fatigue
+556,19,187,113,95,221,97,31.9,1,8,Hypertensive Crisis,Nausea
+557,34,161,72,81,274,164,18.2,0,24,Stage 2 Hypertension,Nausea
+558,52,192,112,104,179,92,29.2,0,17,Hypertensive Crisis,Tension-Type Headache
+559,27,125,91,54,202,178,24.2,0,17,Stage 2 Hypertension,Occipital Headache
+560,60,178,90,85,287,176,28.4,1,29,Stage 2 Hypertension,Vertigo
+561,38,121,75,98,236,86,29.8,1,4,Elevated,Postural Hypotension
+562,32,134,91,107,288,167,23.8,0,18,Stage 2 Hypertension,Shortness of Breath
+563,52,161,91,88,162,82,19.8,1,12,Stage 2 Hypertension,Blurry Vision
+564,77,194,119,110,189,83,19.2,1,17,Hypertensive Crisis,Blurry Vision
+565,61,162,93,58,238,80,28.0,0,9,Stage 2 Hypertension,Postural Hypotension
+566,22,132,70,55,217,97,26.9,0,29,Stage 1 Hypertension,Chronic Fatigue
+567,35,125,69,84,191,111,30.6,0,19,Elevated,Palpitations
+568,38,166,74,88,296,165,26.7,1,14,Stage 2 Hypertension,Chronic Fatigue
+569,68,148,76,71,243,168,25.2,1,14,Stage 2 Hypertension,Nausea
+570,58,162,99,90,168,130,24.8,0,17,Stage 2 Hypertension,Shortness of Breath
+571,41,151,77,54,172,133,18.4,1,2,Stage 2 Hypertension,Nausea
+572,41,167,114,91,203,100,23.7,1,8,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+573,55,148,68,116,214,150,34.6,1,5,Stage 2 Hypertension,Nausea
+574,61,123,84,79,289,142,32.9,0,27,Stage 1 Hypertension,Blurry Vision
+575,74,114,99,106,173,79,23.6,0,7,Stage 2 Hypertension,Blurry Vision
+576,76,144,118,78,183,77,28.0,0,22,Stage 2 Hypertension,Shortness of Breath
+577,51,196,73,86,202,90,32.4,0,29,Hypertensive Crisis,Nausea
+578,40,184,119,62,285,146,25.5,0,16,Hypertensive Crisis,Postural Hypotension
+579,60,127,117,81,167,128,18.3,1,16,Stage 2 Hypertension,Postural Hypotension
+580,57,185,84,95,206,119,19.3,1,17,Hypertensive Crisis,Tension-Type Headache
+581,64,118,109,72,261,138,26.7,1,22,Stage 2 Hypertension,Palpitations
+582,58,183,81,94,154,139,34.5,1,27,Hypertensive Crisis,Shortness of Breath
+583,64,167,111,66,162,99,29.8,1,7,Stage 2 Hypertension,Nausea
+584,37,126,89,115,232,164,19.2,1,20,Stage 1 Hypertension,Shortness of Breath
+585,82,116,79,55,178,86,21.2,0,8,Normal,Chronic Fatigue
+586,85,155,80,67,152,144,31.1,0,8,Stage 2 Hypertension,Vertigo
+587,41,122,103,71,239,89,32.3,1,23,Stage 2 Hypertension,Occipital Headache
+588,53,149,91,82,253,117,28.5,0,11,Stage 2 Hypertension,Chronic Fatigue
+589,62,151,110,79,272,142,29.0,1,15,Stage 2 Hypertension,Chronic Fatigue
+590,19,118,105,81,225,71,18.5,1,18,Stage 2 Hypertension,Nausea
+591,45,159,108,91,279,106,32.1,0,6,Stage 2 Hypertension,Vertigo
+592,43,136,115,59,257,70,31.4,0,22,Stage 2 Hypertension,Postural Hypotension
+593,40,175,80,85,231,73,22.4,1,12,Stage 2 Hypertension,Postural Hypotension
+594,53,114,94,83,226,169,30.0,0,15,Stage 2 Hypertension,Chronic Fatigue
+595,23,138,117,77,151,123,21.7,1,28,Stage 2 Hypertension,Palpitations
+596,52,146,91,60,276,94,18.7,1,23,Stage 2 Hypertension,Postural Hypotension
+597,55,147,89,88,284,72,21.4,1,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+598,52,192,114,96,175,78,21.0,1,18,Hypertensive Crisis,Chronic Fatigue
+599,70,117,98,68,237,155,23.7,1,24,Stage 2 Hypertension,Occipital Headache
+600,55,174,108,64,165,156,25.1,0,20,Stage 2 Hypertension,Vertigo
+601,76,195,71,77,222,145,26.6,1,9,Hypertensive Crisis,Tension-Type Headache
+602,60,126,100,73,181,143,26.1,0,8,Stage 2 Hypertension,Blurry Vision
+603,21,180,106,58,164,103,22.6,1,14,Hypertensive Crisis,Shortness of Breath
+604,22,198,77,96,290,112,18.5,0,19,Hypertensive Crisis,Chronic Fatigue
+605,85,154,80,82,154,143,28.3,1,19,Stage 2 Hypertension,Postural Hypotension
+606,62,113,72,111,223,163,24.7,0,8,Normal,Shortness of Breath
+607,42,145,80,68,201,91,23.1,1,2,Stage 2 Hypertension,Occipital Headache
+608,28,179,67,116,226,139,32.7,1,25,Stage 2 Hypertension,Nausea
+609,46,140,105,89,259,71,30.7,0,4,Stage 2 Hypertension,Blurry Vision
+610,51,128,99,96,292,163,32.6,0,6,Stage 2 Hypertension,Palpitations
+611,31,170,105,114,255,135,26.4,0,3,Stage 2 Hypertension,Tension-Type Headache
+612,41,163,66,78,276,101,20.2,0,3,Stage 2 Hypertension,Nausea
+613,76,148,82,99,156,175,29.8,0,19,Stage 2 Hypertension,Occipital Headache
+614,56,183,103,62,189,85,21.5,0,11,Hypertensive Crisis,Postural Hypotension
+615,43,199,91,50,248,145,25.5,1,29,Hypertensive Crisis,Hypertensive Crisis Symptoms
+616,60,128,70,83,292,70,19.1,1,10,Elevated,Vertigo
+617,53,148,81,97,234,141,32.0,1,12,Stage 2 Hypertension,Nausea
+618,56,176,81,97,214,117,20.1,0,14,Stage 2 Hypertension,Nausea
+619,78,154,102,98,281,119,33.4,0,28,Stage 2 Hypertension,Tension-Type Headache
+620,33,122,84,113,160,82,32.7,0,18,Stage 1 Hypertension,Vertigo
+621,76,167,81,110,257,84,25.9,1,24,Stage 2 Hypertension,Occipital Headache
+622,23,129,87,78,175,122,30.7,0,9,Stage 1 Hypertension,Shortness of Breath
+623,73,181,88,88,234,113,28.5,1,15,Hypertensive Crisis,Shortness of Breath
+624,25,170,72,75,272,77,31.7,0,24,Stage 2 Hypertension,Vertigo
+625,44,148,77,66,293,143,25.3,0,26,Stage 2 Hypertension,Palpitations
+626,44,110,61,62,217,115,31.4,0,3,Normal,Chronic Fatigue
+627,63,112,88,118,253,138,25.9,1,23,Stage 1 Hypertension,Palpitations
+628,58,186,80,75,229,88,34.0,0,11,Hypertensive Crisis,Palpitations
+629,42,171,74,98,202,107,26.3,1,10,Stage 2 Hypertension,Nausea
+630,35,172,111,116,255,80,25.9,0,18,Stage 2 Hypertension,Nausea
+631,29,134,86,56,193,112,31.3,0,4,Stage 1 Hypertension,Blurry Vision
+632,68,165,109,107,289,89,32.0,0,28,Stage 2 Hypertension,Postural Hypotension
+633,56,142,90,98,239,89,27.4,0,13,Stage 2 Hypertension,Occipital Headache
+634,27,147,74,102,250,90,21.1,1,29,Stage 2 Hypertension,Occipital Headache
+635,71,115,110,114,246,151,26.0,0,6,Stage 2 Hypertension,Blurry Vision
+636,46,167,82,111,158,126,34.5,1,27,Stage 2 Hypertension,Nausea
+637,58,153,83,66,161,119,30.8,0,21,Stage 2 Hypertension,Tension-Type Headache
+638,26,154,103,92,218,143,31.8,0,13,Stage 2 Hypertension,Tension-Type Headache
+639,80,141,72,74,177,167,18.6,0,25,Stage 2 Hypertension,Postural Hypotension
+640,54,154,81,52,205,95,26.0,1,26,Stage 2 Hypertension,Vertigo
+641,31,170,102,78,248,99,29.0,0,20,Stage 2 Hypertension,Nausea
+642,56,156,96,81,259,142,32.1,1,5,Stage 2 Hypertension,Shortness of Breath
+643,57,130,92,75,226,179,18.8,1,20,Stage 2 Hypertension,Shortness of Breath
+644,71,189,115,65,252,100,32.5,0,14,Hypertensive Crisis,Nausea
+645,20,194,62,74,255,111,27.3,1,13,Hypertensive Crisis,Hypertensive Crisis Symptoms
+646,72,184,113,103,258,137,21.4,0,14,Hypertensive Crisis,Vertigo
+647,50,145,78,77,261,130,23.4,1,8,Stage 2 Hypertension,Shortness of Breath
+648,36,128,82,105,207,130,22.8,1,16,Stage 1 Hypertension,Chronic Fatigue
+649,51,129,88,114,227,139,27.0,1,13,Stage 1 Hypertension,Palpitations
+650,67,166,89,90,224,147,18.9,1,24,Stage 2 Hypertension,Nausea
+651,64,127,98,100,191,137,20.7,0,15,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+652,63,156,103,78,217,159,31.8,1,19,Stage 2 Hypertension,Chronic Fatigue
+653,73,158,106,68,182,172,20.3,0,1,Stage 2 Hypertension,Palpitations
+654,74,123,84,115,220,86,22.0,1,22,Stage 1 Hypertension,Palpitations
+655,68,124,96,90,205,88,25.7,0,2,Stage 2 Hypertension,Postural Hypotension
+656,71,140,106,94,254,120,26.8,0,18,Stage 2 Hypertension,Vertigo
+657,45,110,67,64,250,139,31.0,1,19,Normal,Nausea
+658,36,163,101,52,200,132,25.6,1,8,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+659,44,112,117,60,223,162,31.4,0,3,Stage 2 Hypertension,Blurry Vision
+660,65,125,75,102,270,144,28.5,1,23,Elevated,Postural Hypotension
+661,36,196,67,95,292,149,19.9,1,26,Hypertensive Crisis,Tension-Type Headache
+662,68,166,60,79,292,99,20.7,1,14,Stage 2 Hypertension,Chronic Fatigue
+663,24,184,103,106,154,94,25.4,1,26,Hypertensive Crisis,Blurry Vision
+664,46,121,64,67,232,173,24.7,1,9,Elevated,Chronic Fatigue
+665,60,183,62,100,200,144,30.6,1,29,Hypertensive Crisis,Nausea
+666,75,125,60,97,159,140,27.9,1,8,Elevated,Hypertensive Crisis Symptoms
+667,25,181,63,115,289,95,24.6,1,17,Hypertensive Crisis,Hypertensive Crisis Symptoms
+668,59,185,99,57,153,125,20.9,1,23,Hypertensive Crisis,Palpitations
+669,59,133,94,71,244,91,21.9,0,23,Stage 2 Hypertension,Blurry Vision
+670,30,137,91,55,295,158,27.8,1,24,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+671,43,117,101,106,229,88,25.2,1,16,Stage 2 Hypertension,Shortness of Breath
+672,35,145,93,85,185,100,26.8,1,10,Stage 2 Hypertension,Chronic Fatigue
+673,59,199,102,106,174,95,20.9,1,21,Hypertensive Crisis,Palpitations
+674,68,117,84,98,247,111,29.3,1,10,Stage 1 Hypertension,Nausea
+675,33,167,69,94,250,110,32.5,0,25,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+676,20,169,80,115,158,169,22.4,0,25,Stage 2 Hypertension,Occipital Headache
+677,62,159,105,94,210,92,26.4,1,24,Stage 2 Hypertension,Nausea
+678,39,137,98,69,202,116,34.6,0,6,Stage 2 Hypertension,Blurry Vision
+679,40,150,86,113,295,82,23.7,1,22,Stage 2 Hypertension,Shortness of Breath
+680,76,173,86,116,212,158,28.1,1,17,Stage 2 Hypertension,Vertigo
+681,79,136,61,52,270,135,19.5,0,29,Stage 1 Hypertension,Tension-Type Headache
+682,85,172,100,103,254,135,28.3,0,16,Stage 2 Hypertension,Occipital Headache
+683,71,126,107,113,153,85,19.5,0,15,Stage 2 Hypertension,Palpitations
+684,74,182,72,89,242,142,34.3,0,22,Hypertensive Crisis,Chronic Fatigue
+685,40,142,68,108,177,97,30.2,0,14,Stage 2 Hypertension,Blurry Vision
+686,77,193,111,104,229,146,31.4,1,4,Hypertensive Crisis,Blurry Vision
+687,72,186,95,111,225,104,30.0,1,4,Hypertensive Crisis,Vertigo
+688,80,138,81,53,265,110,28.0,1,2,Stage 1 Hypertension,Occipital Headache
+689,73,122,101,109,218,146,25.6,0,29,Stage 2 Hypertension,Chronic Fatigue
+690,72,155,85,79,247,100,32.6,1,11,Stage 2 Hypertension,Tension-Type Headache
+691,42,144,117,51,150,154,34.3,0,4,Stage 2 Hypertension,Postural Hypotension
+692,43,115,113,111,245,101,26.5,1,21,Stage 2 Hypertension,Postural Hypotension
+693,66,191,71,98,166,123,33.8,0,29,Hypertensive Crisis,Blurry Vision
+694,80,178,76,58,261,167,27.9,0,28,Stage 2 Hypertension,Occipital Headache
+695,62,156,73,80,240,141,27.2,1,21,Stage 2 Hypertension,Vertigo
+696,56,134,73,110,237,128,25.7,1,16,Stage 1 Hypertension,Blurry Vision
+697,82,175,116,97,239,110,21.6,1,21,Stage 2 Hypertension,Postural Hypotension
+698,73,119,93,74,198,135,18.1,1,4,Stage 2 Hypertension,Blurry Vision
+699,26,165,112,85,187,171,22.1,0,1,Stage 2 Hypertension,Postural Hypotension
+700,45,139,116,57,299,165,26.7,1,26,Stage 2 Hypertension,Occipital Headache
+701,62,114,79,107,281,123,24.5,0,24,Normal,Occipital Headache
+702,43,142,70,94,208,109,25.6,1,19,Stage 2 Hypertension,Vertigo
+703,45,174,75,111,217,97,34.7,1,2,Stage 2 Hypertension,Palpitations
+704,57,127,110,88,279,106,24.0,1,9,Stage 2 Hypertension,Palpitations
+705,32,158,90,107,198,174,25.7,1,23,Stage 2 Hypertension,Blurry Vision
+706,23,120,114,113,275,134,20.3,1,25,Stage 2 Hypertension,Blurry Vision
+707,44,194,65,93,260,174,18.8,0,13,Hypertensive Crisis,Blurry Vision
+708,55,135,115,78,197,143,31.2,1,18,Stage 2 Hypertension,Vertigo
+709,85,172,78,108,200,124,27.7,0,16,Stage 2 Hypertension,Nausea
+710,81,198,96,58,192,73,30.9,1,16,Hypertensive Crisis,Blurry Vision
+711,47,195,117,55,247,168,20.5,0,25,Hypertensive Crisis,Palpitations
+712,20,168,63,78,273,79,27.7,1,10,Stage 2 Hypertension,Palpitations
+713,79,136,106,107,229,116,22.3,1,9,Stage 2 Hypertension,Chronic Fatigue
+714,29,158,63,66,260,144,21.9,1,11,Stage 2 Hypertension,Occipital Headache
+715,47,186,79,65,292,83,18.2,0,25,Hypertensive Crisis,Nausea
+716,55,142,69,52,176,107,20.2,0,26,Stage 2 Hypertension,Postural Hypotension
+717,77,110,83,70,262,81,23.3,1,29,Stage 1 Hypertension,Palpitations
+718,55,130,113,113,235,114,20.0,1,26,Stage 2 Hypertension,Tension-Type Headache
+719,32,164,94,85,263,86,34.8,1,4,Stage 2 Hypertension,Tension-Type Headache
+720,35,115,85,111,273,149,23.2,0,10,Stage 1 Hypertension,Palpitations
+721,69,190,96,91,198,104,20.2,1,3,Hypertensive Crisis,Tension-Type Headache
+722,46,178,97,91,225,135,21.4,0,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+723,77,114,80,110,204,144,28.0,1,3,Stage 1 Hypertension,Nausea
+724,38,112,113,62,205,110,19.1,0,27,Stage 2 Hypertension,Occipital Headache
+725,34,162,99,60,244,136,32.7,0,9,Stage 2 Hypertension,Palpitations
+726,35,132,98,103,193,98,34.3,0,3,Stage 2 Hypertension,Palpitations
+727,74,162,80,65,236,87,22.2,1,18,Stage 2 Hypertension,Postural Hypotension
+728,54,146,69,57,233,89,25.7,0,8,Stage 2 Hypertension,Nausea
+729,77,183,97,108,165,83,18.4,1,22,Hypertensive Crisis,Blurry Vision
+730,55,183,105,106,298,103,28.9,0,8,Hypertensive Crisis,Blurry Vision
+731,29,192,63,89,294,118,25.0,1,15,Hypertensive Crisis,Shortness of Breath
+732,18,126,119,108,186,123,22.6,0,13,Stage 2 Hypertension,Chronic Fatigue
+733,75,194,116,51,226,100,21.5,0,7,Hypertensive Crisis,Hypertensive Crisis Symptoms
+734,20,187,104,59,296,127,29.1,1,19,Hypertensive Crisis,Vertigo
+735,80,182,79,93,194,173,25.1,1,8,Hypertensive Crisis,Vertigo
+736,38,110,76,60,295,111,21.1,0,10,Normal,Shortness of Breath
+737,40,160,114,51,211,127,29.7,0,17,Stage 2 Hypertension,Occipital Headache
+738,26,154,66,99,249,151,27.6,1,1,Stage 2 Hypertension,Vertigo
+739,72,186,63,61,201,99,32.6,0,13,Hypertensive Crisis,Blurry Vision
+740,36,113,88,72,168,94,20.0,0,29,Stage 1 Hypertension,Tension-Type Headache
+741,79,171,73,67,258,132,31.4,1,26,Stage 2 Hypertension,Chronic Fatigue
+742,56,174,62,111,193,88,29.4,1,13,Stage 2 Hypertension,Nausea
+743,44,141,83,111,156,141,20.0,1,24,Stage 2 Hypertension,Blurry Vision
+744,63,143,96,87,266,161,29.8,0,16,Stage 2 Hypertension,Postural Hypotension
+745,51,181,75,116,217,77,25.5,0,29,Hypertensive Crisis,Nausea
+746,50,148,117,87,183,164,34.1,0,9,Stage 2 Hypertension,Vertigo
+747,67,135,114,116,218,72,20.4,1,10,Stage 2 Hypertension,Postural Hypotension
+748,37,143,111,110,204,136,28.9,0,6,Stage 2 Hypertension,Nausea
+749,57,163,63,50,159,177,24.5,1,5,Stage 2 Hypertension,Palpitations
+750,75,112,115,94,191,155,34.3,1,2,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+751,48,159,83,77,190,150,23.6,0,11,Stage 2 Hypertension,Blurry Vision
+752,55,121,93,70,271,169,34.4,1,9,Stage 2 Hypertension,Postural Hypotension
+753,62,174,89,62,287,86,33.3,0,6,Stage 2 Hypertension,Shortness of Breath
+754,58,163,77,76,159,83,22.6,1,8,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+755,26,114,78,56,251,78,31.7,1,9,Normal,Nausea
+756,26,166,90,71,277,131,34.9,1,9,Stage 2 Hypertension,Occipital Headache
+757,80,126,119,102,298,163,22.3,0,8,Stage 2 Hypertension,Shortness of Breath
+758,39,156,119,53,285,90,25.4,1,12,Stage 2 Hypertension,Blurry Vision
+759,33,132,78,72,241,145,26.8,0,26,Stage 1 Hypertension,Palpitations
+760,49,188,108,119,262,106,23.0,1,8,Hypertensive Crisis,Postural Hypotension
+761,83,194,105,82,227,165,18.3,1,3,Hypertensive Crisis,Tension-Type Headache
+762,31,123,78,77,234,80,21.7,1,13,Elevated,Postural Hypotension
+763,55,175,81,57,179,89,22.8,0,19,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+764,25,184,83,50,198,104,25.5,0,2,Hypertensive Crisis,Postural Hypotension
+765,38,160,104,86,158,122,20.9,0,17,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+766,73,147,71,112,294,116,32.8,0,16,Stage 2 Hypertension,Shortness of Breath
+767,63,173,89,71,218,179,30.0,0,4,Stage 2 Hypertension,Postural Hypotension
+768,60,147,117,119,207,144,19.4,1,18,Stage 2 Hypertension,Shortness of Breath
+769,63,159,97,70,211,121,29.1,1,14,Stage 2 Hypertension,Palpitations
+770,65,191,112,84,201,77,29.1,0,2,Hypertensive Crisis,Palpitations
+771,48,139,90,54,189,73,34.3,0,13,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+772,50,188,95,109,212,96,18.1,0,27,Hypertensive Crisis,Nausea
+773,61,160,78,95,296,113,22.2,0,27,Stage 2 Hypertension,Palpitations
+774,25,172,107,99,199,109,33.8,1,21,Stage 2 Hypertension,Chronic Fatigue
+775,19,161,104,97,290,171,33.8,0,20,Stage 2 Hypertension,Postural Hypotension
+776,34,147,95,55,227,116,30.2,0,17,Stage 2 Hypertension,Chronic Fatigue
+777,69,197,89,105,246,163,31.0,0,15,Hypertensive Crisis,Postural Hypotension
+778,62,188,114,108,192,113,19.6,0,25,Hypertensive Crisis,Vertigo
+779,54,139,108,78,185,117,26.7,1,20,Stage 2 Hypertension,Shortness of Breath
+780,59,160,114,67,271,160,21.9,1,5,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+781,61,190,92,51,257,154,21.1,0,7,Hypertensive Crisis,Blurry Vision
+782,55,114,77,57,159,121,31.8,1,18,Normal,Blurry Vision
+783,23,138,111,103,244,153,20.3,1,24,Stage 2 Hypertension,Occipital Headache
+784,85,113,108,87,155,137,26.0,0,11,Stage 2 Hypertension,Nausea
+785,68,119,118,97,206,80,34.0,0,18,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+786,52,165,87,76,278,146,21.2,1,27,Stage 2 Hypertension,Palpitations
+787,75,126,118,69,220,142,34.6,1,26,Stage 2 Hypertension,Tension-Type Headache
+788,74,183,106,61,170,73,34.9,1,5,Hypertensive Crisis,Nausea
+789,23,126,70,92,241,145,27.4,1,13,Elevated,Nausea
+790,30,193,116,110,276,142,20.9,1,28,Hypertensive Crisis,Tension-Type Headache
+791,76,197,119,80,229,146,23.4,0,18,Hypertensive Crisis,Shortness of Breath
+792,47,178,113,110,205,117,25.2,1,2,Stage 2 Hypertension,Nausea
+793,19,143,104,116,265,95,23.3,1,20,Stage 2 Hypertension,Vertigo
+794,75,115,92,84,297,171,22.8,1,4,Stage 2 Hypertension,Nausea
+795,53,162,76,64,174,175,34.5,1,13,Stage 2 Hypertension,Occipital Headache
+796,62,175,65,65,154,146,20.6,1,24,Stage 2 Hypertension,Chronic Fatigue
+797,26,186,63,62,269,108,30.5,1,29,Hypertensive Crisis,Blurry Vision
+798,82,152,79,84,170,161,18.0,1,16,Stage 2 Hypertension,Shortness of Breath
+799,67,184,107,108,167,127,28.1,1,6,Hypertensive Crisis,Hypertensive Crisis Symptoms
+800,49,132,106,70,206,88,33.6,0,26,Stage 2 Hypertension,Palpitations
+801,60,164,86,103,242,157,22.9,0,8,Stage 2 Hypertension,Vertigo
+802,71,189,74,79,168,152,21.2,1,16,Hypertensive Crisis,Shortness of Breath
+803,64,184,65,97,277,146,29.1,0,13,Hypertensive Crisis,Chronic Fatigue
+804,31,125,106,84,246,146,30.1,0,23,Stage 2 Hypertension,Occipital Headache
+805,65,117,73,87,280,127,29.7,0,29,Normal,Chronic Fatigue
+806,72,113,119,80,170,97,23.4,0,26,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+807,46,113,70,73,189,135,22.3,0,4,Normal,Tension-Type Headache
+808,64,165,98,98,216,79,34.3,0,2,Stage 2 Hypertension,Palpitations
+809,80,134,68,81,276,155,33.7,1,9,Stage 1 Hypertension,Tension-Type Headache
+810,36,176,85,104,204,146,25.8,1,18,Stage 2 Hypertension,Postural Hypotension
+811,26,176,75,107,258,127,32.4,0,17,Stage 2 Hypertension,Occipital Headache
+812,54,136,64,52,247,142,25.7,1,8,Stage 1 Hypertension,Palpitations
+813,69,141,116,118,261,166,25.2,0,26,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+814,74,159,111,59,264,83,20.7,1,15,Stage 2 Hypertension,Shortness of Breath
+815,45,170,69,74,266,153,25.2,1,9,Stage 2 Hypertension,Blurry Vision
+816,53,160,109,117,236,84,27.1,1,17,Stage 2 Hypertension,Palpitations
+817,81,128,62,110,230,165,18.4,0,23,Elevated,Shortness of Breath
+818,35,130,72,78,215,102,25.5,1,2,Stage 1 Hypertension,Shortness of Breath
+819,52,114,102,68,168,86,31.3,1,6,Stage 2 Hypertension,Postural Hypotension
+820,85,191,108,92,284,93,29.6,0,29,Hypertensive Crisis,Vertigo
+821,56,151,89,115,267,99,28.8,0,27,Stage 2 Hypertension,Occipital Headache
+822,25,170,113,110,191,131,33.5,1,5,Stage 2 Hypertension,Occipital Headache
+823,32,131,104,92,191,82,18.3,0,17,Stage 2 Hypertension,Postural Hypotension
+824,24,130,65,74,208,131,27.5,1,2,Stage 1 Hypertension,Tension-Type Headache
+825,34,179,76,69,169,116,31.4,1,18,Stage 2 Hypertension,Tension-Type Headache
+826,81,110,118,97,222,85,27.2,0,10,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+827,29,114,104,73,166,135,23.5,0,10,Stage 2 Hypertension,Vertigo
+828,73,121,110,60,176,150,20.3,1,6,Stage 2 Hypertension,Shortness of Breath
+829,63,199,112,104,151,165,33.1,0,27,Hypertensive Crisis,Nausea
+830,64,155,78,77,212,112,26.0,1,12,Stage 2 Hypertension,Nausea
+831,33,143,101,118,211,77,32.9,0,17,Stage 2 Hypertension,Tension-Type Headache
+832,19,158,94,112,249,72,28.0,0,27,Stage 2 Hypertension,Postural Hypotension
+833,71,187,105,108,168,81,29.5,0,13,Hypertensive Crisis,Vertigo
+834,44,199,85,54,166,153,31.7,0,20,Hypertensive Crisis,Chronic Fatigue
+835,48,154,110,100,218,85,29.2,0,28,Stage 2 Hypertension,Blurry Vision
+836,58,136,64,70,266,147,24.8,1,16,Stage 1 Hypertension,Vertigo
+837,53,182,88,61,230,149,26.7,1,10,Hypertensive Crisis,Hypertensive Crisis Symptoms
+838,64,135,96,99,188,128,31.7,1,27,Stage 2 Hypertension,Shortness of Breath
+839,60,156,79,53,185,118,24.4,0,21,Stage 2 Hypertension,Shortness of Breath
+840,82,195,108,91,281,132,24.6,1,2,Hypertensive Crisis,Occipital Headache
+841,67,165,80,87,178,131,19.6,1,2,Stage 2 Hypertension,Palpitations
+842,18,172,69,74,200,176,33.5,0,23,Stage 2 Hypertension,Palpitations
+843,74,157,64,63,163,118,19.5,0,7,Stage 2 Hypertension,Occipital Headache
+844,33,170,95,81,218,120,29.0,0,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+845,45,190,65,60,295,102,25.0,1,1,Hypertensive Crisis,Shortness of Breath
+846,39,135,85,110,206,99,24.9,1,12,Stage 1 Hypertension,Palpitations
+847,58,145,63,67,161,128,29.6,0,13,Stage 2 Hypertension,Palpitations
+848,36,110,98,76,166,145,19.1,1,12,Stage 2 Hypertension,Blurry Vision
+849,67,117,98,104,179,84,28.1,1,19,Stage 2 Hypertension,Palpitations
+850,76,161,109,103,237,151,31.1,0,9,Stage 2 Hypertension,Shortness of Breath
+851,51,188,94,70,248,161,32.1,1,10,Hypertensive Crisis,Hypertensive Crisis Symptoms
+852,56,156,60,93,172,92,20.9,0,17,Stage 2 Hypertension,Chronic Fatigue
+853,24,165,83,54,278,147,33.3,1,18,Stage 2 Hypertension,Tension-Type Headache
+854,69,195,116,90,228,163,29.2,0,8,Hypertensive Crisis,Vertigo
+855,77,123,95,108,181,166,33.0,1,7,Stage 2 Hypertension,Postural Hypotension
+856,69,199,65,103,158,114,26.2,1,9,Hypertensive Crisis,Nausea
+857,41,137,100,71,164,131,27.2,0,10,Stage 2 Hypertension,Vertigo
+858,43,196,113,114,176,148,33.6,0,12,Hypertensive Crisis,Blurry Vision
+859,27,187,105,113,258,140,33.3,0,15,Hypertensive Crisis,Palpitations
+860,34,197,119,53,225,84,25.6,0,15,Hypertensive Crisis,Hypertensive Crisis Symptoms
+861,19,111,103,114,297,175,22.7,1,28,Stage 2 Hypertension,Chronic Fatigue
+862,44,135,119,64,214,115,24.7,0,4,Stage 2 Hypertension,Nausea
+863,65,123,116,71,258,133,24.6,0,4,Stage 2 Hypertension,Occipital Headache
+864,26,168,90,96,278,171,22.9,0,23,Stage 2 Hypertension,Chronic Fatigue
+865,40,165,79,95,159,115,22.6,0,1,Stage 2 Hypertension,Tension-Type Headache
+866,44,116,83,63,196,125,32.6,0,26,Stage 1 Hypertension,Palpitations
+867,60,112,84,99,272,113,19.2,1,12,Stage 1 Hypertension,Postural Hypotension
+868,24,132,95,69,208,144,29.5,0,25,Stage 2 Hypertension,Nausea
+869,80,127,80,99,245,98,20.9,0,2,Stage 1 Hypertension,Palpitations
+870,61,147,89,82,252,164,23.9,0,15,Stage 2 Hypertension,Nausea
+871,56,124,83,108,273,131,19.0,1,17,Stage 1 Hypertension,Postural Hypotension
+872,57,173,103,92,235,158,22.6,1,7,Stage 2 Hypertension,Tension-Type Headache
+873,24,198,101,61,295,121,31.1,1,6,Hypertensive Crisis,Occipital Headache
+874,42,137,89,89,261,123,33.0,0,12,Stage 1 Hypertension,Shortness of Breath
+875,76,183,81,69,176,157,21.8,0,19,Hypertensive Crisis,Hypertensive Crisis Symptoms
+876,30,148,87,87,167,126,25.9,1,1,Stage 2 Hypertension,Chronic Fatigue
+877,79,166,66,52,231,152,26.0,1,28,Stage 2 Hypertension,Vertigo
+878,25,126,94,77,221,135,32.9,0,21,Stage 2 Hypertension,Occipital Headache
+879,62,195,114,105,203,91,31.0,0,26,Hypertensive Crisis,Occipital Headache
+880,35,199,87,62,220,89,26.7,0,14,Hypertensive Crisis,Blurry Vision
+881,77,153,73,115,295,102,29.4,1,4,Stage 2 Hypertension,Nausea
+882,77,134,115,86,187,141,32.4,0,5,Stage 2 Hypertension,Nausea
+883,19,126,69,98,286,94,18.2,0,1,Elevated,Blurry Vision
+884,83,122,75,115,184,115,24.8,1,1,Elevated,Chronic Fatigue
+885,31,193,75,85,231,142,33.4,1,21,Hypertensive Crisis,Nausea
+886,65,134,113,103,282,167,30.6,1,6,Stage 2 Hypertension,Shortness of Breath
+887,73,177,90,75,291,126,27.2,0,5,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+888,29,119,101,89,153,156,27.0,1,2,Stage 2 Hypertension,Vertigo
+889,72,176,84,92,299,74,23.9,1,25,Stage 2 Hypertension,Vertigo
+890,45,127,72,71,172,124,26.8,0,21,Elevated,Postural Hypotension
+891,21,195,65,69,197,130,29.1,0,27,Hypertensive Crisis,Postural Hypotension
+892,53,143,103,57,297,158,25.1,1,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+893,67,117,68,78,274,77,30.1,0,5,Normal,Palpitations
+894,20,149,104,89,204,85,32.6,1,26,Stage 2 Hypertension,Palpitations
+895,18,192,95,79,217,117,20.6,0,9,Hypertensive Crisis,Occipital Headache
+896,34,151,115,104,237,178,25.7,0,19,Stage 2 Hypertension,Occipital Headache
+897,79,150,102,65,150,130,24.9,1,21,Stage 2 Hypertension,Blurry Vision
+898,65,115,79,95,284,84,29.7,1,15,Normal,Tension-Type Headache
+899,79,161,77,111,244,134,22.2,1,13,Stage 2 Hypertension,Postural Hypotension
+900,36,135,117,56,289,91,28.9,0,12,Stage 2 Hypertension,Tension-Type Headache
+901,51,173,102,94,255,72,32.9,1,5,Stage 2 Hypertension,Nausea
+902,66,168,116,108,282,171,25.1,0,2,Stage 2 Hypertension,Vertigo
+903,64,165,80,105,257,123,33.5,0,27,Stage 2 Hypertension,Occipital Headache
+904,67,168,63,97,191,83,34.9,1,4,Stage 2 Hypertension,Palpitations
+905,43,179,109,76,251,105,19.8,0,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+906,73,142,92,102,273,151,22.0,0,27,Stage 2 Hypertension,Postural Hypotension
+907,31,162,86,84,289,174,34.2,1,18,Stage 2 Hypertension,Vertigo
+908,42,131,66,100,252,151,34.3,0,21,Stage 1 Hypertension,Chronic Fatigue
+909,21,130,65,86,295,136,19.7,0,10,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+910,49,179,74,106,223,79,18.3,1,13,Stage 2 Hypertension,Tension-Type Headache
+911,82,179,77,57,257,118,20.7,1,12,Stage 2 Hypertension,Shortness of Breath
+912,78,113,91,69,271,172,34.9,0,2,Stage 2 Hypertension,Tension-Type Headache
+913,37,184,115,102,166,134,21.1,0,26,Hypertensive Crisis,Postural Hypotension
+914,27,171,70,61,220,160,26.5,0,15,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+915,51,171,79,98,211,126,32.4,0,14,Stage 2 Hypertension,Shortness of Breath
+916,78,133,83,66,190,96,18.3,1,25,Stage 1 Hypertension,Nausea
+917,44,164,74,113,268,144,28.3,0,10,Stage 2 Hypertension,Chronic Fatigue
+918,57,118,107,91,194,74,22.7,0,22,Stage 2 Hypertension,Tension-Type Headache
+919,82,112,66,78,207,140,32.7,0,8,Normal,Chronic Fatigue
+920,50,140,80,68,275,152,22.8,0,25,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+921,85,149,101,60,193,126,29.7,1,15,Stage 2 Hypertension,Vertigo
+922,26,145,85,99,164,162,29.5,0,13,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+923,33,133,103,107,227,84,21.8,1,8,Stage 2 Hypertension,Palpitations
+924,22,115,115,83,219,168,18.6,1,21,Stage 2 Hypertension,Shortness of Breath
+925,40,175,73,69,250,170,25.0,1,21,Stage 2 Hypertension,Vertigo
+926,60,193,116,99,152,145,22.9,1,22,Hypertensive Crisis,Tension-Type Headache
+927,74,184,96,59,235,99,31.8,1,14,Hypertensive Crisis,Nausea
+928,68,113,117,81,223,89,31.6,0,1,Stage 2 Hypertension,Chronic Fatigue
+929,30,188,80,101,200,106,25.8,1,13,Hypertensive Crisis,Hypertensive Crisis Symptoms
+930,41,115,77,64,216,72,28.3,1,27,Normal,Blurry Vision
+931,28,160,64,52,225,142,28.3,1,8,Stage 2 Hypertension,Postural Hypotension
+932,69,171,62,86,242,110,32.1,0,18,Stage 2 Hypertension,Tension-Type Headache
+933,34,166,82,89,294,108,25.2,1,22,Stage 2 Hypertension,Postural Hypotension
+934,54,175,85,89,156,95,22.7,0,9,Stage 2 Hypertension,Vertigo
+935,30,188,96,105,162,71,22.5,1,13,Hypertensive Crisis,Palpitations
+936,79,184,83,72,269,92,27.1,1,3,Hypertensive Crisis,Tension-Type Headache
+937,25,117,108,60,215,92,25.6,0,18,Stage 2 Hypertension,Palpitations
+938,73,135,78,113,153,154,25.5,0,10,Stage 1 Hypertension,Palpitations
+939,61,160,110,57,287,85,19.5,0,5,Stage 2 Hypertension,Nausea
+940,77,154,84,105,237,78,30.2,1,27,Stage 2 Hypertension,Vertigo
+941,58,153,80,109,166,82,21.6,0,25,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+942,38,114,71,59,201,97,21.3,0,6,Normal,Blurry Vision
+943,59,179,116,88,283,96,25.0,0,8,Stage 2 Hypertension,Shortness of Breath
+944,46,135,100,77,218,120,21.9,0,24,Stage 2 Hypertension,Palpitations
+945,82,177,92,98,286,133,27.9,0,7,Stage 2 Hypertension,Vertigo
+946,34,128,109,85,170,121,24.3,1,21,Stage 2 Hypertension,Nausea
+947,47,193,112,62,173,150,25.6,0,18,Hypertensive Crisis,Tension-Type Headache
+948,43,129,63,85,153,107,27.1,1,14,Elevated,Occipital Headache
+949,70,121,101,75,152,169,21.5,0,15,Stage 2 Hypertension,Occipital Headache
+950,36,156,116,53,217,134,20.6,0,10,Stage 2 Hypertension,Blurry Vision
+951,70,110,66,113,250,87,33.0,1,26,Normal,Nausea
+952,34,199,81,87,203,132,25.4,1,21,Hypertensive Crisis,Vertigo
+953,63,123,114,71,184,120,25.0,1,12,Stage 2 Hypertension,Nausea
+954,70,173,92,51,205,78,18.6,1,7,Stage 2 Hypertension,Shortness of Breath
+955,81,147,76,80,257,82,26.5,0,28,Stage 2 Hypertension,Shortness of Breath
+956,62,146,83,60,189,109,27.4,1,28,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+957,66,120,93,95,217,124,27.5,0,7,Stage 2 Hypertension,Occipital Headache
+958,36,186,87,111,195,178,30.0,0,11,Hypertensive Crisis,Occipital Headache
+959,82,112,117,118,227,148,21.0,0,13,Stage 2 Hypertension,Shortness of Breath
+960,54,142,102,113,290,112,22.3,1,15,Stage 2 Hypertension,Nausea
+961,43,115,100,59,155,113,31.8,1,18,Stage 2 Hypertension,Blurry Vision
+962,19,159,98,89,166,179,34.1,1,7,Stage 2 Hypertension,Blurry Vision
+963,76,119,81,73,248,137,20.3,0,6,Stage 1 Hypertension,Palpitations
+964,22,114,108,93,230,102,26.5,1,23,Stage 2 Hypertension,Tension-Type Headache
+965,54,132,76,109,151,93,21.6,1,11,Stage 1 Hypertension,Occipital Headache
+966,48,119,93,111,226,105,19.0,0,8,Stage 2 Hypertension,Shortness of Breath
+967,65,153,65,66,215,174,23.5,1,20,Stage 2 Hypertension,Nausea
+968,23,111,105,114,201,79,20.4,0,1,Stage 2 Hypertension,Vertigo
+969,32,122,65,106,241,169,30.1,1,8,Elevated,Tension-Type Headache
+970,32,149,93,104,171,89,27.1,1,8,Stage 2 Hypertension,Blurry Vision
+971,78,111,60,102,260,174,20.4,1,19,Normal,Postural Hypotension
+972,33,193,69,105,256,178,18.2,1,3,Hypertensive Crisis,Postural Hypotension
+973,37,174,80,58,216,177,31.7,1,5,Stage 2 Hypertension,Nausea
+974,61,172,64,71,289,144,21.0,0,3,Stage 2 Hypertension,Chronic Fatigue
+975,59,182,61,62,218,81,28.3,1,15,Hypertensive Crisis,Chronic Fatigue
+976,63,126,81,97,233,131,23.7,1,14,Stage 1 Hypertension,Occipital Headache
+977,51,118,107,67,252,87,28.0,1,21,Stage 2 Hypertension,Vertigo
+978,81,184,116,89,188,163,23.4,1,15,Hypertensive Crisis,Palpitations
+979,46,124,61,66,162,177,19.5,1,24,Elevated,Nausea
+980,20,133,69,64,190,170,21.8,1,17,Stage 1 Hypertension,Postural Hypotension
+981,26,147,93,64,206,132,21.2,1,18,Stage 2 Hypertension,Postural Hypotension
+982,42,144,75,112,161,153,25.3,0,2,Stage 2 Hypertension,Vertigo
+983,59,158,107,88,162,94,29.2,0,12,Stage 2 Hypertension,Occipital Headache
+984,63,178,110,62,269,81,22.5,1,16,Stage 2 Hypertension,Chronic Fatigue
+985,76,171,98,81,246,90,18.2,0,4,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+986,38,169,81,58,206,94,26.8,1,25,Stage 2 Hypertension,Occipital Headache
+987,39,159,71,89,189,80,28.3,0,2,Stage 2 Hypertension,Occipital Headache
+988,46,187,83,69,267,133,34.4,1,28,Hypertensive Crisis,Blurry Vision
+989,80,184,106,112,229,142,28.0,1,14,Hypertensive Crisis,Palpitations
+990,78,118,99,93,277,119,26.0,0,11,Stage 2 Hypertension,Palpitations
+991,81,143,97,87,184,131,27.7,1,13,Stage 2 Hypertension,Postural Hypotension
+992,57,185,119,109,152,158,33.8,0,28,Hypertensive Crisis,Palpitations
+993,18,144,118,97,269,168,32.1,1,25,Stage 2 Hypertension,Postural Hypotension
+994,82,110,69,67,154,165,23.5,1,7,Normal,Occipital Headache
+995,79,149,94,65,160,118,22.0,1,10,Stage 2 Hypertension,Vertigo
+996,71,173,110,104,275,83,22.5,1,24,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+997,77,131,108,88,220,70,26.6,0,1,Stage 2 Hypertension,Vertigo
+998,63,169,91,117,266,150,30.6,1,29,Stage 2 Hypertension,Occipital Headache
+999,22,173,66,108,287,94,26.6,0,21,Stage 2 Hypertension,Shortness of Breath
+1000,39,181,80,111,255,128,19.2,0,25,Hypertensive Crisis,Nausea
+1001,70,120,79,62,265,141,30.3,1,28,Elevated,Chronic Fatigue
+1002,49,123,85,55,216,138,31.7,1,4,Stage 1 Hypertension,Nausea
+1003,28,169,63,109,180,74,22.9,0,18,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1004,27,139,105,63,224,174,29.3,0,6,Stage 2 Hypertension,Palpitations
+1005,56,144,111,103,220,168,25.3,1,2,Stage 2 Hypertension,Nausea
+1006,48,194,81,53,215,88,33.1,0,3,Hypertensive Crisis,Palpitations
+1007,29,146,74,88,219,92,32.4,0,14,Stage 2 Hypertension,Occipital Headache
+1008,55,114,115,74,190,78,26.9,0,8,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1009,84,192,99,81,169,163,29.8,1,16,Hypertensive Crisis,Blurry Vision
+1010,83,187,80,108,289,119,33.0,0,19,Hypertensive Crisis,Chronic Fatigue
+1011,69,135,74,112,188,85,26.4,0,18,Stage 1 Hypertension,Chronic Fatigue
+1012,22,171,81,87,294,102,23.3,0,6,Stage 2 Hypertension,Shortness of Breath
+1013,28,113,111,102,194,71,30.8,0,14,Stage 2 Hypertension,Blurry Vision
+1014,42,198,87,116,288,83,21.7,1,3,Hypertensive Crisis,Postural Hypotension
+1015,52,151,73,77,219,179,24.6,1,16,Stage 2 Hypertension,Chronic Fatigue
+1016,52,198,86,52,274,70,32.7,0,1,Hypertensive Crisis,Tension-Type Headache
+1017,39,127,100,71,240,159,30.3,0,12,Stage 2 Hypertension,Postural Hypotension
+1018,54,149,99,87,219,127,24.9,0,14,Stage 2 Hypertension,Chronic Fatigue
+1019,72,181,117,111,279,158,21.7,1,19,Hypertensive Crisis,Occipital Headache
+1020,81,148,87,106,233,85,24.1,1,22,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1021,37,123,85,55,238,148,22.8,0,19,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+1022,21,141,108,81,228,159,21.0,0,9,Stage 2 Hypertension,Tension-Type Headache
+1023,35,160,61,59,262,116,30.6,1,7,Stage 2 Hypertension,Occipital Headache
+1024,68,147,84,52,242,113,22.3,0,14,Stage 2 Hypertension,Tension-Type Headache
+1025,85,132,115,108,221,149,25.7,0,5,Stage 2 Hypertension,Palpitations
+1026,37,172,62,98,198,83,24.6,1,18,Stage 2 Hypertension,Vertigo
+1027,26,124,67,108,201,162,34.7,1,9,Elevated,Chronic Fatigue
+1028,43,134,103,80,182,93,24.6,1,21,Stage 2 Hypertension,Occipital Headache
+1029,42,126,92,118,171,124,19.4,1,7,Stage 2 Hypertension,Vertigo
+1030,85,175,101,111,263,84,19.5,1,9,Stage 2 Hypertension,Vertigo
+1031,58,187,111,101,282,152,28.0,0,4,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1032,76,162,94,90,167,141,28.2,1,25,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1033,62,160,65,80,267,103,25.1,1,17,Stage 2 Hypertension,Blurry Vision
+1034,58,148,98,71,266,71,25.3,1,12,Stage 2 Hypertension,Palpitations
+1035,55,160,111,53,186,96,18.9,1,6,Stage 2 Hypertension,Occipital Headache
+1036,36,179,82,62,213,143,26.8,1,18,Stage 2 Hypertension,Shortness of Breath
+1037,31,115,84,94,287,168,26.6,1,8,Stage 1 Hypertension,Occipital Headache
+1038,38,176,118,91,228,156,20.5,0,21,Stage 2 Hypertension,Palpitations
+1039,32,116,109,98,272,141,19.8,1,15,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1040,20,160,102,69,193,161,20.1,0,3,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1041,54,181,78,103,231,92,19.7,0,2,Hypertensive Crisis,Chronic Fatigue
+1042,63,151,64,85,236,137,28.4,1,24,Stage 2 Hypertension,Nausea
+1043,33,173,110,50,165,83,21.3,1,23,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1044,31,124,70,64,203,132,22.3,0,9,Elevated,Tension-Type Headache
+1045,26,138,115,66,251,175,21.0,0,8,Stage 2 Hypertension,Chronic Fatigue
+1046,24,142,71,73,247,162,34.3,0,27,Stage 2 Hypertension,Postural Hypotension
+1047,31,136,69,107,151,134,32.5,1,4,Stage 1 Hypertension,Nausea
+1048,23,145,67,72,243,137,21.9,0,2,Stage 2 Hypertension,Nausea
+1049,32,138,83,95,290,132,23.6,1,14,Stage 1 Hypertension,Tension-Type Headache
+1050,69,147,119,57,208,165,21.6,1,29,Stage 2 Hypertension,Nausea
+1051,51,166,87,108,218,166,26.4,0,2,Stage 2 Hypertension,Shortness of Breath
+1052,18,136,100,108,268,159,18.3,1,2,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1053,37,164,95,62,241,150,29.4,1,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1054,24,142,96,88,194,172,26.9,0,28,Stage 2 Hypertension,Chronic Fatigue
+1055,24,177,80,77,297,156,33.3,0,22,Stage 2 Hypertension,Palpitations
+1056,67,195,67,110,173,133,20.8,1,7,Hypertensive Crisis,Tension-Type Headache
+1057,19,175,114,65,240,101,31.7,0,12,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1058,64,119,68,51,243,148,31.5,1,6,Normal,Vertigo
+1059,31,114,106,66,207,82,20.2,0,18,Stage 2 Hypertension,Blurry Vision
+1060,48,183,74,79,277,135,24.8,0,4,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1061,67,147,107,62,156,88,20.9,0,19,Stage 2 Hypertension,Occipital Headache
+1062,78,122,105,62,196,93,22.3,0,27,Stage 2 Hypertension,Vertigo
+1063,58,140,99,92,202,178,22.5,1,13,Stage 2 Hypertension,Palpitations
+1064,31,156,77,70,187,157,27.5,0,20,Stage 2 Hypertension,Vertigo
+1065,22,197,101,104,202,80,25.0,1,21,Hypertensive Crisis,Nausea
+1066,22,161,119,89,292,128,34.1,1,23,Stage 2 Hypertension,Blurry Vision
+1067,81,165,79,64,197,155,20.1,0,25,Stage 2 Hypertension,Postural Hypotension
+1068,46,124,65,101,244,84,34.6,0,27,Elevated,Blurry Vision
+1069,22,138,71,102,296,79,21.9,0,2,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+1070,53,117,61,101,286,110,31.1,0,8,Normal,Chronic Fatigue
+1071,36,114,66,79,213,96,23.8,0,19,Normal,Shortness of Breath
+1072,81,138,75,82,242,129,20.4,1,9,Stage 1 Hypertension,Palpitations
+1073,39,156,62,106,274,142,32.6,0,26,Stage 2 Hypertension,Chronic Fatigue
+1074,51,177,104,101,188,121,23.3,1,28,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1075,73,185,62,58,153,97,29.2,1,4,Hypertensive Crisis,Chronic Fatigue
+1076,34,154,86,103,275,134,27.6,1,16,Stage 2 Hypertension,Occipital Headache
+1077,73,111,109,50,152,86,26.0,1,19,Stage 2 Hypertension,Vertigo
+1078,34,136,102,93,213,164,26.4,0,10,Stage 2 Hypertension,Shortness of Breath
+1079,35,145,99,58,178,113,30.4,0,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1080,62,145,97,81,265,79,19.5,1,16,Stage 2 Hypertension,Nausea
+1081,73,135,92,64,160,132,29.4,1,10,Stage 2 Hypertension,Palpitations
+1082,67,152,87,61,246,170,33.2,0,13,Stage 2 Hypertension,Nausea
+1083,75,136,60,106,251,162,19.0,1,9,Stage 1 Hypertension,Vertigo
+1084,35,178,114,57,170,151,20.4,0,7,Stage 2 Hypertension,Shortness of Breath
+1085,24,129,67,76,188,116,30.2,1,4,Elevated,Vertigo
+1086,27,120,96,111,251,107,25.4,0,19,Stage 2 Hypertension,Tension-Type Headache
+1087,20,183,91,61,195,172,24.9,1,26,Hypertensive Crisis,Nausea
+1088,61,147,119,114,215,139,20.3,1,4,Stage 2 Hypertension,Vertigo
+1089,31,115,107,91,240,173,26.6,1,19,Stage 2 Hypertension,Vertigo
+1090,21,181,102,111,260,145,20.2,0,28,Hypertensive Crisis,Chronic Fatigue
+1091,35,132,96,60,231,122,26.1,0,19,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1092,69,156,63,92,272,147,31.0,0,12,Stage 2 Hypertension,Chronic Fatigue
+1093,55,199,89,66,248,113,22.4,1,13,Hypertensive Crisis,Tension-Type Headache
+1094,37,155,65,81,184,143,26.2,1,25,Stage 2 Hypertension,Blurry Vision
+1095,61,121,105,89,252,123,34.9,1,4,Stage 2 Hypertension,Blurry Vision
+1096,68,199,113,72,278,89,29.7,1,25,Hypertensive Crisis,Chronic Fatigue
+1097,36,122,78,105,174,148,32.3,1,28,Elevated,Postural Hypotension
+1098,85,171,91,55,192,100,25.1,1,10,Stage 2 Hypertension,Nausea
+1099,83,191,68,99,233,76,31.1,0,21,Hypertensive Crisis,Chronic Fatigue
+1100,30,198,71,86,200,127,18.7,0,7,Hypertensive Crisis,Occipital Headache
+1101,79,169,70,113,279,174,20.1,0,5,Stage 2 Hypertension,Occipital Headache
+1102,78,152,105,103,275,79,21.5,1,17,Stage 2 Hypertension,Palpitations
+1103,47,185,114,98,218,79,24.8,0,18,Hypertensive Crisis,Tension-Type Headache
+1104,47,177,75,60,158,108,32.4,1,11,Stage 2 Hypertension,Tension-Type Headache
+1105,68,114,60,98,151,97,23.9,1,15,Normal,Chronic Fatigue
+1106,65,146,104,70,159,99,29.1,0,21,Stage 2 Hypertension,Shortness of Breath
+1107,50,181,114,115,263,106,30.1,1,22,Hypertensive Crisis,Vertigo
+1108,36,140,112,112,225,136,28.0,1,7,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1109,74,118,80,77,234,112,24.1,1,18,Stage 1 Hypertension,Vertigo
+1110,36,160,89,66,198,148,27.8,1,26,Stage 2 Hypertension,Vertigo
+1111,58,138,72,55,219,154,23.8,1,25,Stage 1 Hypertension,Tension-Type Headache
+1112,59,187,93,68,280,121,19.4,0,6,Hypertensive Crisis,Tension-Type Headache
+1113,69,149,63,105,282,170,34.9,0,18,Stage 2 Hypertension,Occipital Headache
+1114,21,150,87,77,239,125,20.2,1,16,Stage 2 Hypertension,Tension-Type Headache
+1115,21,195,97,115,175,145,19.2,1,2,Hypertensive Crisis,Chronic Fatigue
+1116,22,120,117,87,221,137,32.9,0,19,Stage 2 Hypertension,Occipital Headache
+1117,58,132,90,86,154,78,23.1,0,1,Stage 2 Hypertension,Nausea
+1118,78,110,118,117,164,172,29.1,0,25,Stage 2 Hypertension,Vertigo
+1119,72,155,114,98,272,175,23.6,1,26,Stage 2 Hypertension,Nausea
+1120,30,130,86,92,293,161,24.7,0,11,Stage 1 Hypertension,Vertigo
+1121,31,199,64,85,150,92,22.5,0,20,Hypertensive Crisis,Vertigo
+1122,77,145,84,107,293,132,23.8,1,5,Stage 2 Hypertension,Palpitations
+1123,42,163,62,62,152,178,25.0,1,16,Stage 2 Hypertension,Vertigo
+1124,61,196,92,101,196,130,30.2,0,23,Hypertensive Crisis,Shortness of Breath
+1125,27,166,63,107,244,109,26.7,1,1,Stage 2 Hypertension,Nausea
+1126,67,110,84,81,162,113,34.0,0,19,Stage 1 Hypertension,Vertigo
+1127,61,172,79,109,269,155,18.7,0,14,Stage 2 Hypertension,Postural Hypotension
+1128,31,163,93,107,204,93,26.6,1,3,Stage 2 Hypertension,Postural Hypotension
+1129,32,164,85,105,298,120,27.9,1,2,Stage 2 Hypertension,Postural Hypotension
+1130,33,149,64,77,215,127,33.6,0,24,Stage 2 Hypertension,Chronic Fatigue
+1131,19,124,94,50,239,159,18.8,1,5,Stage 2 Hypertension,Occipital Headache
+1132,47,130,87,91,211,163,27.7,1,17,Stage 1 Hypertension,Nausea
+1133,47,156,88,97,251,102,32.5,1,28,Stage 2 Hypertension,Vertigo
+1134,48,182,68,89,288,85,22.1,1,18,Hypertensive Crisis,Blurry Vision
+1135,37,162,111,112,157,91,32.9,1,1,Stage 2 Hypertension,Occipital Headache
+1136,66,118,97,53,246,126,18.3,1,15,Stage 2 Hypertension,Blurry Vision
+1137,52,183,109,87,266,131,30.5,1,22,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1138,40,161,65,76,213,176,33.9,0,9,Stage 2 Hypertension,Shortness of Breath
+1139,78,166,78,58,170,151,29.2,1,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1140,72,135,119,65,264,140,25.5,0,23,Stage 2 Hypertension,Tension-Type Headache
+1141,84,150,103,105,234,159,18.8,1,5,Stage 2 Hypertension,Occipital Headache
+1142,25,144,116,80,169,141,33.6,0,28,Stage 2 Hypertension,Blurry Vision
+1143,57,172,70,63,157,139,26.0,1,13,Stage 2 Hypertension,Palpitations
+1144,76,134,61,74,207,99,18.5,0,19,Stage 1 Hypertension,Vertigo
+1145,49,199,106,83,195,172,29.7,1,28,Hypertensive Crisis,Chronic Fatigue
+1146,24,184,103,116,180,92,26.2,0,28,Hypertensive Crisis,Nausea
+1147,19,147,103,73,242,101,20.1,1,24,Stage 2 Hypertension,Vertigo
+1148,23,111,68,75,158,155,21.6,1,10,Normal,Nausea
+1149,53,116,80,69,164,175,19.1,0,20,Stage 1 Hypertension,Palpitations
+1150,49,191,83,113,243,176,27.8,0,25,Hypertensive Crisis,Vertigo
+1151,62,143,93,59,287,126,28.6,1,21,Stage 2 Hypertension,Shortness of Breath
+1152,59,126,81,116,178,178,26.6,0,14,Stage 1 Hypertension,Tension-Type Headache
+1153,70,152,62,73,229,78,31.9,0,22,Stage 2 Hypertension,Postural Hypotension
+1154,26,168,71,54,185,100,32.6,1,21,Stage 2 Hypertension,Palpitations
+1155,66,160,87,116,233,140,28.5,0,26,Stage 2 Hypertension,Tension-Type Headache
+1156,19,163,89,107,258,78,18.2,1,12,Stage 2 Hypertension,Vertigo
+1157,84,133,85,76,267,82,29.8,0,11,Stage 1 Hypertension,Blurry Vision
+1158,28,134,107,64,186,127,25.1,1,23,Stage 2 Hypertension,Tension-Type Headache
+1159,67,180,80,84,235,72,27.6,0,7,Hypertensive Crisis,Chronic Fatigue
+1160,52,161,87,102,220,104,29.0,1,17,Stage 2 Hypertension,Tension-Type Headache
+1161,32,179,115,93,242,166,24.0,1,18,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1162,48,197,85,75,229,90,33.6,0,7,Hypertensive Crisis,Shortness of Breath
+1163,79,142,92,96,251,133,20.3,0,24,Stage 2 Hypertension,Palpitations
+1164,45,158,80,83,163,164,29.4,1,20,Stage 2 Hypertension,Postural Hypotension
+1165,42,138,94,99,266,121,18.1,1,6,Stage 2 Hypertension,Vertigo
+1166,42,172,111,61,222,103,33.7,0,11,Stage 2 Hypertension,Palpitations
+1167,18,131,93,53,240,165,19.9,0,12,Stage 2 Hypertension,Occipital Headache
+1168,76,135,100,97,239,104,19.6,0,26,Stage 2 Hypertension,Palpitations
+1169,59,137,110,104,178,84,23.7,0,16,Stage 2 Hypertension,Chronic Fatigue
+1170,51,194,106,50,198,165,24.4,0,19,Hypertensive Crisis,Palpitations
+1171,83,158,77,115,221,75,21.6,0,23,Stage 2 Hypertension,Occipital Headache
+1172,35,180,117,79,282,178,27.9,1,27,Hypertensive Crisis,Tension-Type Headache
+1173,22,190,70,52,191,154,25.5,0,19,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1174,37,193,116,70,284,166,18.6,0,11,Hypertensive Crisis,Tension-Type Headache
+1175,83,158,82,98,191,101,23.4,0,16,Stage 2 Hypertension,Tension-Type Headache
+1176,79,129,107,111,254,121,31.8,0,23,Stage 2 Hypertension,Occipital Headache
+1177,49,195,81,87,176,152,29.7,1,28,Hypertensive Crisis,Nausea
+1178,75,172,76,64,207,166,30.3,1,27,Stage 2 Hypertension,Postural Hypotension
+1179,67,170,64,101,195,97,29.9,1,12,Stage 2 Hypertension,Occipital Headache
+1180,55,158,103,95,215,164,23.3,1,27,Stage 2 Hypertension,Tension-Type Headache
+1181,72,180,70,74,174,154,19.7,0,8,Hypertensive Crisis,Palpitations
+1182,45,110,89,70,222,167,22.6,1,3,Stage 1 Hypertension,Postural Hypotension
+1183,39,122,74,54,266,133,32.1,0,2,Elevated,Vertigo
+1184,60,196,86,119,278,148,34.7,0,28,Hypertensive Crisis,Blurry Vision
+1185,53,160,94,96,236,147,26.4,1,6,Stage 2 Hypertension,Vertigo
+1186,69,165,92,117,223,88,18.2,1,16,Stage 2 Hypertension,Chronic Fatigue
+1187,53,192,79,67,274,176,20.4,0,20,Hypertensive Crisis,Tension-Type Headache
+1188,45,171,75,70,216,84,23.5,1,24,Stage 2 Hypertension,Palpitations
+1189,75,141,93,72,155,75,27.8,1,29,Stage 2 Hypertension,Nausea
+1190,53,139,61,113,274,142,19.3,0,15,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+1191,26,138,94,116,207,170,34.0,0,14,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1192,38,158,99,89,219,153,24.2,0,2,Stage 2 Hypertension,Postural Hypotension
+1193,81,154,115,59,202,167,33.5,0,20,Stage 2 Hypertension,Nausea
+1194,78,139,87,101,215,107,31.3,0,18,Stage 1 Hypertension,Blurry Vision
+1195,57,125,106,110,207,95,30.8,1,14,Stage 2 Hypertension,Vertigo
+1196,73,149,98,113,231,151,28.3,0,18,Stage 2 Hypertension,Blurry Vision
+1197,21,128,65,54,236,161,28.7,0,2,Elevated,Shortness of Breath
+1198,48,127,68,102,151,120,28.8,0,1,Elevated,Vertigo
+1199,44,110,79,104,299,142,28.7,1,20,Normal,Vertigo
+1200,75,187,119,86,186,165,27.4,0,2,Hypertensive Crisis,Vertigo
+1201,42,156,60,105,297,122,34.8,0,9,Stage 2 Hypertension,Palpitations
+1202,22,175,67,108,252,125,30.4,1,9,Stage 2 Hypertension,Occipital Headache
+1203,25,147,114,118,173,128,31.2,0,16,Stage 2 Hypertension,Palpitations
+1204,26,160,82,108,261,139,32.8,0,11,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1205,32,172,62,51,214,147,21.7,0,27,Stage 2 Hypertension,Palpitations
+1206,24,113,63,114,278,161,19.4,1,23,Normal,Blurry Vision
+1207,32,110,117,109,266,127,26.2,1,6,Stage 2 Hypertension,Palpitations
+1208,54,117,84,100,265,157,26.7,0,12,Stage 1 Hypertension,Occipital Headache
+1209,56,138,106,79,254,82,32.1,0,3,Stage 2 Hypertension,Postural Hypotension
+1210,23,164,97,60,152,112,25.5,0,12,Stage 2 Hypertension,Nausea
+1211,74,112,74,88,195,145,27.7,1,23,Normal,Postural Hypotension
+1212,36,141,80,112,204,120,27.0,1,1,Stage 2 Hypertension,Shortness of Breath
+1213,80,119,94,113,224,88,18.6,1,9,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1214,48,183,116,110,194,90,28.5,1,20,Hypertensive Crisis,Shortness of Breath
+1215,27,192,112,103,226,160,32.1,1,22,Hypertensive Crisis,Shortness of Breath
+1216,84,143,112,107,173,152,20.7,1,6,Stage 2 Hypertension,Nausea
+1217,79,196,105,105,184,93,28.1,0,11,Hypertensive Crisis,Nausea
+1218,20,164,111,83,173,95,28.1,1,3,Stage 2 Hypertension,Occipital Headache
+1219,35,141,73,80,177,114,20.8,0,4,Stage 2 Hypertension,Occipital Headache
+1220,42,159,95,101,165,97,20.1,1,29,Stage 2 Hypertension,Postural Hypotension
+1221,37,116,71,50,208,179,34.7,0,27,Normal,Occipital Headache
+1222,75,117,76,104,293,151,24.7,1,10,Normal,Occipital Headache
+1223,67,174,98,71,164,177,21.9,0,19,Stage 2 Hypertension,Chronic Fatigue
+1224,27,166,68,89,160,169,20.9,0,29,Stage 2 Hypertension,Tension-Type Headache
+1225,38,176,94,50,228,175,29.3,0,6,Stage 2 Hypertension,Postural Hypotension
+1226,46,197,119,114,264,98,28.4,1,1,Hypertensive Crisis,Nausea
+1227,27,196,72,112,217,86,28.9,1,8,Hypertensive Crisis,Postural Hypotension
+1228,30,168,74,103,192,137,19.5,1,8,Stage 2 Hypertension,Nausea
+1229,64,181,77,91,218,113,33.2,0,25,Hypertensive Crisis,Palpitations
+1230,40,163,110,70,290,178,24.6,0,6,Stage 2 Hypertension,Tension-Type Headache
+1231,67,176,92,71,287,130,23.3,0,17,Stage 2 Hypertension,Chronic Fatigue
+1232,21,160,65,87,224,162,25.9,1,19,Stage 2 Hypertension,Chronic Fatigue
+1233,84,117,118,57,252,137,24.6,1,1,Stage 2 Hypertension,Blurry Vision
+1234,70,143,86,111,190,143,32.7,0,15,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1235,19,144,82,96,208,94,33.8,1,13,Stage 2 Hypertension,Nausea
+1236,85,197,118,66,188,164,23.2,1,21,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1237,82,187,86,66,152,136,32.7,1,3,Hypertensive Crisis,Palpitations
+1238,74,141,93,62,156,71,31.3,1,2,Stage 2 Hypertension,Chronic Fatigue
+1239,24,155,115,66,198,158,33.8,0,3,Stage 2 Hypertension,Palpitations
+1240,36,125,105,87,175,118,22.2,1,9,Stage 2 Hypertension,Shortness of Breath
+1241,61,177,97,94,250,139,27.8,1,27,Stage 2 Hypertension,Tension-Type Headache
+1242,80,146,73,55,228,95,22.7,0,16,Stage 2 Hypertension,Blurry Vision
+1243,82,163,95,84,151,141,32.0,0,24,Stage 2 Hypertension,Palpitations
+1244,56,194,112,63,276,168,18.1,1,13,Hypertensive Crisis,Blurry Vision
+1245,43,123,67,110,281,96,27.6,1,19,Elevated,Tension-Type Headache
+1246,61,164,94,64,169,158,23.8,1,27,Stage 2 Hypertension,Postural Hypotension
+1247,29,157,78,103,266,87,23.5,1,18,Stage 2 Hypertension,Palpitations
+1248,39,191,89,76,181,123,29.0,0,21,Hypertensive Crisis,Occipital Headache
+1249,31,116,73,62,177,70,32.5,0,12,Normal,Vertigo
+1250,47,183,118,80,226,130,28.4,0,28,Hypertensive Crisis,Chronic Fatigue
+1251,61,116,79,84,150,172,32.5,1,29,Normal,Chronic Fatigue
+1252,55,142,108,109,205,72,22.5,1,12,Stage 2 Hypertension,Chronic Fatigue
+1253,76,132,84,55,184,137,26.8,0,1,Stage 1 Hypertension,Postural Hypotension
+1254,59,194,99,118,261,110,25.7,1,20,Hypertensive Crisis,Vertigo
+1255,69,128,83,107,179,106,18.2,0,8,Stage 1 Hypertension,Tension-Type Headache
+1256,80,128,73,98,203,120,27.5,0,17,Elevated,Postural Hypotension
+1257,78,145,85,72,185,84,29.2,0,21,Stage 2 Hypertension,Chronic Fatigue
+1258,51,138,97,83,229,77,28.1,0,28,Stage 2 Hypertension,Chronic Fatigue
+1259,56,169,82,75,207,107,30.5,0,20,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1260,58,191,81,96,232,152,27.7,0,22,Hypertensive Crisis,Blurry Vision
+1261,54,111,107,54,214,125,19.1,0,7,Stage 2 Hypertension,Blurry Vision
+1262,82,110,116,69,218,116,20.0,1,9,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1263,49,156,78,55,277,159,28.1,0,17,Stage 2 Hypertension,Shortness of Breath
+1264,25,178,105,119,200,172,22.7,0,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1265,35,129,110,108,171,79,19.4,1,10,Stage 2 Hypertension,Blurry Vision
+1266,62,120,62,113,256,171,25.3,0,4,Elevated,Chronic Fatigue
+1267,50,111,101,67,258,147,27.4,1,22,Stage 2 Hypertension,Occipital Headache
+1268,22,176,78,53,265,118,23.6,0,26,Stage 2 Hypertension,Blurry Vision
+1269,53,196,68,66,250,110,30.2,1,7,Hypertensive Crisis,Vertigo
+1270,40,121,87,63,249,152,28.9,1,7,Stage 1 Hypertension,Occipital Headache
+1271,57,129,79,62,217,99,23.7,1,8,Elevated,Postural Hypotension
+1272,22,114,104,56,185,74,30.8,0,26,Stage 2 Hypertension,Blurry Vision
+1273,51,146,66,93,295,164,29.0,1,24,Stage 2 Hypertension,Tension-Type Headache
+1274,41,147,73,64,171,140,28.8,0,24,Stage 2 Hypertension,Palpitations
+1275,34,118,68,68,215,152,27.4,0,8,Normal,Palpitations
+1276,39,162,118,112,170,100,18.2,0,16,Stage 2 Hypertension,Vertigo
+1277,32,153,119,84,249,121,29.8,0,12,Stage 2 Hypertension,Nausea
+1278,32,195,114,84,277,172,24.4,0,15,Hypertensive Crisis,Palpitations
+1279,42,133,116,68,193,157,34.0,0,8,Stage 2 Hypertension,Vertigo
+1280,70,190,119,69,252,167,31.9,0,22,Hypertensive Crisis,Nausea
+1281,38,183,78,84,196,92,28.0,1,9,Hypertensive Crisis,Postural Hypotension
+1282,83,139,106,81,188,117,22.3,0,3,Stage 2 Hypertension,Nausea
+1283,49,168,111,97,178,178,21.5,0,22,Stage 2 Hypertension,Tension-Type Headache
+1284,38,196,73,93,203,109,23.8,1,21,Hypertensive Crisis,Blurry Vision
+1285,85,190,115,73,239,75,26.1,0,16,Hypertensive Crisis,Palpitations
+1286,61,190,97,110,234,107,23.0,1,15,Hypertensive Crisis,Chronic Fatigue
+1287,83,123,112,66,166,110,26.8,1,24,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1288,31,118,95,99,229,169,20.8,0,4,Stage 2 Hypertension,Blurry Vision
+1289,32,149,99,114,222,96,34.6,0,20,Stage 2 Hypertension,Postural Hypotension
+1290,37,175,76,81,198,144,19.8,1,29,Stage 2 Hypertension,Postural Hypotension
+1291,51,134,89,85,250,138,33.8,0,16,Stage 1 Hypertension,Vertigo
+1292,53,182,68,62,151,126,33.5,1,10,Hypertensive Crisis,Shortness of Breath
+1293,26,131,92,119,291,86,26.9,1,11,Stage 2 Hypertension,Nausea
+1294,47,113,115,107,208,140,30.3,0,26,Stage 2 Hypertension,Nausea
+1295,80,135,111,63,246,160,25.4,1,29,Stage 2 Hypertension,Vertigo
+1296,52,167,84,86,248,116,28.7,0,5,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1297,30,138,73,117,252,148,23.8,0,11,Stage 1 Hypertension,Chronic Fatigue
+1298,63,196,70,89,151,179,23.1,1,29,Hypertensive Crisis,Postural Hypotension
+1299,73,146,112,108,190,82,27.8,1,13,Stage 2 Hypertension,Blurry Vision
+1300,26,184,94,65,272,80,26.5,0,15,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1301,53,179,100,111,231,178,27.9,0,6,Stage 2 Hypertension,Chronic Fatigue
+1302,20,127,118,53,293,159,22.9,0,16,Stage 2 Hypertension,Shortness of Breath
+1303,36,194,73,94,281,155,24.2,1,15,Hypertensive Crisis,Blurry Vision
+1304,45,151,89,77,289,161,19.4,0,11,Stage 2 Hypertension,Vertigo
+1305,40,150,100,115,178,93,18.9,1,20,Stage 2 Hypertension,Blurry Vision
+1306,24,147,63,80,284,162,22.3,1,2,Stage 2 Hypertension,Tension-Type Headache
+1307,31,143,118,52,163,142,19.3,1,28,Stage 2 Hypertension,Shortness of Breath
+1308,63,126,63,57,161,175,19.8,0,28,Elevated,Vertigo
+1309,32,146,87,73,248,73,31.8,1,2,Stage 2 Hypertension,Vertigo
+1310,84,134,67,64,282,115,18.7,0,12,Stage 1 Hypertension,Vertigo
+1311,32,185,61,92,230,87,29.2,1,16,Hypertensive Crisis,Palpitations
+1312,68,196,100,80,255,112,22.6,0,19,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1313,25,195,105,94,181,149,32.8,0,2,Hypertensive Crisis,Chronic Fatigue
+1314,79,194,81,115,223,102,26.2,1,17,Hypertensive Crisis,Nausea
+1315,68,136,100,57,230,162,23.2,0,14,Stage 2 Hypertension,Postural Hypotension
+1316,80,166,115,106,218,172,26.8,1,24,Stage 2 Hypertension,Postural Hypotension
+1317,85,140,114,79,194,79,24.5,1,28,Stage 2 Hypertension,Tension-Type Headache
+1318,33,115,75,67,255,142,27.6,1,16,Normal,Tension-Type Headache
+1319,41,149,88,118,286,128,19.9,1,5,Stage 2 Hypertension,Tension-Type Headache
+1320,23,121,108,88,249,100,34.9,1,10,Stage 2 Hypertension,Occipital Headache
+1321,74,162,107,109,295,97,25.2,1,17,Stage 2 Hypertension,Tension-Type Headache
+1322,48,180,89,92,158,129,23.9,1,13,Hypertensive Crisis,Postural Hypotension
+1323,23,119,71,94,211,72,30.1,0,16,Normal,Shortness of Breath
+1324,46,154,94,72,178,124,24.2,1,9,Stage 2 Hypertension,Chronic Fatigue
+1325,84,126,70,118,274,83,32.2,1,24,Elevated,Tension-Type Headache
+1326,20,135,105,55,263,127,25.7,0,4,Stage 2 Hypertension,Shortness of Breath
+1327,45,194,109,105,292,158,30.2,0,24,Hypertensive Crisis,Occipital Headache
+1328,65,171,80,53,283,84,19.8,1,29,Stage 2 Hypertension,Occipital Headache
+1329,27,155,80,72,269,71,32.4,1,28,Stage 2 Hypertension,Nausea
+1330,50,173,64,55,228,93,30.5,1,29,Stage 2 Hypertension,Palpitations
+1331,84,111,107,81,242,147,21.6,0,26,Stage 2 Hypertension,Palpitations
+1332,29,163,79,67,153,133,20.5,1,16,Stage 2 Hypertension,Blurry Vision
+1333,74,174,96,64,231,140,23.4,0,23,Stage 2 Hypertension,Palpitations
+1334,61,160,62,89,224,169,34.6,1,27,Stage 2 Hypertension,Blurry Vision
+1335,30,162,103,55,163,93,22.4,1,11,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1336,41,145,92,112,280,96,25.8,0,7,Stage 2 Hypertension,Palpitations
+1337,61,135,112,116,263,106,18.5,1,17,Stage 2 Hypertension,Occipital Headache
+1338,74,138,68,60,211,171,24.8,1,22,Stage 1 Hypertension,Nausea
+1339,33,130,68,92,255,163,27.7,1,13,Stage 1 Hypertension,Shortness of Breath
+1340,38,120,63,66,213,160,34.2,0,4,Elevated,Tension-Type Headache
+1341,68,149,94,53,251,108,26.8,1,14,Stage 2 Hypertension,Palpitations
+1342,38,120,76,112,255,132,31.9,1,10,Elevated,Blurry Vision
+1343,77,145,93,117,169,148,27.3,0,10,Stage 2 Hypertension,Shortness of Breath
+1344,68,168,83,90,207,95,18.7,0,10,Stage 2 Hypertension,Vertigo
+1345,38,148,91,54,261,134,23.4,1,27,Stage 2 Hypertension,Postural Hypotension
+1346,23,163,60,81,206,73,27.8,1,12,Stage 2 Hypertension,Palpitations
+1347,82,164,67,119,268,98,34.2,0,2,Stage 2 Hypertension,Postural Hypotension
+1348,75,133,104,84,246,70,32.6,1,26,Stage 2 Hypertension,Palpitations
+1349,23,131,82,71,241,176,21.9,1,23,Stage 1 Hypertension,Vertigo
+1350,82,178,106,114,201,119,21.7,0,9,Stage 2 Hypertension,Tension-Type Headache
+1351,51,165,99,71,186,179,21.4,1,29,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1352,73,142,71,60,157,155,33.7,1,5,Stage 2 Hypertension,Chronic Fatigue
+1353,20,145,113,52,193,80,32.5,0,8,Stage 2 Hypertension,Shortness of Breath
+1354,59,129,71,58,247,143,31.2,1,21,Elevated,Shortness of Breath
+1355,79,192,105,109,282,128,24.7,1,14,Hypertensive Crisis,Tension-Type Headache
+1356,23,190,106,63,267,131,26.6,1,7,Hypertensive Crisis,Nausea
+1357,23,171,74,67,218,150,25.9,0,7,Stage 2 Hypertension,Occipital Headache
+1358,80,182,100,72,194,105,22.3,1,9,Hypertensive Crisis,Palpitations
+1359,37,135,78,96,286,125,26.6,0,3,Stage 1 Hypertension,Chronic Fatigue
+1360,38,175,85,118,181,159,18.5,0,14,Stage 2 Hypertension,Nausea
+1361,19,182,111,96,182,90,20.2,1,17,Hypertensive Crisis,Chronic Fatigue
+1362,73,182,88,79,275,82,33.1,0,18,Hypertensive Crisis,Occipital Headache
+1363,27,149,81,74,216,78,30.8,1,12,Stage 2 Hypertension,Postural Hypotension
+1364,40,126,99,77,179,80,25.2,1,22,Stage 2 Hypertension,Palpitations
+1365,47,110,80,74,263,144,26.8,1,14,Stage 1 Hypertension,Occipital Headache
+1366,54,198,110,107,178,139,24.3,0,26,Hypertensive Crisis,Shortness of Breath
+1367,72,170,97,90,280,70,30.6,1,26,Stage 2 Hypertension,Shortness of Breath
+1368,66,152,79,74,179,139,31.3,1,28,Stage 2 Hypertension,Palpitations
+1369,51,151,116,97,286,146,31.0,1,13,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1370,61,134,88,59,279,155,30.3,0,14,Stage 1 Hypertension,Tension-Type Headache
+1371,39,148,110,60,211,125,21.5,0,9,Stage 2 Hypertension,Tension-Type Headache
+1372,48,144,63,70,152,100,23.7,1,19,Stage 2 Hypertension,Shortness of Breath
+1373,24,112,114,94,217,155,26.0,1,26,Stage 2 Hypertension,Shortness of Breath
+1374,38,153,66,56,174,106,23.6,1,2,Stage 2 Hypertension,Occipital Headache
+1375,33,160,87,113,290,116,30.8,1,11,Stage 2 Hypertension,Vertigo
+1376,37,121,87,113,193,160,23.6,0,17,Stage 1 Hypertension,Blurry Vision
+1377,60,128,63,51,204,147,20.3,0,2,Elevated,Hypertensive Crisis Symptoms
+1378,61,153,81,91,286,116,24.8,0,19,Stage 2 Hypertension,Nausea
+1379,64,168,71,103,279,138,34.7,0,7,Stage 2 Hypertension,Blurry Vision
+1380,36,158,104,65,190,127,21.8,0,18,Stage 2 Hypertension,Occipital Headache
+1381,65,170,62,67,213,105,28.4,0,13,Stage 2 Hypertension,Blurry Vision
+1382,28,126,81,108,180,101,25.4,0,5,Stage 1 Hypertension,Blurry Vision
+1383,46,183,103,65,196,167,19.2,1,18,Hypertensive Crisis,Occipital Headache
+1384,62,166,61,55,279,133,26.3,1,23,Stage 2 Hypertension,Shortness of Breath
+1385,85,164,83,106,245,140,29.9,1,26,Stage 2 Hypertension,Shortness of Breath
+1386,53,156,93,96,226,111,26.7,1,24,Stage 2 Hypertension,Palpitations
+1387,65,121,86,97,259,117,32.8,1,24,Stage 1 Hypertension,Blurry Vision
+1388,32,171,114,91,218,143,22.9,1,29,Stage 2 Hypertension,Nausea
+1389,61,189,100,109,207,150,19.5,0,16,Hypertensive Crisis,Occipital Headache
+1390,84,197,60,53,255,99,33.9,1,15,Hypertensive Crisis,Nausea
+1391,57,192,67,51,193,90,24.4,0,8,Hypertensive Crisis,Chronic Fatigue
+1392,31,117,82,108,223,129,27.8,1,26,Stage 1 Hypertension,Tension-Type Headache
+1393,80,130,97,76,205,82,31.5,0,15,Stage 2 Hypertension,Palpitations
+1394,68,190,65,76,276,70,23.5,0,25,Hypertensive Crisis,Tension-Type Headache
+1395,75,196,81,56,179,134,30.2,1,1,Hypertensive Crisis,Palpitations
+1396,32,189,84,112,220,102,20.3,1,28,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1397,82,179,77,95,267,107,23.0,1,17,Stage 2 Hypertension,Occipital Headache
+1398,72,181,76,112,204,94,20.5,1,15,Hypertensive Crisis,Tension-Type Headache
+1399,27,134,71,61,216,95,31.8,1,14,Stage 1 Hypertension,Nausea
+1400,59,191,65,62,290,146,21.8,0,14,Hypertensive Crisis,Occipital Headache
+1401,28,198,85,92,152,128,30.2,1,10,Hypertensive Crisis,Nausea
+1402,33,121,86,66,175,161,34.0,0,2,Stage 1 Hypertension,Blurry Vision
+1403,36,124,67,112,206,102,27.0,0,27,Elevated,Tension-Type Headache
+1404,48,168,78,85,275,170,27.2,0,6,Stage 2 Hypertension,Blurry Vision
+1405,70,135,119,57,202,110,25.8,1,17,Stage 2 Hypertension,Shortness of Breath
+1406,25,135,101,118,192,99,23.5,1,5,Stage 2 Hypertension,Chronic Fatigue
+1407,41,156,60,85,198,126,26.1,1,5,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1408,25,141,116,77,191,118,28.2,1,15,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1409,65,119,88,96,160,117,34.8,1,15,Stage 1 Hypertension,Tension-Type Headache
+1410,47,125,104,79,252,141,33.9,1,20,Stage 2 Hypertension,Postural Hypotension
+1411,75,180,108,72,247,118,32.7,0,11,Hypertensive Crisis,Chronic Fatigue
+1412,72,126,94,65,295,116,33.1,1,5,Stage 2 Hypertension,Vertigo
+1413,79,132,99,63,234,125,26.0,0,28,Stage 2 Hypertension,Palpitations
+1414,65,135,73,101,249,134,29.2,0,1,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+1415,21,194,94,86,253,81,33.2,1,11,Hypertensive Crisis,Occipital Headache
+1416,54,195,107,78,195,138,24.7,1,11,Hypertensive Crisis,Shortness of Breath
+1417,25,116,104,116,193,157,34.3,1,6,Stage 2 Hypertension,Blurry Vision
+1418,18,123,79,64,171,75,25.1,1,23,Elevated,Vertigo
+1419,64,188,115,96,263,158,28.2,1,8,Hypertensive Crisis,Occipital Headache
+1420,22,116,108,95,274,134,30.1,1,2,Stage 2 Hypertension,Tension-Type Headache
+1421,67,118,72,101,273,94,34.2,0,15,Normal,Chronic Fatigue
+1422,41,157,97,68,179,70,22.2,0,23,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1423,64,181,108,70,157,101,30.7,0,22,Hypertensive Crisis,Palpitations
+1424,35,168,105,113,247,175,26.9,0,9,Stage 2 Hypertension,Vertigo
+1425,45,196,108,86,206,175,22.6,0,15,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1426,22,191,67,76,260,72,31.2,0,8,Hypertensive Crisis,Postural Hypotension
+1427,47,148,102,104,222,118,27.4,1,16,Stage 2 Hypertension,Postural Hypotension
+1428,18,127,79,78,264,88,29.2,1,27,Elevated,Postural Hypotension
+1429,63,168,119,69,169,129,23.5,1,14,Stage 2 Hypertension,Shortness of Breath
+1430,48,126,92,74,174,176,26.2,0,15,Stage 2 Hypertension,Blurry Vision
+1431,73,123,85,119,168,98,28.5,0,20,Stage 1 Hypertension,Tension-Type Headache
+1432,45,140,98,112,154,119,24.9,0,13,Stage 2 Hypertension,Occipital Headache
+1433,33,133,80,85,224,71,21.4,1,9,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+1434,71,169,112,51,277,142,34.3,1,1,Stage 2 Hypertension,Occipital Headache
+1435,70,154,108,71,221,125,26.7,1,27,Stage 2 Hypertension,Occipital Headache
+1436,29,112,101,65,189,86,30.5,0,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1437,37,146,102,67,175,129,25.0,0,8,Stage 2 Hypertension,Blurry Vision
+1438,51,152,113,118,176,179,24.0,0,27,Stage 2 Hypertension,Shortness of Breath
+1439,70,149,100,103,232,105,24.9,1,27,Stage 2 Hypertension,Shortness of Breath
+1440,81,199,68,79,277,130,25.0,0,20,Hypertensive Crisis,Chronic Fatigue
+1441,40,164,83,94,182,86,27.3,1,18,Stage 2 Hypertension,Tension-Type Headache
+1442,44,196,96,68,246,118,27.2,1,27,Hypertensive Crisis,Chronic Fatigue
+1443,34,148,108,83,260,145,26.5,1,18,Stage 2 Hypertension,Blurry Vision
+1444,65,124,100,62,165,129,20.3,1,26,Stage 2 Hypertension,Occipital Headache
+1445,38,113,76,92,172,89,26.4,1,17,Normal,Tension-Type Headache
+1446,67,195,83,111,284,119,20.9,1,21,Hypertensive Crisis,Chronic Fatigue
+1447,57,134,80,71,175,72,20.1,1,16,Stage 1 Hypertension,Chronic Fatigue
+1448,20,122,110,101,245,112,33.9,0,13,Stage 2 Hypertension,Postural Hypotension
+1449,34,191,118,101,161,126,28.3,1,22,Hypertensive Crisis,Shortness of Breath
+1450,78,142,98,85,221,119,29.2,0,4,Stage 2 Hypertension,Nausea
+1451,67,125,114,68,282,137,24.8,1,4,Stage 2 Hypertension,Chronic Fatigue
+1452,23,151,100,87,255,150,33.5,1,21,Stage 2 Hypertension,Vertigo
+1453,45,175,98,119,266,119,28.8,1,14,Stage 2 Hypertension,Postural Hypotension
+1454,72,164,72,106,175,106,31.1,0,5,Stage 2 Hypertension,Occipital Headache
+1455,75,151,70,69,282,115,24.3,1,16,Stage 2 Hypertension,Palpitations
+1456,62,143,105,58,171,111,34.3,1,14,Stage 2 Hypertension,Shortness of Breath
+1457,36,139,78,81,162,84,31.9,0,14,Stage 1 Hypertension,Blurry Vision
+1458,46,122,70,53,256,102,32.5,0,14,Elevated,Hypertensive Crisis Symptoms
+1459,40,122,72,99,172,149,20.9,0,25,Elevated,Blurry Vision
+1460,49,127,105,54,246,80,22.6,0,24,Stage 2 Hypertension,Postural Hypotension
+1461,27,141,104,69,167,89,22.9,1,25,Stage 2 Hypertension,Vertigo
+1462,66,148,60,86,266,171,22.6,1,29,Stage 2 Hypertension,Blurry Vision
+1463,82,155,99,71,179,93,32.5,0,14,Stage 2 Hypertension,Vertigo
+1464,46,138,103,107,175,133,18.5,1,19,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1465,76,171,78,117,293,149,19.3,0,3,Stage 2 Hypertension,Palpitations
+1466,62,171,71,93,188,163,22.7,0,17,Stage 2 Hypertension,Shortness of Breath
+1467,84,166,67,83,279,167,21.4,0,14,Stage 2 Hypertension,Shortness of Breath
+1468,68,125,67,91,262,134,21.9,1,10,Elevated,Nausea
+1469,28,165,112,58,283,157,31.6,0,13,Stage 2 Hypertension,Vertigo
+1470,23,119,104,56,195,157,27.6,1,22,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1471,84,139,71,117,199,142,18.1,1,4,Stage 1 Hypertension,Chronic Fatigue
+1472,79,134,107,68,255,155,25.3,1,11,Stage 2 Hypertension,Chronic Fatigue
+1473,22,193,92,80,295,145,24.9,0,15,Hypertensive Crisis,Occipital Headache
+1474,26,114,104,84,221,86,19.9,1,15,Stage 2 Hypertension,Vertigo
+1475,45,174,85,106,223,158,29.5,0,24,Stage 2 Hypertension,Tension-Type Headache
+1476,55,158,98,110,166,161,29.9,1,2,Stage 2 Hypertension,Blurry Vision
+1477,60,112,87,80,219,130,30.3,1,11,Stage 1 Hypertension,Occipital Headache
+1478,38,154,117,102,299,84,30.4,1,2,Stage 2 Hypertension,Occipital Headache
+1479,79,123,64,81,155,163,18.0,0,23,Elevated,Occipital Headache
+1480,63,139,67,115,175,120,34.2,0,29,Stage 1 Hypertension,Hypertensive Crisis Symptoms
+1481,55,177,84,108,289,96,31.8,0,5,Stage 2 Hypertension,Shortness of Breath
+1482,66,127,86,59,248,155,33.4,0,13,Stage 1 Hypertension,Occipital Headache
+1483,56,171,105,51,291,143,18.3,1,1,Stage 2 Hypertension,Shortness of Breath
+1484,47,146,82,115,171,130,33.9,1,7,Stage 2 Hypertension,Shortness of Breath
+1485,38,134,89,109,200,127,31.8,0,7,Stage 1 Hypertension,Vertigo
+1486,18,157,104,66,253,100,32.2,0,10,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1487,49,174,106,65,238,160,19.6,0,6,Stage 2 Hypertension,Shortness of Breath
+1488,25,162,82,65,290,81,30.6,0,20,Stage 2 Hypertension,Occipital Headache
+1489,47,188,108,95,287,115,34.3,1,12,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1490,25,182,106,88,158,100,29.5,0,13,Hypertensive Crisis,Occipital Headache
+1491,36,124,79,80,228,101,27.7,0,24,Elevated,Postural Hypotension
+1492,76,158,77,50,201,101,34.1,1,28,Stage 2 Hypertension,Blurry Vision
+1493,72,197,77,60,279,174,25.5,0,11,Hypertensive Crisis,Postural Hypotension
+1494,47,177,61,53,162,178,28.2,1,18,Stage 2 Hypertension,Postural Hypotension
+1495,53,121,63,75,200,168,26.1,0,2,Elevated,Vertigo
+1496,72,168,89,99,183,122,33.9,1,16,Stage 2 Hypertension,Tension-Type Headache
+1497,61,146,92,61,184,130,19.3,0,2,Stage 2 Hypertension,Blurry Vision
+1498,44,170,95,114,280,115,26.5,0,19,Stage 2 Hypertension,Vertigo
+1499,71,152,77,96,269,154,29.7,0,6,Stage 2 Hypertension,Occipital Headache
+1500,65,179,96,102,219,143,31.5,0,1,Stage 2 Hypertension,Vertigo
+1501,47,148,78,51,296,149,27.9,0,11,Stage 2 Hypertension,Occipital Headache
+1502,56,165,106,73,216,76,33.5,1,18,Stage 2 Hypertension,Tension-Type Headache
+1503,30,172,87,53,252,73,34.0,0,10,Stage 2 Hypertension,Shortness of Breath
+1504,33,155,99,68,222,160,19.1,1,18,Stage 2 Hypertension,Vertigo
+1505,61,197,79,75,265,121,24.8,1,28,Hypertensive Crisis,Nausea
+1506,44,120,108,89,282,158,18.4,1,1,Stage 2 Hypertension,Shortness of Breath
+1507,62,171,92,99,216,100,23.6,1,19,Stage 2 Hypertension,Palpitations
+1508,52,186,71,92,288,144,27.1,0,16,Hypertensive Crisis,Vertigo
+1509,45,134,117,116,270,153,33.5,0,26,Stage 2 Hypertension,Occipital Headache
+1510,24,180,110,61,243,105,32.4,0,7,Hypertensive Crisis,Blurry Vision
+1511,79,161,74,116,278,123,20.2,0,15,Stage 2 Hypertension,Vertigo
+1512,68,113,100,76,240,123,19.6,1,29,Stage 2 Hypertension,Occipital Headache
+1513,63,168,98,103,241,86,28.0,1,1,Stage 2 Hypertension,Tension-Type Headache
+1514,37,181,61,115,212,178,27.0,1,23,Hypertensive Crisis,Postural Hypotension
+1515,55,129,88,98,178,144,22.5,0,21,Stage 1 Hypertension,Vertigo
+1516,78,172,100,65,161,99,33.3,0,9,Stage 2 Hypertension,Chronic Fatigue
+1517,49,163,69,51,226,168,33.8,0,2,Stage 2 Hypertension,Palpitations
+1518,43,183,61,109,190,174,24.8,0,17,Hypertensive Crisis,Chronic Fatigue
+1519,75,166,110,103,279,171,33.1,1,25,Stage 2 Hypertension,Shortness of Breath
+1520,56,199,70,79,186,91,24.5,0,24,Hypertensive Crisis,Shortness of Breath
+1521,37,150,72,87,173,112,30.5,0,10,Stage 2 Hypertension,Postural Hypotension
+1522,67,112,69,77,248,96,26.1,1,6,Normal,Postural Hypotension
+1523,69,115,73,74,299,106,20.1,1,5,Normal,Shortness of Breath
+1524,39,114,77,59,249,115,33.8,0,8,Normal,Vertigo
+1525,70,114,110,109,288,104,25.7,0,8,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1526,83,163,113,91,207,73,30.5,1,5,Stage 2 Hypertension,Vertigo
+1527,60,156,68,89,178,149,24.2,0,12,Stage 2 Hypertension,Palpitations
+1528,40,196,116,91,292,149,18.3,1,7,Hypertensive Crisis,Shortness of Breath
+1529,81,158,98,96,209,154,19.7,1,13,Stage 2 Hypertension,Chronic Fatigue
+1530,26,118,87,86,244,95,26.4,0,13,Stage 1 Hypertension,Postural Hypotension
+1531,24,129,62,71,191,169,29.7,1,17,Elevated,Chronic Fatigue
+1532,58,170,79,106,192,88,23.7,0,4,Stage 2 Hypertension,Shortness of Breath
+1533,71,144,65,76,223,150,29.8,0,18,Stage 2 Hypertension,Tension-Type Headache
+1534,82,159,86,90,213,114,29.9,0,10,Stage 2 Hypertension,Shortness of Breath
+1535,19,191,112,83,151,95,30.0,0,3,Hypertensive Crisis,Nausea
+1536,21,171,61,81,215,91,26.4,1,12,Stage 2 Hypertension,Palpitations
+1537,49,126,88,115,180,127,33.6,0,1,Stage 1 Hypertension,Nausea
+1538,19,197,97,61,264,132,26.3,0,27,Hypertensive Crisis,Blurry Vision
+1539,81,112,62,89,175,97,25.7,1,11,Normal,Chronic Fatigue
+1540,31,141,75,59,178,134,21.4,0,18,Stage 2 Hypertension,Tension-Type Headache
+1541,37,122,89,97,227,113,23.2,0,13,Stage 1 Hypertension,Palpitations
+1542,66,198,99,69,174,169,18.7,0,17,Hypertensive Crisis,Occipital Headache
+1543,25,182,61,88,197,112,28.8,0,8,Hypertensive Crisis,Blurry Vision
+1544,80,177,76,109,214,106,22.2,1,20,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1545,63,123,100,115,216,135,23.2,1,19,Stage 2 Hypertension,Nausea
+1546,38,120,71,114,239,86,31.1,0,17,Elevated,Palpitations
+1547,49,165,94,100,295,109,23.6,1,2,Stage 2 Hypertension,Palpitations
+1548,25,176,102,85,286,107,22.1,1,3,Stage 2 Hypertension,Nausea
+1549,33,138,60,73,187,154,20.9,1,3,Stage 1 Hypertension,Blurry Vision
+1550,57,118,114,76,236,130,31.2,1,6,Stage 2 Hypertension,Tension-Type Headache
+1551,44,176,104,51,298,78,20.2,0,10,Stage 2 Hypertension,Tension-Type Headache
+1552,35,134,74,80,214,146,25.7,1,24,Stage 1 Hypertension,Postural Hypotension
+1553,52,185,85,106,298,144,26.6,0,22,Hypertensive Crisis,Vertigo
+1554,69,151,96,115,176,130,29.7,0,18,Stage 2 Hypertension,Blurry Vision
+1555,32,118,80,78,255,149,28.8,1,18,Stage 1 Hypertension,Chronic Fatigue
+1556,80,188,108,64,272,85,31.8,0,14,Hypertensive Crisis,Chronic Fatigue
+1557,70,149,90,61,193,71,18.8,1,16,Stage 2 Hypertension,Blurry Vision
+1558,83,134,84,77,249,175,23.0,0,7,Stage 1 Hypertension,Nausea
+1559,48,114,82,73,177,177,22.8,0,1,Stage 1 Hypertension,Chronic Fatigue
+1560,78,120,83,70,166,141,20.5,1,17,Stage 1 Hypertension,Chronic Fatigue
+1561,81,168,116,59,276,112,22.9,0,23,Stage 2 Hypertension,Vertigo
+1562,51,197,97,67,272,111,23.3,1,25,Hypertensive Crisis,Palpitations
+1563,72,188,87,63,280,146,26.9,0,5,Hypertensive Crisis,Palpitations
+1564,76,147,80,83,225,126,29.3,0,27,Stage 2 Hypertension,Blurry Vision
+1565,20,181,113,107,195,150,24.5,1,1,Hypertensive Crisis,Shortness of Breath
+1566,34,114,102,71,218,172,30.2,1,21,Stage 2 Hypertension,Palpitations
+1567,63,157,77,119,286,157,23.7,1,27,Stage 2 Hypertension,Nausea
+1568,55,199,95,85,234,136,22.9,0,17,Hypertensive Crisis,Occipital Headache
+1569,52,127,94,94,160,99,27.2,1,10,Stage 2 Hypertension,Shortness of Breath
+1570,18,179,104,85,218,82,18.4,1,12,Stage 2 Hypertension,Vertigo
+1571,46,146,114,71,248,88,19.4,1,25,Stage 2 Hypertension,Nausea
+1572,21,169,68,110,240,76,25.1,1,20,Stage 2 Hypertension,Tension-Type Headache
+1573,78,157,112,105,243,78,34.0,0,25,Stage 2 Hypertension,Vertigo
+1574,34,186,97,82,264,152,30.3,0,2,Hypertensive Crisis,Postural Hypotension
+1575,45,137,117,94,180,178,19.5,0,23,Stage 2 Hypertension,Chronic Fatigue
+1576,67,178,89,85,160,123,32.4,0,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1577,25,186,119,69,236,173,30.4,0,15,Hypertensive Crisis,Tension-Type Headache
+1578,51,190,103,67,270,155,28.4,0,28,Hypertensive Crisis,Shortness of Breath
+1579,76,149,93,87,279,151,31.9,1,13,Stage 2 Hypertension,Nausea
+1580,35,154,91,116,254,130,24.9,0,18,Stage 2 Hypertension,Tension-Type Headache
+1581,76,171,62,72,176,156,21.8,1,28,Stage 2 Hypertension,Postural Hypotension
+1582,44,167,62,65,151,71,26.7,1,20,Stage 2 Hypertension,Nausea
+1583,33,176,87,108,252,119,27.3,1,22,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1584,27,165,103,118,250,144,27.2,1,14,Stage 2 Hypertension,Shortness of Breath
+1585,39,149,74,117,170,100,27.6,0,18,Stage 2 Hypertension,Vertigo
+1586,33,149,100,70,207,102,34.1,0,2,Stage 2 Hypertension,Blurry Vision
+1587,29,186,82,119,282,147,33.3,0,2,Hypertensive Crisis,Tension-Type Headache
+1588,68,142,99,61,234,149,32.9,1,3,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1589,18,115,70,65,242,80,31.6,0,5,Normal,Postural Hypotension
+1590,44,197,107,63,169,102,34.0,0,25,Hypertensive Crisis,Tension-Type Headache
+1591,84,128,91,110,210,76,19.7,0,16,Stage 2 Hypertension,Occipital Headache
+1592,29,189,117,95,187,100,22.5,0,22,Hypertensive Crisis,Occipital Headache
+1593,47,149,118,81,297,117,26.4,0,15,Stage 2 Hypertension,Shortness of Breath
+1594,26,168,116,64,174,179,32.4,0,12,Stage 2 Hypertension,Vertigo
+1595,70,168,113,93,279,116,26.6,1,9,Stage 2 Hypertension,Shortness of Breath
+1596,78,157,95,66,270,147,30.7,1,26,Stage 2 Hypertension,Shortness of Breath
+1597,71,150,119,90,175,161,20.4,0,14,Stage 2 Hypertension,Chronic Fatigue
+1598,54,122,92,103,216,122,22.3,1,29,Stage 2 Hypertension,Vertigo
+1599,82,154,83,93,150,176,30.4,1,21,Stage 2 Hypertension,Chronic Fatigue
+1600,59,198,98,54,200,149,20.8,0,16,Hypertensive Crisis,Nausea
+1601,66,162,93,76,154,88,24.0,1,11,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1602,21,151,115,92,162,150,22.5,0,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1603,81,172,87,80,296,159,23.9,1,10,Stage 2 Hypertension,Vertigo
+1604,68,136,96,66,289,75,30.0,0,28,Stage 2 Hypertension,Vertigo
+1605,77,147,66,103,197,176,24.3,1,8,Stage 2 Hypertension,Nausea
+1606,48,169,63,111,206,118,27.4,1,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1607,75,116,96,81,264,142,19.7,1,3,Stage 2 Hypertension,Nausea
+1608,21,114,115,89,184,119,31.7,1,2,Stage 2 Hypertension,Blurry Vision
+1609,39,154,60,62,225,150,24.3,0,16,Stage 2 Hypertension,Postural Hypotension
+1610,20,167,60,84,243,164,29.0,1,19,Stage 2 Hypertension,Occipital Headache
+1611,64,140,106,54,154,81,30.3,0,9,Stage 2 Hypertension,Blurry Vision
+1612,55,132,79,78,171,92,21.6,0,16,Stage 1 Hypertension,Shortness of Breath
+1613,50,151,78,119,252,123,33.0,1,22,Stage 2 Hypertension,Tension-Type Headache
+1614,65,119,88,74,280,138,28.5,1,26,Stage 1 Hypertension,Chronic Fatigue
+1615,82,141,69,71,273,176,25.3,0,28,Stage 2 Hypertension,Palpitations
+1616,43,162,119,115,202,169,21.1,1,4,Stage 2 Hypertension,Tension-Type Headache
+1617,25,139,77,94,218,128,34.0,0,10,Stage 1 Hypertension,Vertigo
+1618,67,148,87,118,253,105,30.8,1,19,Stage 2 Hypertension,Postural Hypotension
+1619,55,140,94,50,165,72,21.5,0,13,Stage 2 Hypertension,Blurry Vision
+1620,27,191,102,93,265,127,23.7,1,18,Hypertensive Crisis,Palpitations
+1621,59,111,106,88,225,157,31.8,1,15,Stage 2 Hypertension,Palpitations
+1622,54,187,90,103,258,124,29.8,0,4,Hypertensive Crisis,Vertigo
+1623,43,186,86,78,188,126,31.0,0,9,Hypertensive Crisis,Blurry Vision
+1624,29,121,70,103,238,86,25.5,0,4,Elevated,Palpitations
+1625,66,148,108,65,261,108,30.2,1,29,Stage 2 Hypertension,Blurry Vision
+1626,31,175,108,69,196,159,24.6,1,16,Stage 2 Hypertension,Chronic Fatigue
+1627,63,122,97,95,286,137,21.6,1,28,Stage 2 Hypertension,Chronic Fatigue
+1628,52,155,64,116,277,124,28.8,1,21,Stage 2 Hypertension,Palpitations
+1629,46,136,67,114,226,114,34.6,0,15,Stage 1 Hypertension,Palpitations
+1630,29,126,93,107,164,145,23.3,0,24,Stage 2 Hypertension,Vertigo
+1631,61,169,107,102,185,70,25.8,1,2,Stage 2 Hypertension,Blurry Vision
+1632,83,173,111,50,212,90,29.5,1,28,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1633,19,197,115,115,218,152,27.2,1,27,Hypertensive Crisis,Nausea
+1634,76,144,71,78,223,90,32.3,0,14,Stage 2 Hypertension,Nausea
+1635,34,179,97,119,173,121,30.9,0,3,Stage 2 Hypertension,Tension-Type Headache
+1636,27,192,60,57,198,151,19.0,1,22,Hypertensive Crisis,Tension-Type Headache
+1637,35,139,90,78,295,112,35.0,0,28,Stage 2 Hypertension,Palpitations
+1638,39,180,63,100,156,121,30.8,1,23,Hypertensive Crisis,Occipital Headache
+1639,75,183,108,82,153,136,32.7,1,4,Hypertensive Crisis,Chronic Fatigue
+1640,70,172,104,52,239,113,29.1,0,1,Stage 2 Hypertension,Shortness of Breath
+1641,18,137,109,109,209,101,32.6,0,23,Stage 2 Hypertension,Blurry Vision
+1642,78,169,64,84,204,79,19.9,0,28,Stage 2 Hypertension,Postural Hypotension
+1643,48,188,89,118,165,133,23.9,0,9,Hypertensive Crisis,Postural Hypotension
+1644,48,146,115,69,178,173,32.9,1,17,Stage 2 Hypertension,Chronic Fatigue
+1645,83,131,83,88,163,148,21.4,0,14,Stage 1 Hypertension,Tension-Type Headache
+1646,36,177,118,53,228,138,19.3,0,17,Stage 2 Hypertension,Vertigo
+1647,70,129,62,68,182,137,31.4,0,1,Elevated,Postural Hypotension
+1648,39,177,70,94,170,97,32.2,0,10,Stage 2 Hypertension,Palpitations
+1649,40,173,104,92,294,122,20.8,1,23,Stage 2 Hypertension,Occipital Headache
+1650,32,126,63,62,172,120,32.5,1,16,Elevated,Postural Hypotension
+1651,43,121,85,62,206,122,29.7,0,27,Stage 1 Hypertension,Nausea
+1652,20,131,86,109,291,73,26.8,0,25,Stage 1 Hypertension,Occipital Headache
+1653,37,126,105,106,242,148,32.1,1,19,Stage 2 Hypertension,Occipital Headache
+1654,57,119,113,101,169,86,25.1,1,24,Stage 2 Hypertension,Postural Hypotension
+1655,56,174,102,102,168,177,21.3,0,25,Stage 2 Hypertension,Vertigo
+1656,35,131,86,92,252,136,22.8,1,3,Stage 1 Hypertension,Vertigo
+1657,58,199,101,91,226,143,26.6,1,28,Hypertensive Crisis,Tension-Type Headache
+1658,44,191,110,75,182,116,27.0,1,12,Hypertensive Crisis,Chronic Fatigue
+1659,32,159,109,72,167,175,31.7,1,3,Stage 2 Hypertension,Palpitations
+1660,54,123,65,92,222,125,31.5,0,15,Elevated,Shortness of Breath
+1661,75,173,118,77,166,92,27.9,1,17,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1662,22,156,74,58,168,87,31.3,1,18,Stage 2 Hypertension,Shortness of Breath
+1663,24,138,112,69,219,70,21.3,0,7,Stage 2 Hypertension,Nausea
+1664,58,185,89,105,269,104,18.9,0,19,Hypertensive Crisis,Vertigo
+1665,27,145,101,88,250,133,32.9,0,7,Stage 2 Hypertension,Tension-Type Headache
+1666,79,161,96,100,183,127,19.3,1,5,Stage 2 Hypertension,Nausea
+1667,43,185,117,61,233,164,22.2,0,26,Hypertensive Crisis,Shortness of Breath
+1668,85,116,96,104,223,128,29.8,1,8,Stage 2 Hypertension,Occipital Headache
+1669,41,138,101,60,237,177,25.0,0,21,Stage 2 Hypertension,Chronic Fatigue
+1670,58,120,119,75,234,70,32.9,1,16,Stage 2 Hypertension,Occipital Headache
+1671,82,142,96,91,160,72,23.1,0,16,Stage 2 Hypertension,Shortness of Breath
+1672,34,115,94,76,240,136,18.2,0,19,Stage 2 Hypertension,Postural Hypotension
+1673,41,188,82,60,293,106,23.1,1,25,Hypertensive Crisis,Chronic Fatigue
+1674,44,141,65,87,276,152,27.8,0,15,Stage 2 Hypertension,Tension-Type Headache
+1675,24,160,63,92,262,98,24.4,0,7,Stage 2 Hypertension,Blurry Vision
+1676,29,184,77,68,229,158,27.1,0,5,Hypertensive Crisis,Occipital Headache
+1677,20,167,119,113,156,102,32.9,0,23,Stage 2 Hypertension,Postural Hypotension
+1678,27,196,68,55,165,169,33.5,0,11,Hypertensive Crisis,Nausea
+1679,50,135,108,95,165,130,22.5,1,10,Stage 2 Hypertension,Blurry Vision
+1680,63,155,88,91,161,162,25.9,1,25,Stage 2 Hypertension,Nausea
+1681,76,138,72,114,184,159,27.3,0,21,Stage 1 Hypertension,Vertigo
+1682,69,113,118,108,170,73,34.1,0,23,Stage 2 Hypertension,Blurry Vision
+1683,23,190,106,101,166,83,35.0,1,27,Hypertensive Crisis,Chronic Fatigue
+1684,19,122,111,96,181,160,22.0,1,9,Stage 2 Hypertension,Vertigo
+1685,46,148,76,56,190,102,30.4,0,1,Stage 2 Hypertension,Chronic Fatigue
+1686,57,124,104,60,283,91,24.4,1,20,Stage 2 Hypertension,Palpitations
+1687,78,138,91,110,176,117,18.1,0,1,Stage 2 Hypertension,Postural Hypotension
+1688,85,138,107,117,297,72,18.2,0,8,Stage 2 Hypertension,Shortness of Breath
+1689,85,184,81,74,215,156,25.8,0,3,Hypertensive Crisis,Nausea
+1690,46,141,63,61,286,154,26.3,0,2,Stage 2 Hypertension,Shortness of Breath
+1691,79,111,64,75,241,174,18.4,1,4,Normal,Blurry Vision
+1692,77,156,96,61,210,92,29.7,1,27,Stage 2 Hypertension,Occipital Headache
+1693,58,187,100,92,152,137,23.0,1,19,Hypertensive Crisis,Occipital Headache
+1694,82,193,108,100,252,90,27.5,0,11,Hypertensive Crisis,Nausea
+1695,81,131,72,86,204,170,23.1,1,5,Stage 1 Hypertension,Vertigo
+1696,80,184,93,95,150,112,20.8,0,29,Hypertensive Crisis,Nausea
+1697,65,136,104,102,250,164,24.9,0,24,Stage 2 Hypertension,Palpitations
+1698,37,176,81,62,194,154,21.9,1,10,Stage 2 Hypertension,Palpitations
+1699,54,190,112,103,175,95,27.1,0,24,Hypertensive Crisis,Shortness of Breath
+1700,81,165,118,106,270,110,21.4,0,27,Stage 2 Hypertension,Blurry Vision
+1701,22,130,82,53,291,168,26.6,0,23,Stage 1 Hypertension,Palpitations
+1702,51,156,110,98,195,107,20.7,1,8,Stage 2 Hypertension,Postural Hypotension
+1703,56,189,62,56,271,157,29.4,0,13,Hypertensive Crisis,Vertigo
+1704,84,168,101,60,180,80,30.8,1,29,Stage 2 Hypertension,Vertigo
+1705,79,193,93,103,208,174,19.9,0,5,Hypertensive Crisis,Palpitations
+1706,41,115,91,94,178,98,26.0,1,26,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1707,20,128,104,72,255,129,19.2,0,26,Stage 2 Hypertension,Occipital Headache
+1708,84,166,110,77,166,136,28.2,1,27,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1709,67,178,117,106,291,134,22.5,1,12,Stage 2 Hypertension,Blurry Vision
+1710,46,112,108,75,173,130,27.0,0,27,Stage 2 Hypertension,Blurry Vision
+1711,49,110,80,74,258,88,26.8,0,13,Stage 1 Hypertension,Chronic Fatigue
+1712,56,167,105,103,240,115,33.7,0,22,Stage 2 Hypertension,Blurry Vision
+1713,26,147,103,78,174,118,27.3,0,8,Stage 2 Hypertension,Chronic Fatigue
+1714,31,124,80,85,181,91,27.9,1,15,Stage 1 Hypertension,Vertigo
+1715,85,143,103,63,265,147,24.8,0,13,Stage 2 Hypertension,Postural Hypotension
+1716,81,170,70,84,231,126,34.1,1,1,Stage 2 Hypertension,Tension-Type Headache
+1717,37,144,98,79,259,83,31.2,0,22,Stage 2 Hypertension,Occipital Headache
+1718,45,173,63,66,295,113,22.9,1,6,Stage 2 Hypertension,Chronic Fatigue
+1719,31,134,110,116,186,85,32.4,1,11,Stage 2 Hypertension,Shortness of Breath
+1720,61,133,60,79,175,166,25.4,1,13,Stage 1 Hypertension,Postural Hypotension
+1721,56,121,87,94,286,146,32.1,0,21,Stage 1 Hypertension,Nausea
+1722,45,127,83,100,213,171,32.0,0,20,Stage 1 Hypertension,Shortness of Breath
+1723,81,124,94,96,221,81,21.2,1,1,Stage 2 Hypertension,Postural Hypotension
+1724,49,189,72,102,297,124,29.9,1,11,Hypertensive Crisis,Shortness of Breath
+1725,26,136,106,113,255,120,22.9,1,26,Stage 2 Hypertension,Palpitations
+1726,45,181,93,87,235,171,23.1,1,11,Hypertensive Crisis,Shortness of Breath
+1727,34,169,70,113,202,108,23.0,1,8,Stage 2 Hypertension,Chronic Fatigue
+1728,72,155,95,56,241,102,30.3,0,22,Stage 2 Hypertension,Postural Hypotension
+1729,27,198,110,71,248,102,21.9,1,3,Hypertensive Crisis,Nausea
+1730,23,126,76,90,160,98,18.0,0,28,Elevated,Blurry Vision
+1731,65,162,94,59,180,138,30.2,0,19,Stage 2 Hypertension,Shortness of Breath
+1732,84,117,119,106,249,139,20.9,0,12,Stage 2 Hypertension,Nausea
+1733,58,188,77,56,236,100,19.8,1,6,Hypertensive Crisis,Postural Hypotension
+1734,77,136,99,99,296,149,22.0,1,28,Stage 2 Hypertension,Nausea
+1735,59,155,81,101,289,100,24.5,1,23,Stage 2 Hypertension,Tension-Type Headache
+1736,45,159,116,82,164,158,26.1,1,8,Stage 2 Hypertension,Tension-Type Headache
+1737,30,180,83,50,250,115,18.8,0,5,Hypertensive Crisis,Shortness of Breath
+1738,32,112,117,102,178,166,34.5,0,10,Stage 2 Hypertension,Shortness of Breath
+1739,53,173,78,109,263,146,30.2,0,22,Stage 2 Hypertension,Shortness of Breath
+1740,32,153,96,83,256,121,23.5,1,16,Stage 2 Hypertension,Occipital Headache
+1741,73,162,98,53,257,79,23.4,1,12,Stage 2 Hypertension,Palpitations
+1742,21,133,80,66,279,157,25.6,1,17,Stage 1 Hypertension,Nausea
+1743,69,169,67,53,233,143,28.6,1,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1744,27,112,87,92,164,110,20.5,1,9,Stage 1 Hypertension,Vertigo
+1745,62,129,64,53,281,164,21.2,1,10,Elevated,Shortness of Breath
+1746,46,155,76,50,199,146,32.6,0,20,Stage 2 Hypertension,Chronic Fatigue
+1747,70,124,96,99,172,72,22.4,0,14,Stage 2 Hypertension,Tension-Type Headache
+1748,46,134,95,110,208,128,24.5,1,14,Stage 2 Hypertension,Tension-Type Headache
+1749,40,187,113,84,239,121,32.8,0,26,Hypertensive Crisis,Blurry Vision
+1750,74,180,78,57,264,103,29.3,0,29,Hypertensive Crisis,Vertigo
+1751,67,126,86,73,224,118,23.8,0,17,Stage 1 Hypertension,Nausea
+1752,38,193,112,85,272,97,29.6,0,27,Hypertensive Crisis,Postural Hypotension
+1753,60,118,93,99,285,152,18.3,1,25,Stage 2 Hypertension,Vertigo
+1754,27,147,70,92,288,156,30.5,0,16,Stage 2 Hypertension,Palpitations
+1755,47,157,113,76,167,178,26.3,1,4,Stage 2 Hypertension,Shortness of Breath
+1756,68,169,104,81,199,165,31.8,1,2,Stage 2 Hypertension,Chronic Fatigue
+1757,50,172,106,67,291,82,34.2,0,16,Stage 2 Hypertension,Nausea
+1758,35,195,71,77,267,166,33.7,1,1,Hypertensive Crisis,Nausea
+1759,39,111,113,78,286,167,33.5,0,3,Stage 2 Hypertension,Shortness of Breath
+1760,81,197,80,65,288,166,26.7,1,23,Hypertensive Crisis,Palpitations
+1761,38,181,113,96,257,138,24.1,1,11,Hypertensive Crisis,Shortness of Breath
+1762,18,120,70,108,216,136,25.9,0,16,Elevated,Shortness of Breath
+1763,32,173,98,80,227,130,29.7,0,26,Stage 2 Hypertension,Vertigo
+1764,53,186,87,53,224,129,33.0,1,18,Hypertensive Crisis,Chronic Fatigue
+1765,64,190,64,86,188,140,21.5,0,15,Hypertensive Crisis,Nausea
+1766,71,181,76,66,174,93,33.6,1,9,Hypertensive Crisis,Blurry Vision
+1767,49,130,115,88,170,132,31.9,0,12,Stage 2 Hypertension,Shortness of Breath
+1768,75,127,79,97,287,155,34.6,1,29,Elevated,Occipital Headache
+1769,63,173,100,95,164,178,33.0,1,27,Stage 2 Hypertension,Postural Hypotension
+1770,71,191,105,97,197,130,22.8,1,18,Hypertensive Crisis,Shortness of Breath
+1771,50,147,117,88,235,92,19.8,1,5,Stage 2 Hypertension,Shortness of Breath
+1772,56,141,71,53,298,99,19.9,1,24,Stage 2 Hypertension,Nausea
+1773,40,120,65,79,265,129,23.0,0,29,Elevated,Tension-Type Headache
+1774,60,154,76,79,199,87,28.4,1,29,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1775,72,198,110,71,290,165,31.7,0,28,Hypertensive Crisis,Postural Hypotension
+1776,19,142,78,115,218,125,33.3,0,26,Stage 2 Hypertension,Tension-Type Headache
+1777,83,150,85,61,153,122,28.6,1,8,Stage 2 Hypertension,Vertigo
+1778,55,117,107,85,227,76,18.1,1,3,Stage 2 Hypertension,Occipital Headache
+1779,46,120,103,67,158,166,21.2,0,2,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1780,84,195,103,102,270,138,19.7,1,25,Hypertensive Crisis,Postural Hypotension
+1781,53,160,111,50,264,161,24.2,1,19,Stage 2 Hypertension,Tension-Type Headache
+1782,46,197,91,107,250,141,26.5,0,8,Hypertensive Crisis,Chronic Fatigue
+1783,54,150,65,55,298,148,18.7,0,2,Stage 2 Hypertension,Chronic Fatigue
+1784,62,126,114,119,295,121,23.9,0,19,Stage 2 Hypertension,Palpitations
+1785,33,185,117,93,246,73,21.0,0,1,Hypertensive Crisis,Shortness of Breath
+1786,48,155,95,73,230,103,29.0,0,27,Stage 2 Hypertension,Occipital Headache
+1787,51,141,97,68,192,138,25.9,0,22,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1788,67,188,70,67,244,102,26.4,1,13,Hypertensive Crisis,Postural Hypotension
+1789,82,189,92,79,155,138,25.3,0,23,Hypertensive Crisis,Chronic Fatigue
+1790,79,163,83,91,216,107,34.3,0,20,Stage 2 Hypertension,Occipital Headache
+1791,60,195,82,82,289,167,21.7,1,17,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1792,73,129,74,61,249,95,26.8,1,3,Elevated,Palpitations
+1793,32,142,86,76,161,70,30.5,1,9,Stage 2 Hypertension,Chronic Fatigue
+1794,65,183,70,88,215,73,27.5,1,5,Hypertensive Crisis,Nausea
+1795,66,149,116,58,151,108,33.8,1,6,Stage 2 Hypertension,Chronic Fatigue
+1796,61,141,110,70,292,123,24.4,1,4,Stage 2 Hypertension,Blurry Vision
+1797,27,111,109,78,230,159,25.9,0,17,Stage 2 Hypertension,Nausea
+1798,37,142,76,82,284,102,19.5,1,21,Stage 2 Hypertension,Occipital Headache
+1799,25,186,110,111,291,102,28.4,1,21,Hypertensive Crisis,Palpitations
+1800,62,139,112,64,219,141,22.9,1,21,Stage 2 Hypertension,Tension-Type Headache
+1801,51,142,73,51,264,89,20.7,1,16,Stage 2 Hypertension,Vertigo
+1802,68,186,86,101,237,85,27.3,0,16,Hypertensive Crisis,Shortness of Breath
+1803,21,135,77,93,155,90,27.0,1,22,Stage 1 Hypertension,Shortness of Breath
+1804,56,131,87,103,176,114,19.3,1,11,Stage 1 Hypertension,Chronic Fatigue
+1805,41,175,110,67,231,159,29.9,0,2,Stage 2 Hypertension,Postural Hypotension
+1806,72,147,106,52,237,156,28.6,0,17,Stage 2 Hypertension,Nausea
+1807,43,199,106,56,269,151,21.2,0,15,Hypertensive Crisis,Blurry Vision
+1808,42,155,63,92,173,131,26.0,1,18,Stage 2 Hypertension,Chronic Fatigue
+1809,53,124,66,87,251,100,30.2,0,29,Elevated,Palpitations
+1810,75,153,104,86,183,111,27.0,0,10,Stage 2 Hypertension,Vertigo
+1811,29,158,94,107,196,81,24.7,0,6,Stage 2 Hypertension,Tension-Type Headache
+1812,18,184,107,82,173,134,23.5,1,21,Hypertensive Crisis,Vertigo
+1813,67,170,68,108,214,175,28.4,1,16,Stage 2 Hypertension,Blurry Vision
+1814,42,176,67,60,167,142,34.0,0,5,Stage 2 Hypertension,Vertigo
+1815,22,115,111,117,193,72,29.4,1,12,Stage 2 Hypertension,Vertigo
+1816,85,118,104,117,225,159,19.3,1,28,Stage 2 Hypertension,Occipital Headache
+1817,23,115,76,71,206,78,25.8,1,6,Normal,Palpitations
+1818,43,182,76,115,256,175,33.1,1,14,Hypertensive Crisis,Palpitations
+1819,72,141,108,93,273,120,19.6,1,26,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1820,56,150,92,55,288,85,34.8,0,23,Stage 2 Hypertension,Chronic Fatigue
+1821,26,185,91,91,265,157,34.1,0,16,Hypertensive Crisis,Postural Hypotension
+1822,62,117,67,74,242,147,19.3,0,25,Normal,Hypertensive Crisis Symptoms
+1823,31,181,78,106,191,72,33.9,0,7,Hypertensive Crisis,Palpitations
+1824,72,159,97,104,177,167,24.2,1,2,Stage 2 Hypertension,Shortness of Breath
+1825,26,171,62,65,272,166,32.4,0,6,Stage 2 Hypertension,Chronic Fatigue
+1826,32,193,118,63,173,93,25.1,0,9,Hypertensive Crisis,Blurry Vision
+1827,54,171,64,88,285,142,25.5,1,7,Stage 2 Hypertension,Occipital Headache
+1828,67,116,72,77,255,82,28.8,1,2,Normal,Tension-Type Headache
+1829,38,184,106,100,267,71,31.2,1,19,Hypertensive Crisis,Shortness of Breath
+1830,74,193,105,98,202,140,18.6,1,8,Hypertensive Crisis,Palpitations
+1831,36,189,90,58,281,90,28.1,0,11,Hypertensive Crisis,Chronic Fatigue
+1832,75,113,114,107,249,88,21.2,1,25,Stage 2 Hypertension,Palpitations
+1833,23,115,75,94,154,158,23.9,1,4,Normal,Nausea
+1834,21,167,109,71,198,116,23.9,1,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1835,60,131,91,81,247,91,26.0,1,25,Stage 2 Hypertension,Tension-Type Headache
+1836,59,135,81,118,179,144,23.7,1,18,Stage 1 Hypertension,Tension-Type Headache
+1837,20,112,88,118,221,102,19.8,1,13,Stage 1 Hypertension,Postural Hypotension
+1838,18,150,81,91,252,101,20.5,0,27,Stage 2 Hypertension,Nausea
+1839,72,169,102,102,212,133,18.6,0,5,Stage 2 Hypertension,Vertigo
+1840,32,123,62,108,175,154,26.0,0,27,Elevated,Nausea
+1841,64,184,113,88,186,108,34.2,1,2,Hypertensive Crisis,Tension-Type Headache
+1842,63,191,69,64,156,153,20.0,1,11,Hypertensive Crisis,Shortness of Breath
+1843,75,121,101,78,276,141,34.1,0,1,Stage 2 Hypertension,Postural Hypotension
+1844,56,196,80,52,241,111,30.5,0,13,Hypertensive Crisis,Blurry Vision
+1845,20,121,75,59,252,170,28.8,0,5,Elevated,Shortness of Breath
+1846,47,122,71,78,202,78,29.0,0,18,Elevated,Chronic Fatigue
+1847,52,134,61,84,281,94,32.1,1,14,Stage 1 Hypertension,Vertigo
+1848,74,154,100,55,257,158,19.8,0,13,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1849,46,128,83,61,261,166,26.6,1,7,Stage 1 Hypertension,Blurry Vision
+1850,67,164,94,87,156,71,29.9,1,8,Stage 2 Hypertension,Shortness of Breath
+1851,79,154,115,68,216,88,28.0,1,18,Stage 2 Hypertension,Chronic Fatigue
+1852,69,117,89,116,257,179,32.2,0,7,Stage 1 Hypertension,Palpitations
+1853,31,162,116,57,260,89,19.2,0,20,Stage 2 Hypertension,Occipital Headache
+1854,52,164,89,57,297,175,29.7,0,17,Stage 2 Hypertension,Vertigo
+1855,45,141,106,96,232,174,27.1,1,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1856,75,160,94,53,273,175,24.4,1,11,Stage 2 Hypertension,Postural Hypotension
+1857,47,153,78,100,288,162,23.8,0,19,Stage 2 Hypertension,Nausea
+1858,24,191,109,116,253,139,28.6,1,27,Hypertensive Crisis,Occipital Headache
+1859,56,179,67,94,216,86,33.1,0,28,Stage 2 Hypertension,Vertigo
+1860,52,127,85,57,156,158,26.4,1,1,Stage 1 Hypertension,Blurry Vision
+1861,69,192,108,65,259,171,32.0,1,21,Hypertensive Crisis,Palpitations
+1862,31,131,99,116,183,137,24.8,1,29,Stage 2 Hypertension,Postural Hypotension
+1863,80,146,66,58,255,163,19.7,1,8,Stage 2 Hypertension,Tension-Type Headache
+1864,53,165,89,109,296,153,19.0,1,1,Stage 2 Hypertension,Shortness of Breath
+1865,41,168,66,64,207,72,18.9,1,9,Stage 2 Hypertension,Shortness of Breath
+1866,57,112,62,90,158,156,24.5,1,19,Normal,Postural Hypotension
+1867,46,137,60,71,197,120,23.7,0,21,Stage 1 Hypertension,Tension-Type Headache
+1868,70,183,95,73,264,151,30.2,1,9,Hypertensive Crisis,Shortness of Breath
+1869,39,144,84,93,190,95,30.6,1,21,Stage 2 Hypertension,Vertigo
+1870,32,170,96,50,197,125,18.9,0,25,Stage 2 Hypertension,Postural Hypotension
+1871,81,163,60,59,174,169,21.8,0,10,Stage 2 Hypertension,Postural Hypotension
+1872,21,172,74,105,265,133,22.7,0,24,Stage 2 Hypertension,Blurry Vision
+1873,35,188,96,99,227,77,27.3,0,23,Hypertensive Crisis,Tension-Type Headache
+1874,59,116,72,61,257,150,20.5,1,11,Normal,Blurry Vision
+1875,47,185,99,109,174,164,20.3,1,1,Hypertensive Crisis,Tension-Type Headache
+1876,32,158,67,75,296,106,34.0,0,20,Stage 2 Hypertension,Blurry Vision
+1877,72,194,64,90,188,178,31.7,1,25,Hypertensive Crisis,Postural Hypotension
+1878,70,140,119,85,268,166,21.1,0,26,Stage 2 Hypertension,Nausea
+1879,33,167,68,72,228,96,24.9,1,8,Stage 2 Hypertension,Nausea
+1880,51,170,60,92,229,114,24.0,1,20,Stage 2 Hypertension,Nausea
+1881,44,133,95,55,176,73,31.4,1,12,Stage 2 Hypertension,Postural Hypotension
+1882,30,129,94,118,253,155,26.7,1,1,Stage 2 Hypertension,Shortness of Breath
+1883,44,146,61,92,223,159,20.2,1,10,Stage 2 Hypertension,Palpitations
+1884,48,113,99,74,217,165,30.6,0,4,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1885,20,129,82,67,296,157,24.7,1,15,Stage 1 Hypertension,Palpitations
+1886,47,169,68,111,177,179,22.5,1,19,Stage 2 Hypertension,Nausea
+1887,38,133,93,62,272,168,24.4,1,6,Stage 2 Hypertension,Shortness of Breath
+1888,23,159,105,92,287,106,26.5,1,27,Stage 2 Hypertension,Postural Hypotension
+1889,49,158,73,77,232,165,23.8,1,5,Stage 2 Hypertension,Chronic Fatigue
+1890,59,160,63,67,179,140,22.1,0,5,Stage 2 Hypertension,Shortness of Breath
+1891,79,145,89,108,171,102,24.8,1,18,Stage 2 Hypertension,Chronic Fatigue
+1892,49,175,90,109,152,100,18.3,0,28,Stage 2 Hypertension,Postural Hypotension
+1893,56,188,97,112,250,124,31.1,1,3,Hypertensive Crisis,Vertigo
+1894,81,143,70,106,254,81,20.9,1,27,Stage 2 Hypertension,Tension-Type Headache
+1895,47,145,94,100,151,80,18.7,0,22,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1896,80,115,67,105,203,157,29.1,1,2,Normal,Palpitations
+1897,48,148,62,76,155,141,31.2,1,4,Stage 2 Hypertension,Blurry Vision
+1898,57,151,73,81,256,101,31.8,0,18,Stage 2 Hypertension,Blurry Vision
+1899,50,167,119,58,272,126,26.4,1,9,Stage 2 Hypertension,Tension-Type Headache
+1900,80,121,72,117,151,107,21.5,0,19,Elevated,Shortness of Breath
+1901,42,112,104,95,260,129,30.5,0,26,Stage 2 Hypertension,Blurry Vision
+1902,53,127,91,116,151,155,29.9,0,10,Stage 2 Hypertension,Occipital Headache
+1903,41,149,93,75,242,167,22.2,1,22,Stage 2 Hypertension,Blurry Vision
+1904,75,130,104,57,250,88,33.4,1,15,Stage 2 Hypertension,Postural Hypotension
+1905,56,124,78,55,246,153,19.8,0,1,Elevated,Tension-Type Headache
+1906,63,135,118,73,260,125,34.7,1,29,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1907,27,117,97,97,155,83,32.6,0,11,Stage 2 Hypertension,Tension-Type Headache
+1908,49,196,75,94,276,102,29.7,1,14,Hypertensive Crisis,Hypertensive Crisis Symptoms
+1909,53,151,61,62,253,79,34.0,0,10,Stage 2 Hypertension,Occipital Headache
+1910,45,153,99,118,296,149,30.3,1,19,Stage 2 Hypertension,Blurry Vision
+1911,33,123,76,74,150,133,21.2,0,24,Elevated,Tension-Type Headache
+1912,33,187,114,69,182,133,25.5,1,21,Hypertensive Crisis,Chronic Fatigue
+1913,35,111,93,115,189,131,19.2,0,16,Stage 2 Hypertension,Nausea
+1914,25,146,101,94,181,137,24.6,1,8,Stage 2 Hypertension,Occipital Headache
+1915,18,178,119,96,166,160,30.6,0,2,Stage 2 Hypertension,Shortness of Breath
+1916,79,147,75,112,275,161,24.6,1,23,Stage 2 Hypertension,Chronic Fatigue
+1917,55,150,97,104,157,112,23.6,1,25,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1918,62,171,119,68,206,149,28.1,0,7,Stage 2 Hypertension,Tension-Type Headache
+1919,75,169,61,84,191,128,32.8,1,19,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1920,18,123,61,102,247,121,18.8,1,7,Elevated,Hypertensive Crisis Symptoms
+1921,49,198,85,75,286,166,24.6,1,15,Hypertensive Crisis,Occipital Headache
+1922,25,193,72,63,269,88,20.7,1,8,Hypertensive Crisis,Chronic Fatigue
+1923,57,111,115,94,236,90,29.8,0,14,Stage 2 Hypertension,Tension-Type Headache
+1924,73,179,106,93,203,91,19.8,1,1,Stage 2 Hypertension,Blurry Vision
+1925,80,126,90,114,233,78,29.3,1,29,Stage 2 Hypertension,Vertigo
+1926,53,198,119,100,174,78,22.9,0,13,Hypertensive Crisis,Palpitations
+1927,74,137,93,92,216,142,21.4,1,3,Stage 2 Hypertension,Palpitations
+1928,62,175,98,72,195,96,33.9,0,21,Stage 2 Hypertension,Occipital Headache
+1929,19,144,62,105,171,86,18.3,1,28,Stage 2 Hypertension,Shortness of Breath
+1930,85,114,67,68,288,113,25.4,0,6,Normal,Postural Hypotension
+1931,67,174,82,104,157,114,18.4,1,19,Stage 2 Hypertension,Vertigo
+1932,46,149,73,109,188,77,26.2,0,15,Stage 2 Hypertension,Tension-Type Headache
+1933,27,185,115,108,198,149,26.5,0,4,Hypertensive Crisis,Palpitations
+1934,44,165,114,82,195,87,23.5,0,21,Stage 2 Hypertension,Shortness of Breath
+1935,32,145,86,68,187,102,20.2,1,3,Stage 2 Hypertension,Postural Hypotension
+1936,77,154,113,77,285,70,24.4,0,4,Stage 2 Hypertension,Chronic Fatigue
+1937,48,132,88,101,203,145,29.4,1,5,Stage 1 Hypertension,Tension-Type Headache
+1938,38,156,98,98,241,75,31.3,0,18,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1939,77,140,112,86,189,110,27.0,0,26,Stage 2 Hypertension,Shortness of Breath
+1940,75,120,98,75,183,124,28.0,0,25,Stage 2 Hypertension,Tension-Type Headache
+1941,58,119,60,89,245,74,21.4,1,10,Normal,Vertigo
+1942,63,176,76,87,228,128,22.9,1,8,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1943,62,123,100,103,276,149,20.8,0,12,Stage 2 Hypertension,Vertigo
+1944,43,189,89,71,166,87,22.2,0,22,Hypertensive Crisis,Nausea
+1945,68,183,112,65,259,118,21.8,0,26,Hypertensive Crisis,Palpitations
+1946,53,119,72,77,201,151,26.8,0,27,Normal,Postural Hypotension
+1947,69,185,80,84,267,134,27.6,0,3,Hypertensive Crisis,Shortness of Breath
+1948,68,110,78,109,158,152,34.1,0,27,Normal,Hypertensive Crisis Symptoms
+1949,20,114,112,94,182,123,21.3,0,18,Stage 2 Hypertension,Palpitations
+1950,31,129,78,95,262,130,28.9,0,23,Elevated,Occipital Headache
+1951,66,117,116,104,298,77,31.9,1,8,Stage 2 Hypertension,Vertigo
+1952,18,152,84,75,234,72,27.5,0,26,Stage 2 Hypertension,Nausea
+1953,74,185,81,74,159,94,22.3,1,1,Hypertensive Crisis,Vertigo
+1954,34,110,90,114,155,138,22.5,0,14,Stage 2 Hypertension,Tension-Type Headache
+1955,67,166,76,55,264,124,18.7,1,22,Stage 2 Hypertension,Chronic Fatigue
+1956,31,173,114,72,270,109,23.2,1,23,Stage 2 Hypertension,Nausea
+1957,76,193,82,113,290,152,30.7,0,13,Hypertensive Crisis,Nausea
+1958,20,137,91,92,214,151,18.8,1,25,Stage 2 Hypertension,Postural Hypotension
+1959,57,146,69,72,169,119,21.7,1,12,Stage 2 Hypertension,Shortness of Breath
+1960,83,156,69,79,206,164,30.0,0,3,Stage 2 Hypertension,Occipital Headache
+1961,51,185,95,67,195,102,31.3,0,18,Hypertensive Crisis,Occipital Headache
+1962,26,146,67,70,285,87,25.7,0,21,Stage 2 Hypertension,Postural Hypotension
+1963,38,158,113,106,159,126,29.9,1,13,Stage 2 Hypertension,Vertigo
+1964,42,153,111,72,262,172,24.6,0,15,Stage 2 Hypertension,Blurry Vision
+1965,61,165,79,94,288,85,20.7,1,10,Stage 2 Hypertension,Palpitations
+1966,42,137,91,93,161,149,24.8,0,1,Stage 2 Hypertension,Blurry Vision
+1967,26,188,109,96,287,107,27.9,0,29,Hypertensive Crisis,Tension-Type Headache
+1968,79,115,73,89,160,110,34.1,1,6,Normal,Occipital Headache
+1969,43,170,109,100,267,76,19.2,1,9,Stage 2 Hypertension,Shortness of Breath
+1970,74,129,87,91,188,147,26.6,1,10,Stage 1 Hypertension,Chronic Fatigue
+1971,54,187,105,56,202,176,23.6,0,15,Hypertensive Crisis,Vertigo
+1972,33,111,111,99,205,122,26.6,0,9,Stage 2 Hypertension,Shortness of Breath
+1973,54,182,112,97,253,132,18.4,0,23,Hypertensive Crisis,Shortness of Breath
+1974,41,146,83,55,278,158,23.3,1,14,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1975,43,129,74,58,205,101,31.9,1,11,Elevated,Nausea
+1976,37,135,81,106,267,107,27.4,1,7,Stage 1 Hypertension,Palpitations
+1977,26,138,89,80,281,91,25.7,1,24,Stage 1 Hypertension,Nausea
+1978,46,110,63,70,179,85,22.9,0,26,Normal,Shortness of Breath
+1979,48,144,72,89,161,121,23.1,1,2,Stage 2 Hypertension,Postural Hypotension
+1980,36,179,118,94,184,98,24.5,1,14,Stage 2 Hypertension,Blurry Vision
+1981,37,168,82,98,226,85,32.2,0,6,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+1982,44,178,67,69,251,145,34.4,0,5,Stage 2 Hypertension,Nausea
+1983,61,142,77,66,236,86,25.5,1,5,Stage 2 Hypertension,Tension-Type Headache
+1984,52,160,71,77,201,170,24.7,1,29,Stage 2 Hypertension,Chronic Fatigue
+1985,39,187,114,90,229,133,32.4,1,19,Hypertensive Crisis,Chronic Fatigue
+1986,32,121,90,115,284,160,25.3,1,19,Stage 2 Hypertension,Palpitations
+1987,30,129,73,74,171,158,27.4,1,6,Elevated,Tension-Type Headache
+1988,21,162,93,107,224,82,21.9,1,28,Stage 2 Hypertension,Nausea
+1989,73,197,77,90,207,141,30.6,0,26,Hypertensive Crisis,Nausea
+1990,40,152,115,55,242,125,27.0,0,29,Stage 2 Hypertension,Shortness of Breath
+1991,51,198,93,87,252,74,31.8,0,10,Hypertensive Crisis,Nausea
+1992,34,159,70,55,289,81,31.3,0,23,Stage 2 Hypertension,Tension-Type Headache
+1993,45,138,100,94,156,110,21.7,1,14,Stage 2 Hypertension,Chronic Fatigue
+1994,31,166,71,63,277,72,30.2,1,17,Stage 2 Hypertension,Shortness of Breath
+1995,51,148,108,115,204,168,31.6,1,3,Stage 2 Hypertension,Vertigo
+1996,74,165,74,89,255,102,23.9,1,28,Stage 2 Hypertension,Tension-Type Headache
+1997,72,152,116,52,211,155,20.9,0,1,Stage 2 Hypertension,Postural Hypotension
+1998,83,159,90,73,239,119,18.0,1,10,Stage 2 Hypertension,Nausea
+1999,54,132,108,68,247,125,25.7,1,3,Stage 2 Hypertension,Chronic Fatigue
+2000,85,153,117,67,226,177,24.0,1,5,Stage 2 Hypertension,Blurry Vision
+2001,43,147,88,113,268,78,27.4,1,25,Stage 2 Hypertension,Nausea
+2002,78,193,85,84,185,174,21.2,0,19,Hypertensive Crisis,Postural Hypotension
+2003,84,132,77,111,238,151,32.6,1,10,Stage 1 Hypertension,Chronic Fatigue
+2004,69,154,91,50,294,119,22.4,0,26,Stage 2 Hypertension,Palpitations
+2005,35,161,81,74,279,98,21.8,1,25,Stage 2 Hypertension,Nausea
+2006,70,189,97,94,290,108,26.2,1,16,Hypertensive Crisis,Shortness of Breath
+2007,80,159,76,98,242,160,26.5,1,1,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2008,70,117,82,65,263,169,21.7,0,6,Stage 1 Hypertension,Tension-Type Headache
+2009,44,194,83,68,177,114,22.6,1,9,Hypertensive Crisis,Postural Hypotension
+2010,48,110,109,72,292,86,20.9,1,28,Stage 2 Hypertension,Nausea
+2011,18,117,67,74,182,125,30.2,1,5,Normal,Vertigo
+2012,23,138,100,65,169,167,31.1,0,27,Stage 2 Hypertension,Blurry Vision
+2013,28,114,65,103,289,115,25.9,0,14,Normal,Chronic Fatigue
+2014,51,195,64,50,250,136,30.1,1,10,Hypertensive Crisis,Postural Hypotension
+2015,80,156,103,91,172,138,30.5,0,2,Stage 2 Hypertension,Tension-Type Headache
+2016,70,143,116,68,261,83,20.4,1,5,Stage 2 Hypertension,Nausea
+2017,35,174,88,83,163,136,34.4,1,1,Stage 2 Hypertension,Vertigo
+2018,38,164,87,104,240,92,32.0,0,25,Stage 2 Hypertension,Chronic Fatigue
+2019,36,199,70,67,226,172,21.5,1,10,Hypertensive Crisis,Tension-Type Headache
+2020,21,152,116,83,234,163,21.2,1,29,Stage 2 Hypertension,Chronic Fatigue
+2021,46,183,60,94,258,178,20.1,0,26,Hypertensive Crisis,Tension-Type Headache
+2022,42,139,102,55,180,130,20.4,0,25,Stage 2 Hypertension,Nausea
+2023,73,191,78,70,271,92,30.7,0,22,Hypertensive Crisis,Hypertensive Crisis Symptoms
+2024,80,126,68,119,256,96,26.0,0,27,Elevated,Occipital Headache
+2025,44,135,86,97,203,123,31.3,1,9,Stage 1 Hypertension,Shortness of Breath
+2026,77,117,93,88,282,79,30.7,1,3,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2027,66,156,103,80,290,158,28.3,1,15,Stage 2 Hypertension,Occipital Headache
+2028,82,185,63,59,192,146,29.7,1,4,Hypertensive Crisis,Nausea
+2029,55,181,95,79,238,85,18.3,1,13,Hypertensive Crisis,Nausea
+2030,69,198,77,67,264,110,23.3,1,6,Hypertensive Crisis,Nausea
+2031,18,155,74,109,248,167,28.8,1,20,Stage 2 Hypertension,Occipital Headache
+2032,57,177,110,64,196,124,18.2,1,17,Stage 2 Hypertension,Vertigo
+2033,38,142,72,53,220,170,18.6,0,23,Stage 2 Hypertension,Postural Hypotension
+2034,32,110,78,112,216,130,32.5,1,5,Normal,Occipital Headache
+2035,67,128,108,89,211,155,29.6,1,15,Stage 2 Hypertension,Blurry Vision
+2036,65,140,65,58,258,150,22.5,1,8,Stage 2 Hypertension,Postural Hypotension
+2037,49,189,107,58,186,156,29.7,1,25,Hypertensive Crisis,Blurry Vision
+2038,66,123,115,75,268,169,31.5,1,5,Stage 2 Hypertension,Tension-Type Headache
+2039,85,162,71,53,235,118,23.2,0,24,Stage 2 Hypertension,Shortness of Breath
+2040,62,157,110,65,275,142,18.6,0,13,Stage 2 Hypertension,Shortness of Breath
+2041,49,178,96,64,285,121,33.9,0,1,Stage 2 Hypertension,Shortness of Breath
+2042,21,199,76,101,201,71,23.9,1,1,Hypertensive Crisis,Palpitations
+2043,82,171,117,118,240,165,19.8,1,7,Stage 2 Hypertension,Occipital Headache
+2044,82,175,82,54,182,119,26.4,1,22,Stage 2 Hypertension,Vertigo
+2045,35,173,85,69,230,155,31.1,1,5,Stage 2 Hypertension,Tension-Type Headache
+2046,71,179,88,67,191,112,21.8,0,14,Stage 2 Hypertension,Nausea
+2047,64,172,92,51,261,146,22.6,0,15,Stage 2 Hypertension,Occipital Headache
+2048,23,182,119,62,275,77,22.1,1,21,Hypertensive Crisis,Blurry Vision
+2049,83,142,86,53,285,128,34.9,1,25,Stage 2 Hypertension,Blurry Vision
+2050,26,150,84,91,255,134,21.4,0,17,Stage 2 Hypertension,Postural Hypotension
+2051,85,198,115,110,274,150,27.8,0,24,Hypertensive Crisis,Nausea
+2052,40,157,114,57,262,81,33.7,0,18,Stage 2 Hypertension,Palpitations
+2053,60,122,69,116,213,73,20.5,0,7,Elevated,Blurry Vision
+2054,68,182,106,112,272,146,34.5,0,22,Hypertensive Crisis,Shortness of Breath
+2055,42,186,82,58,263,164,34.1,0,26,Hypertensive Crisis,Postural Hypotension
+2056,52,140,80,60,169,110,33.0,0,18,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2057,34,184,80,91,165,76,21.6,1,28,Hypertensive Crisis,Chronic Fatigue
+2058,35,177,102,62,294,156,28.8,1,29,Stage 2 Hypertension,Postural Hypotension
+2059,44,113,72,85,168,157,30.9,0,19,Normal,Postural Hypotension
+2060,32,128,96,62,269,138,34.8,1,20,Stage 2 Hypertension,Blurry Vision
+2061,32,179,92,61,285,138,21.1,0,7,Stage 2 Hypertension,Occipital Headache
+2062,59,191,83,86,187,150,31.0,1,8,Hypertensive Crisis,Nausea
+2063,51,122,103,101,242,99,23.8,0,13,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2064,65,132,70,51,254,142,21.0,1,27,Stage 1 Hypertension,Shortness of Breath
+2065,25,192,76,105,249,75,25.2,0,18,Hypertensive Crisis,Occipital Headache
+2066,27,184,63,109,239,158,31.5,1,24,Hypertensive Crisis,Tension-Type Headache
+2067,22,110,106,72,193,88,25.9,1,11,Stage 2 Hypertension,Blurry Vision
+2068,65,197,84,89,225,149,27.1,0,9,Hypertensive Crisis,Nausea
+2069,43,163,89,113,294,154,34.9,0,23,Stage 2 Hypertension,Vertigo
+2070,40,180,68,72,228,135,24.8,0,1,Hypertensive Crisis,Shortness of Breath
+2071,79,198,80,78,222,79,28.5,1,22,Hypertensive Crisis,Occipital Headache
+2072,30,194,79,100,289,85,24.2,1,8,Hypertensive Crisis,Shortness of Breath
+2073,26,124,78,118,245,106,24.7,1,21,Elevated,Nausea
+2074,37,174,78,80,238,148,29.8,1,12,Stage 2 Hypertension,Tension-Type Headache
+2075,74,185,71,99,252,146,33.9,0,2,Hypertensive Crisis,Tension-Type Headache
+2076,41,180,96,69,295,146,27.2,0,15,Hypertensive Crisis,Shortness of Breath
+2077,50,124,101,104,155,101,31.1,1,21,Stage 2 Hypertension,Tension-Type Headache
+2078,37,130,76,51,271,178,19.5,0,24,Stage 1 Hypertension,Occipital Headache
+2079,77,128,96,74,265,116,21.6,0,18,Stage 2 Hypertension,Shortness of Breath
+2080,65,169,113,62,211,179,26.5,0,17,Stage 2 Hypertension,Occipital Headache
+2081,81,198,107,119,293,141,18.3,0,15,Hypertensive Crisis,Tension-Type Headache
+2082,47,142,98,116,285,112,22.3,1,20,Stage 2 Hypertension,Palpitations
+2083,34,158,87,107,238,151,26.8,0,20,Stage 2 Hypertension,Chronic Fatigue
+2084,31,144,100,113,245,105,18.3,0,9,Stage 2 Hypertension,Vertigo
+2085,36,153,94,118,275,95,22.5,0,3,Stage 2 Hypertension,Blurry Vision
+2086,76,199,106,108,239,79,26.7,1,20,Hypertensive Crisis,Nausea
+2087,84,120,107,109,235,100,27.7,0,19,Stage 2 Hypertension,Vertigo
+2088,61,181,77,111,287,166,33.7,1,18,Hypertensive Crisis,Occipital Headache
+2089,49,187,73,65,270,98,29.0,1,20,Hypertensive Crisis,Chronic Fatigue
+2090,28,183,94,117,225,74,25.1,0,8,Hypertensive Crisis,Chronic Fatigue
+2091,19,175,103,64,241,146,33.8,0,1,Stage 2 Hypertension,Palpitations
+2092,85,155,100,104,219,70,31.3,1,24,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2093,34,118,119,84,297,156,21.4,1,24,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2094,57,112,66,104,282,173,20.2,1,15,Normal,Occipital Headache
+2095,63,194,100,63,172,72,29.5,1,19,Hypertensive Crisis,Chronic Fatigue
+2096,21,135,72,98,286,136,27.5,0,26,Stage 1 Hypertension,Palpitations
+2097,55,181,77,56,207,140,31.4,1,10,Hypertensive Crisis,Blurry Vision
+2098,80,157,96,79,195,169,30.6,0,12,Stage 2 Hypertension,Blurry Vision
+2099,46,175,72,98,171,104,28.6,0,28,Stage 2 Hypertension,Vertigo
+2100,36,179,95,65,157,84,34.8,1,6,Stage 2 Hypertension,Shortness of Breath
+2101,46,137,90,100,272,173,27.1,0,29,Stage 2 Hypertension,Nausea
+2102,52,135,61,91,169,136,19.9,1,13,Stage 1 Hypertension,Palpitations
+2103,40,134,75,66,227,162,32.1,1,4,Stage 1 Hypertension,Shortness of Breath
+2104,63,121,68,112,188,99,22.3,1,13,Elevated,Tension-Type Headache
+2105,61,114,68,94,186,172,31.2,0,17,Normal,Blurry Vision
+2106,65,157,97,56,224,151,34.3,0,1,Stage 2 Hypertension,Occipital Headache
+2107,69,146,70,76,267,144,29.8,1,5,Stage 2 Hypertension,Palpitations
+2108,25,188,113,59,253,112,28.1,0,28,Hypertensive Crisis,Chronic Fatigue
+2109,72,153,115,83,180,129,25.8,0,24,Stage 2 Hypertension,Postural Hypotension
+2110,83,124,81,85,272,171,24.2,0,17,Stage 1 Hypertension,Postural Hypotension
+2111,57,152,92,74,203,109,24.0,0,18,Stage 2 Hypertension,Blurry Vision
+2112,48,157,95,55,183,134,28.8,0,7,Stage 2 Hypertension,Palpitations
+2113,65,196,104,73,271,98,30.8,1,16,Hypertensive Crisis,Shortness of Breath
+2114,78,179,82,67,262,143,29.5,0,8,Stage 2 Hypertension,Shortness of Breath
+2115,69,155,104,55,211,161,21.4,0,12,Stage 2 Hypertension,Palpitations
+2116,55,152,104,78,172,164,26.4,1,14,Stage 2 Hypertension,Nausea
+2117,53,130,93,74,195,88,31.5,0,19,Stage 2 Hypertension,Blurry Vision
+2118,72,132,68,104,205,72,26.1,0,11,Stage 1 Hypertension,Tension-Type Headache
+2119,30,189,83,95,284,105,27.1,0,12,Hypertensive Crisis,Vertigo
+2120,54,156,67,73,267,112,31.1,1,13,Stage 2 Hypertension,Palpitations
+2121,64,124,66,75,280,84,29.2,0,8,Elevated,Nausea
+2122,39,134,95,77,262,166,25.0,0,1,Stage 2 Hypertension,Postural Hypotension
+2123,56,145,77,52,193,110,33.2,1,9,Stage 2 Hypertension,Shortness of Breath
+2124,75,184,62,87,277,176,20.8,1,28,Hypertensive Crisis,Occipital Headache
+2125,47,160,87,110,257,178,34.9,0,2,Stage 2 Hypertension,Blurry Vision
+2126,35,124,65,100,166,159,20.0,1,14,Elevated,Shortness of Breath
+2127,35,177,103,97,208,149,18.3,1,13,Stage 2 Hypertension,Tension-Type Headache
+2128,56,130,103,70,287,105,33.1,1,16,Stage 2 Hypertension,Nausea
+2129,43,122,80,103,248,166,22.2,0,2,Stage 1 Hypertension,Postural Hypotension
+2130,24,195,87,105,233,153,30.4,0,4,Hypertensive Crisis,Tension-Type Headache
+2131,82,128,99,108,295,146,31.8,1,12,Stage 2 Hypertension,Vertigo
+2132,63,143,113,100,194,102,32.6,1,16,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2133,35,187,113,69,257,74,34.9,1,10,Hypertensive Crisis,Occipital Headache
+2134,30,177,60,108,211,170,23.0,1,3,Stage 2 Hypertension,Vertigo
+2135,42,161,95,58,208,147,30.1,0,4,Stage 2 Hypertension,Blurry Vision
+2136,25,136,80,50,287,160,20.0,1,6,Stage 1 Hypertension,Shortness of Breath
+2137,49,138,119,78,160,156,24.9,0,23,Stage 2 Hypertension,Chronic Fatigue
+2138,34,137,102,112,251,83,32.4,1,5,Stage 2 Hypertension,Chronic Fatigue
+2139,65,144,94,105,219,173,24.3,0,18,Stage 2 Hypertension,Postural Hypotension
+2140,80,117,72,117,272,137,28.0,0,3,Normal,Palpitations
+2141,57,125,116,84,183,172,26.6,1,10,Stage 2 Hypertension,Shortness of Breath
+2142,32,145,108,52,250,152,29.0,0,11,Stage 2 Hypertension,Chronic Fatigue
+2143,23,139,113,56,294,116,34.5,0,19,Stage 2 Hypertension,Nausea
+2144,80,127,113,76,253,123,18.9,0,14,Stage 2 Hypertension,Hypertensive Crisis Symptoms
+2145,25,111,69,50,189,73,27.8,1,21,Normal,Postural Hypotension
+2146,49,158,112,93,168,163,32.7,0,28,Stage 2 Hypertension,Occipital Headache
+2147,62,186,103,90,216,152,26.2,0,11,Hypertensive Crisis,Vertigo
+2148,69,113,106,91,231,164,19.3,1,28,Stage 2 Hypertension,Vertigo

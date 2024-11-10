@@ -18,18 +18,32 @@ data_adapter._is_distributed_dataset = _is_distributed_dataset
 # Set the path to the local nltk_data folder
 nltk_data_path = os.path.join(os.path.dirname(__file__), "nltk_data")
 nltk.data.path.append(nltk_data_path)
-
 nltk.download('punkt', download_dir=nltk_data_path)
 
 stemmer = LancasterStemmer()
 
+# Construct the path to the intents file
+intents_path = os.path.join(os.path.dirname(__file__), "assets", "intents.json")
+
 # Load the intents file
-with open("intents.json") as file:
+with open(intents_path) as file:
     data = json.load(file)
 
+# Directory path for saving models
+chatbot_dir = os.path.join(os.path.dirname(__file__), "chatBot")
+
+# Ensure the directory exists
+if not os.path.exists(chatbot_dir):
+    os.makedirs(chatbot_dir)
+
+# Paths for model files
+pickle_path = os.path.join(chatbot_dir, "chatbot.pickle")
+json_path = os.path.join(chatbot_dir, "chatbotmodel.json")
+keras_path = os.path.join(chatbot_dir, "chatbotmodel.keras")
+
 # Check if the chatbot.pickle file exists
-if os.path.exists("chatbot.pickle"):
-    with open("chatbot.pickle", "rb") as file:
+if os.path.exists(pickle_path):
+    with open(pickle_path, "rb") as file:
         words, labels, training, output = pickle.load(file)
     print("Loaded data from pickle file.")
 else:
@@ -38,7 +52,7 @@ else:
     labels = []
     docs_x = []
     docs_y = []
-    
+
     for intent in data["intents"]:
         for pattern in intent["patterns"]:
             wrds = nltk.word_tokenize(pattern)
@@ -55,7 +69,7 @@ else:
     training = []
     output = []
     output_empty = [0 for _ in range(len(labels))]
-    
+
     for x, doc in enumerate(docs_x):
         bag = []
         wrds = [stemmer.stem(w.lower()) for w in doc]
@@ -69,15 +83,15 @@ else:
     training = numpy.array(training)
     output = numpy.array(output)
 
-    with open("chatbot.pickle", "wb") as file:
+    with open(pickle_path, "wb") as file:
         pickle.dump((words, labels, training, output), file)
     print("Created and saved chatbot.pickle.")
 
 # Model loading or training
-if os.path.exists('chatbotmodel.json'):
-    with open('chatbotmodel.json', 'r') as json_file:
+if os.path.exists(json_path):
+    with open(json_path, 'r') as json_file:
         loaded_model_json = json_file.read()
-    myChatModel = tf.keras.models.load_model('chatbotmodel.keras')
+    myChatModel = tf.keras.models.load_model(keras_path)
     print("Loaded model from disk")
 else:
     print("No model found, creating a new model...")
@@ -89,9 +103,9 @@ else:
     myChatModel.fit(training, output, epochs=1000, batch_size=8)
 
     model_json = myChatModel.to_json()
-    with open("chatbotmodel.json", "w") as json_file:
+    with open(json_path, "w") as json_file:
         json_file.write(model_json)
-    myChatModel.save('chatbotmodel.keras')
+    myChatModel.save(keras_path)
     print("Saved model to disk")
 
 # Define bag_of_words and chat functions

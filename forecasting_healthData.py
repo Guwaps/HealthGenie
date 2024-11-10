@@ -18,21 +18,21 @@ def train_models(timestamps, systolic_values, diastolic_values):
     y_systolic = df['systolic']
     systolic_model = LinearRegression()
     systolic_model.fit(X, y_systolic)
-    joblib.dump(systolic_model, 'systolic_model.pkl')
+    joblib.dump(systolic_model, 'BPpred/systolic_model.pkl')
 
     # Train diastolic model
     y_diastolic = df['diastolic']
     diastolic_model = LinearRegression()
     diastolic_model.fit(X, y_diastolic)
-    joblib.dump(diastolic_model, 'diastolic_model.pkl')
+    joblib.dump(diastolic_model, 'BPpred/diastolic_model.pkl')
 
     return "Models trained successfully"
 
 # Function to predict future systolic and diastolic values
 def predict_future(future_timestamps):
     # Load models
-    systolic_model = joblib.load('systolic_model.pkl')
-    diastolic_model = joblib.load('diastolic_model.pkl')
+    systolic_model = joblib.load('BPpred/systolic_model.pkl')
+    diastolic_model = joblib.load('BPpred/diastolic_model.pkl')
 
     future_data = pd.DataFrame({
         'timestamp': future_timestamps,
