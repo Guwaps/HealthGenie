@@ -154,6 +154,6 @@ def ping():
     return "Server is up and running!"
 
 if __name__ == '__main__':
-    app.run(host='192.168.210.236', port=5000)
-    # app.run(debug=True)
+    # app.run(host='192.168.210.236', port=5000)
+    app.run(debug=True)
 
